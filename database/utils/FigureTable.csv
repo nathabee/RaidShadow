@@ -1,0 +1,1646 @@
+Champion,Skill,Skill Name,Primary Damage Stat,Base,ATK or DEF Buff,Book,Mastery,Total,Damage Bonus from Books,DamageGrade,Target
+Jintoro,A3,Oni's Rage (5 Hit),ATK,48185,1.5,1.25,1.00,90347,25,Godlike,Single Target
+Errol,A2,Helmbreaker,ATK,40504,1.5,1.45,1.00,88096,45,Godlike,Single Target
+Inquisitor Shamael,A2,Cow the Horrors,ATK,41894,1.5,1.35,1.00,84835,35,Godlike,Single Target
+Royal Huntsman,A3,Dead Aim,ATK,42046,1.5,1.25,1.00,78836,25,Godlike,Single Target
+Mortu-Macaab,A4,Peril,ATK,50458,1.5,1,1.00,75687,0,Godlike,Single Target
+Little Miss Annie,A3,Playdate,ATK,39922,1.5,1.25,1.00,74854,25,Godlike,Single Target
+Teumesia,A3,Burning Regret,ATK,37305,1.5,1.2,1.00,67149,20,Godlike,Single Target
+Fenshi,A3,Killer's Bile,ATK,33879,1.5,1.3,1.00,66064,30,Godlike,Single Target
+Yakarl the Scourge,A2,Blizzard Rider,ATK,35244,1.5,1.1,1.00,58153,10,Godlike,Single Target
+Elder Skarg,A2,Hunt the Marked,ATK,29675,1.5,1.3,1.00,57866,30,Godlike,Single Target
+Roric Wyrmbane,A3,Scale Breaker,ATK,30992,1.5,1.2,1.00,55786,20,Godlike,Single Target
+Whisper,A2,Charged Assault,ATK,29360,1.5,1.25,1.00,55050,25,Godlike,Single Target
+Basileus Roanas,A2,Triple Puncture,ATK,29268,1.5,1.25,1.00,54878,25,Godlike,Single Target
+Alika,A2,High Value Target,ATK,29829,1.5,1.2,1.00,53692,20,Godlike,Single Target
+Juliana,A2,Lethal Partner,ATK,29231,1.5,1.2,1.00,52616,20,Godlike,Single Target
+Gory,A3,Frost Breaker,ATK,28642,1.5,1.2,1.00,51556,20,Godlike,Single Target
+Soulbond Bowyer,A2,Infused Arrow,ATK,26784,1.5,1.25,1.00,50220,25,Godlike,Single Target
+Dirandil,A3,Royal Assassin,ATK,27859,1.5,1.2,1.00,50146,20,Godlike,Single Target
+Ruel the Huntmaster,A2,Unleash the Hunt,ATK,24408,1.5,1.3,1.00,47596,30,Godlike,AoE Enemy
+Torturehelm,A2,Bloodlust,ATK,27537,1.5,1.15,1.00,47501,15,Godlike,Single Target
+Bloodgorged,A3,Decapitate,ATK,28724,1.5,1.1,1.00,47395,10,Strong,Single Target
+Richtoff the Bold,A3,Cursehold,ATK,26704,1.5,1.1,1.00,44062,10,Godlike,Single Target
+Faceless,A3,Ice Bolt,ATK,22531,1.5,1.3,1.00,43935,30,Strong,Single Target
+Gala Longbraids,A2,Fearless Aggression,ATK,23395,1.5,1.25,1.00,43866,25,Godlike,Single Target
+Bonekeeper,A3,Killing Haze,ATK,24312,1.5,1.2,1.00,43762,20,Godlike,Single Target
+Mountain King,A2,Enchanted Axe,HP,34810,1,1.25,1.00,43513,25,Godlike,Single Target
+Cataphract,A3,Helmcleaver,ATK,23067,1.5,1.25,1.00,43251,25,Strong,Single Target
+Turvold,A3,Juggernaut,ATK,21995,1.5,1.3,1.00,42890,30,Godlike,Single Target
+Ogryn Jailer,A2,Confiscate,ATK,23316,1.5,1.2,1.00,41969,20,Godlike,Single Target
+Crypt Witch,A3,Not So Fast,ATK,22245,1.5,1.25,1.00,41709,25,Godlike,Single Target
+Alure,A3,Hellish Blaze,ATK,24946,1.5,1.1,1.00,41161,10,Godlike,Single Target
+Knight-Errant,A3,Death Warrant,ATK,24106,1.5,1.1,1.00,39775,10,Godlike,Single Target
+Kalvalax,A2,Corruption Locus,ATK,20147,1.5,1.3,1.00,39287,30,Godlike,Single Target
+Phranox,A2,Tender Mercies,ATK,19585,1.5,1.3,1.00,38191,30,Godlike,Single Target
+Sir Artimage,A3,Unshakable Valor,ATK,21017,1.5,1.2,1.00,37831,20,Godlike,Single Target
+Candraphon,A1,Punish Hubris,ATK,19374,1.5,1.3,1.00,37779,30,Godlike,Single Target
+Hephraak,A2,Hephraak's Scorn,ATK,20956,1.5,1.2,1.00,37721,20,Godlike,AoE Enemy
+Masked Fearmonger,A3,Well-Used Axe,ATK,21823,1.5,1.15,1.00,37645,15,Godlike,Single Target
+Varl the Destroyer,A3,Calamity Torrent,ATK,19908,1.5,1.25,1.00,37328,25,Godlike,Single Target
+Thea the Tomb Angel,A2,Hexreaper,ATK,24693,1.5,1,1.00,37040,0,Godlike,AoE Enemy
+Gurgoh the Augur,A3,Avalanche,ATK,20212,1.5,1.2,1.00,36382,20,Godlike,Single Target
+Brakus the Shifter,A3,Hunter's Howl,ATK,21694,1.5,1.1,1.00,35795,10,Godlike,Single Target
+Tolf the Maimed,A2,Cut Wide Open,HP,27466,1,1.3,1.00,35706,30,Godlike,Single Target
+Baron,A4,Skypiercer,ATK,23756,1.5,1,1.00,35634,0,Godlike,AoE Enemy
+Rotos the Lost Groom,A3,Fated Destruction,ATK,16826,1.5,1.4,1.00,35335,40,Strong,Single Target
+Hound Spawn,A3,Shattering Strike,ATK,17708,1.5,1.3,1.00,34531,30,Godlike,AoE Enemy
+Brakus the Shifter,A2,Full Moon Rampage,ATK,18298,1.5,1.25,1.00,34309,25,Godlike,Single Target
+Karam,A2,Fit of Rage,ATK,18798,1.5,1.2,1.00,33836,20,Godlike,Single Target
+Ma'Shalled,A3,Open Wounds,ATK,22083,1.5,1,1.00,33125,0,Godlike,Single Target
+Saito,A3,Army Breaker,ATK,18978,1.5,1.15,1.00,32737,15,Godlike,Single Target
+Little Miss Annie,A2,Hollow Doll,ATK,18910,1.5,1.15,1.00,32620,15,Godlike,Single Target
+Perforator,A2,Hardened Tips,ATK,18084,1.5,1.2,1.00,32551,20,Strong,Single Target
+Gerhard the Stone,A2,Show of Valor,ATK,16655,1.5,1.3,1.00,32477,30,Godlike,Single Target
+Hurler,A1,Spin Throw,ATK,16606,1.5,1.3,1.00,32382,30,Godlike,Single Target
+Alika,A1,Gap Shot,ATK,17258,1.5,1.25,1.00,32359,25,Godlike,Single Target
+Fenax,A1,Put Down,ATK,17954,1.5,1.2,1.00,32317,20,Godlike,Single Target
+Bonekeeper,A2,Precision Strike,ATK,17202,1.5,1.25,1.00,32254,25,Godlike,Single Target
+Harrier,A3,Deadeye's Strike,ATK,17686,1.5,1.2,1.00,31835,20,Godlike,Single Target
+Cruetraxa,A1,Dire Perforation,ATK,16897,1.5,1.25,1.00,31682,25,Godlike,Single Target
+Cupidus,A3,Flameout,ATK,19152,1.5,1.1,1.00,31601,10,Godlike,Single Target
+Gwynneth,A3,Flow of Malaise,ATK,16189,1.5,1.3,1.00,31569,30,Godlike,Single Target
+Maranix,A1,Reaper's Due,ATK,17298,1.5,1.2,1.00,31136,20,Godlike,Single Target
+Beast Wrestler,A2,Slaughter Prey,ATK,15586,1.5,1.3,1.00,30393,30,Godlike,Single Target
+Excruciator,A2,Neck Snapper,ATK,16728,1.5,1.2,1.00,30110,20,Godlike,Single Target
+Walking Tomb Dreng,A3,Death's Balance,HP,24466,1,1.2,1.00,29359,20,Strong,Single Target
+Gala Longbraids,A3,Sheer Swagger,ATK,14956,1.5,1.3,1.00,29164,30,Strong,Single Target
+Bushi,A2,Deadly Edge,ATK,15535,1.5,1.25,1.00,29128,25,Godlike,Single Target
+Robar,A3,Merciless Assault,ATK,15484,1.5,1.25,1.00,29033,25,Godlike,AoE Enemy
+Errol,A3,Negation,ATK,13174,1.5,1.45,1.00,28653,45,Godlike,Single Target
+Trunda Giltmallet,A3,Forge Rhythm,ATK,14656,1.5,1.3,1.00,28579,30,Godlike,AoE Enemy
+Ripper,A3,Heavy Slam,ATK,15060,1.5,1.25,1.00,28238,25,Average,Single Target
+Ogryn Jailer,A3,Reprisal,ATK,14456,1.5,1.3,1.00,28189,30,Godlike,Single Target
+Occult Brawler,A2,Curse Eater,ATK,15653,1.5,1.2,1.00,28175,20,Strong,Single Target
+Yaga the Insatiable,A3,Rot From Within,ATK,14308,1.5,1.3,1.00,27901,30,Godlike,Single Target
+Karato Foxhunter,A2,Bedevil,ATK,15483,1.5,1.2,1.00,27869,20,Godlike,Single Target
+Aleksandr the Sharpshooter,A3,Born to Win,ATK,15403,1.5,1.2,1.00,27725,20,Godlike,Single Target
+Madman,A3,Crazed Lunge,ATK,14161,1.5,1.3,1.00,27614,30,Strong,Single Target
+Ninja,A3,Cyan Slash,ATK,15946,1.5,1.15,1.00,27507,15,Average,Single Target
+Fortus,A3,Astral Terrors,DEF,13113,1.6,1.3,1.00,27275,30,Godlike,AoE Enemy
+Shemnath,A3,Humbled and Broken,ATK,15113,1.5,1.2,1.00,27203,20,Godlike,AoE Enemy
+Ramantu Drakesblood,A2,Drake's Fury,ATK,15080,1.5,1.2,1.00,27144,20,Godlike,Single Target
+Umetogi,A2,Silent Parting,ATK,13615,1.5,1.3,1.00,26549,30,Strong,Single Target
+Haarken Greatblade,A1,Blooded Steel,ATK,14746,1.5,1.2,1.00,26543,20,Godlike,Single Target
+Harrier,A2,Puncture Bolts,ATK,16078,1.5,1.1,1.00,26529,10,Strong,Single Target
+Bloodfeather,A3,Charged Shot,ATK,14082,1.5,1.25,1.00,26404,25,Godlike,Single Target
+Trunda Giltmallet,A2,Cloak of Ages,ATK,14656,1.5,1.2,1.00,26381,20,Godlike,Single Target
+Lady Quilen,A2,Glory Hound,ATK,14648,1.5,1.2,1.00,26366,20,Godlike,Single Target
+Konstantin the Dayborn,A1,Sword of Suns,ATK,14641,1.5,1.2,1.00,26354,20,Godlike,Single Target
+Kytis,A3,Bleeding Wounds,ATK,13508,1.5,1.3,1.00,26341,30,Godlike,AoE Enemy
+Vlad the Nightborn,A3,Mind Shroud,ATK,14622,1.5,1.2,1.00,26320,20,Godlike,Single Target
+Hexia,A2,Soulreap,ATK,15181,1.5,1.15,1.00,26187,15,Godlike,Single Target
+Konstantin the Dayborn,A2,Rune Shatter,ATK,14522,1.5,1.2,1.00,26140,20,Godlike,AoE Enemy
+Rae,A2,Arcane Wave,ATK,13402,1.5,1.3,1.00,26134,30,Godlike,AoE Enemy
+Belanor,A3,Overkill,ATK,15786,1.5,1.1,1.00,26047,10,Godlike,Single Target
+Judicator,A3,Execution,ATK,14427,1.5,1.2,1.00,25969,20,Godlike,Single Target
+Drillmaster,A2,Double Tap,ATK,14406,1.5,1.2,1.00,25931,20,Godlike,Single Target
+Baron,A3,Righteous Charge,ATK,14383,1.5,1.2,1.00,25889,20,Godlike,Single Target
+Boltsmith,A3,Piercer Munitions,ATK,14285,1.5,1.2,1.00,25713,20,Strong,Single Target
+Astralon,A2,Divine Immanence,ATK,14255,1.5,1.2,1.00,25659,20,Godlike,Single Target
+Konstantin the Dayborn,A3,Quietude,ATK,14204,1.5,1.2,1.00,25567,20,Godlike,Single Target
+Anax,A1,Piercing Shotels,ATK,14774,1.5,1.15,1.00,25485,15,Godlike,Single Target
+Leorius the Proud,A2,Rage of the Pride,ATK,13012,1.5,1.3,1.00,25373,30,Godlike,AoE Enemy
+Fenax,A3,Sow Feebleness,ATK,14670,1.5,1.15,1.00,25306,15,Godlike,Single Target
+Lua,A3,Lucky Shot,ATK,14029,1.5,1.2,1.00,25252,20,Godlike,Single Target
+Shemnath,A2,Caryatid's Curse,ATK,14016,1.5,1.2,1.00,25229,20,Godlike,Single Target
+Gaius the Gleeful,A3,Explosive Wit,ATK,13992,1.5,1.2,1.00,25186,20,Godlike,Single Target
+Danag Skullreap,A3,Battle Flow,ATK,13429,1.5,1.25,1.00,25179,25,Godlike,Single Target
+Grohak the Bloodied,A3,Lord of War,ATK,13429,1.5,1.25,1.00,25179,25,Godlike,Single Target
+Scabrius,A3,Vicious Spite,ATK,13968,1.5,1.2,1.00,25142,20,Godlike,Single Target
+Leorius the Proud,A1,Lion's Twinclaws,ATK,12883,1.5,1.3,1.00,25122,30,Godlike,Single Target
+Roxam,A3,Flicker Step,ATK,15148,1.5,1.1,1.00,24994,10,Godlike,Single Target
+King Garog,A3,Gore Maker,ATK,13858,1.5,1.2,1.00,24944,20,Godlike,AoE Enemy
+Cruetraxa,A2,Curse of Writhing,ATK,15809,1.5,1.05,1.00,24899,5,Godlike,Single Target
+Sorceress,A2,Magic Arrows,ATK,13805,1.5,1.2,1.00,24849,20,Godlike,Single Target
+Belanor,A2,Insurmountable,ATK,13233,1.5,1.25,1.00,24812,25,Godlike,Single Target
+Saito,A2,Enduring Warrior,ATK,13782,1.5,1.2,1.00,24808,20,Strong,Single Target
+Ruffstone,A3,Slobbering Rush,ATK,13761,1.5,1.2,1.00,24770,20,Average,Single Target
+Painsmith,A3,Helpless Victim,ATK,13205,1.5,1.25,1.00,24759,25,Strong,Single Target
+Turvold,A1,Crackling Blade,ATK,13747,1.5,1.2,1.00,24745,20,Godlike,Single Target
+Aina,A2,Bloody Swath,ATK,14299,1.5,1.15,1.00,24666,15,Strong,Single Target
+Aina,A3,Overmaster,ATK,14299,1.5,1.15,1.00,24666,15,Strong,Single Target
+Vizier Ovelis,A3,Vizier of Poisons,ATK,14922,1.5,1.1,1.00,24621,10,Strong,Single Target
+Gloril Brutebane,A2,Prey Acquired,ATK,14260,1.5,1.15,1.00,24598,15,Strong,Single Target
+Longbeard,A2,Brittleness Curse,ATK,13663,1.5,1.2,1.00,24593,20,Strong,Single Target
+Inithwe Bloodtwin,A2,No Mercy,ATK,12524,1.5,1.3,1.00,24422,30,Strong,Single Target
+Genzin,A3,Fated Vengeance,ATK,13018,1.5,1.25,1.00,24409,25,Strong,Single Target
+Arbalester,A3,Soulbreak,ATK,14734,1.5,1.1,1.00,24311,10,Strong,Single Target
+Galkut,A2,Brutal Battering,ATK,13466,1.5,1.2,1.00,24239,20,Strong,Random Enemy
+Maeve,A3,And Stay Down,ATK,14690,1.5,1.1,1.00,24239,10,Strong,Single Target
+Basilisk,A2,Skullclobber,ATK,13451,1.5,1.2,1.00,24212,20,Strong,Single Target
+Hurndig,A3,Stasis Strike,ATK,13446,1.5,1.2,1.00,24203,20,Godlike,Single Target
+Drake,A3,Decimate,ATK,13405,1.5,1.2,1.00,24129,20,Strong,Single Target
+King Garog,A2,Hack to Bits,ATK,13339,1.5,1.2,1.00,24010,20,Strong,Single Target
+Astralith,A2,Heart Rot,ATK,12746,1.5,1.25,1.00,23899,25,Strong,Single Target
+Kalvalax,A3,Storm of Vitriol,ATK,12255,1.5,1.3,1.00,23897,30,Godlike,AoE Enemy
+Roxam,A2,Jungle Ambush,ATK,14438,1.5,1.1,1.00,23823,10,Strong,Single Target
+Vizier Ovelis,A2,Master of Misery,ATK,12209,1.5,1.3,1.00,23808,30,Strong,Single Target
+Goremask,A2,Go for the Throat,ATK,11729,1.5,1.35,1.00,23751,35,Strong,Single Target
+Baron,A2,Split Asunder,ATK,13185,1.5,1.2,1.00,23733,20,Strong,Single Target
+Yannica,A2,Baffling Speed,ATK,14339,1.5,1.1,1.00,23659,10,Strong,Single Target
+Kyoku,A1,One-Eyed Beast,DEF,13405,1.6,1.1,1.00,23593,10,Godlike,Single Target
+Tuhak the Wanderer,A3,Clever Brutality,ATK,13037,1.5,1.2,1.00,23467,20,Strong,Single Target
+Deathless,A3,Grim Revenge,DEF,11727,1.6,1.25,1.00,23454,25,Godlike,AoE Enemy
+Maeve,A2,Slobber Knocker,ATK,12943,1.5,1.2,1.00,23297,20,Strong,Single Target
+Lady Etessa,A2,Whiplash,ATK,12385,1.5,1.25,1.00,23222,25,Strong,Single Target
+Suwai Firstborn,A3,Deaden Reactions,ATK,13462,1.5,1.15,1.00,23222,15,Strong,Single Target
+Necrohunter,A3,Tomb Stalker,ATK,12895,1.5,1.2,1.00,23211,20,Strong,Single Target
+Tormin the Cold,A2,Iceberg Crush,DEF,12066,1.6,1.2,1.00,23167,20,Strong,Single Target
+Gwynneth,A2,Apathy,ATK,12870,1.5,1.2,1.00,23166,20,Strong,Single Target
+Chani,A2,Soul Fire,ATK,11879,1.5,1.3,1.00,23164,30,Strong,Single Target
+Aothar,A3,Brand,ATK,12338,1.5,1.25,1.00,23134,25,Strong,Single Target
+Defiled Sinner,A2,Ripe for Slaughter,ATK,11820,1.5,1.3,1.00,23049,30,Strong,Single Target
+Haarken Greatblade,A3,Infectious Panic,ATK,12288,1.5,1.25,1.00,23040,25,Strong,Single Target
+Oboro,A3,Ninja Arts,ATK,12262,1.5,1.25,1.00,22991,25,Strong,Single Target
+Rugnor Goldgleam,A3,Gleam of Avarice,ATK,12773,1.5,1.2,1.00,22991,20,Strong,Single Target
+Ripper,A2,No Quarter,ATK,12759,1.5,1.2,1.00,22966,20,Strong,Single Target
+Fahrakin the Fat,A2,Brand of Shame,ATK,13913,1.5,1.1,1.00,22956,10,Strong,Single Target
+Haarken Greatblade,A2,Fearsome Iron Slab,ATK,13852,1.5,1.1,1.00,22856,10,Strong,Single Target
+Anax,A3,Soul Feast,ATK,13851,1.5,1.1,1.00,22854,10,Strong,Single Target
+Juliana,A3,Fire of Purgation,ATK,12684,1.5,1.2,1.00,22831,20,Strong,Single Target
+Fenshi,A2,Nowhere to Run,ATK,13227,1.5,1.15,1.00,22817,15,Strong,Single Target
+Theresc,A2,Dress Down,ATK,12646,1.5,1.2,1.00,22763,20,Strong,Single Target
+Oboro,A2,Mystic Smoke,ATK,13794,1.5,1.1,1.00,22760,10,Strong,Single Target
+Death Hound,A1,Neck Bite,ATK,12644,1.5,1.2,1.00,22759,20,Average,Single Target
+Hollow,A3,Aether Strike,ATK,12614,1.5,1.2,1.00,22705,20,Average,Single Target
+Skimfos the Consumed,A3,Clutch of Woe,ATK,12095,1.5,1.25,1.00,22678,25,Strong,Single Target
+Ultimate Galek,A2,Crushing Hopes,ATK,12047,1.5,1.25,1.00,22588,25,Strong,Single Target
+Soulless,A3,Reign of Terror,DEF,12810,1.6,1.1,1.00,22546,10,Godlike,AoE Enemy
+Leorius the Proud,A3,Awesome Roar,ATK,12525,1.5,1.2,1.00,22545,20,Godlike,AoE Enemy
+Hordin,A2,Bloodletter,ATK,13064,1.5,1.15,1.00,22535,15,Strong,Single Target
+Chopper,A3,Incapacitate,ATK,13022,1.5,1.15,1.00,22463,15,Strong,Single Target
+Acrizia,A3,Shut Down,ATK,13566,1.5,1.1,1.00,22384,10,Strong,Single Target
+Altan,A2,Wall of Flame,DEF,11616,1.6,1.2,1.00,22303,20,Strong,Single Target
+Alaric the Hooded,A2,Demand Chivalry,ATK,12919,1.5,1.15,1.00,22285,15,Strong,Single Target
+Ailil,A2,Pierce the Carapace,ATK,12364,1.5,1.2,1.00,22255,20,Strong,Single Target
+Ruella,A2,No Respite,ATK,13482,1.5,1.1,1.00,22245,10,Strong,Single Target
+Taya,A2,Venom Kunai,ATK,12896,1.5,1.15,1.00,22246,15,Strong,Single Target
+Septimus,A1,Behead,ATK,11856,1.5,1.25,1.00,22230,25,Godlike,Single Target
+Steel Bowyer,A2,Thrill of the Hunt,ATK,10965,1.5,1.35,1.00,22204,35,Strong,Single Target
+Catacomb Councilor,A2,Ghoulish Feeding,ATK,11824,1.5,1.25,1.00,22170,25,Strong,Single Target
+Wanderer,A3,Pierce Through,ATK,12314,1.5,1.2,1.00,22165,20,Average,Single Target
+Marksman,A2,Impressive Shot,ATK,12311,1.5,1.2,1.00,22160,20,Strong,Single Target
+Drake,A2,Final Blow,ATK,12288,1.5,1.2,1.00,22118,20,Strong,Single Target
+Queen Eva,A2,Ancient Curse,ATK,11793,1.5,1.25,1.00,22112,25,Strong,Single Target
+Conquerer,A3,Purge,ATK,11787,1.5,1.25,1.00,22101,25,Strong,Single Target
+Delver,A2,Mark for Death,ATK,12277,1.5,1.2,1.00,22099,20,Strong,Single Target
+Tormentor,A3,Creeping Doom,ATK,12274,1.5,1.2,1.00,22093,20,Strong,Single Target
+Wanderer,A2,Blade Symphony,ATK,12804,1.5,1.15,1.00,22087,15,Strong,Single Target
+Whisper,A3,Unyielding Flurry,ATK,11309,1.5,1.3,1.00,22053,30,Strong,Single Target
+Karam,A3,Rot Away,ATK,13354,1.5,1.1,1.00,22034,10,Strong,Single Target
+Lord Shazar,A1,Damnation,ATK,11751,1.5,1.25,1.00,22033,25,Godlike,Single Target
+Scion,A2,Evil Seed,ATK,12773,1.5,1.15,1.00,22033,15,Strong,Single Target
+Geomancer,A2,Creeping Petrify,ATK,12238,1.5,1.2,1.00,22028,20,Strong,Single Target
+Terrorbeast,A3,Flesh Feast,ATK,12234,1.5,1.2,1.00,22021,20,Strong,Single Target
+Cillian the Lucky,A2,Inflict Misfortune,ATK,12762,1.5,1.15,1.00,22014,15,Strong,Single Target
+Jinglehunter,A2,Jacked Frost,ATK,13269,1.5,1.1,1.00,21894,10,Strong,Single Target
+Hurler,A3,Pin Down,ATK,11657,1.5,1.25,1.00,21857,25,Strong,Single Target
+Yakarl the Scourge,A1,Axe of Allwinter,ATK,13237,1.5,1.1,1.00,21841,10,Godlike,Single Target
+Nobel,A2,Harbinger,ATK,12653,1.5,1.15,1.00,21826,15,Average,Single Target
+Taya,A3,Blood Boil,ATK,12125,1.5,1.2,1.00,21825,20,Strong,Single Target
+Faceless,A2,Lightning,ATK,11627,1.5,1.25,1.00,21801,25,Strong,Single Target
+Cillian the Lucky,A3,Head Ringer,ATK,12102,1.5,1.2,1.00,21784,20,Strong,Single Target
+Exemplar,A3,Capture,ATK,14489,1.5,1,1.00,21734,0,Strong,Single Target
+Jarang,A2,Stunning Toss,ATK,12588,1.5,1.15,1.00,21714,15,Strong,Single Target
+Siegehulk,A3,Siege Breaker,ATK,13158,1.5,1.1,1.00,21711,10,Strong,Single Target
+Harvester,A3,Temporal Burst,ATK,13151,1.5,1.1,1.00,21699,10,Strong,Single Target
+Fayne,A3,Flowing Style,ATK,13098,1.5,1.1,1.00,21612,10,Strong,Single Target
+Gory,A1,Cold Comfort,ATK,11985,1.5,1.2,1.00,21573,20,Godlike,Single Target
+Halberdier,A2,Bisect,ATK,11980,1.5,1.2,1.00,21564,20,Strong,Single Target
+Redeemer,A2,Elven Blade,ATK,13068,1.5,1.1,1.00,21562,10,Strong,Single Target
+Preserver,A1,Exhausting Assault,ATK,13064,1.5,1.1,1.00,21556,10,Godlike,Single Target
+Rhazin Scarhide,A2,Shear,DEF,11222,1.6,1.2,1.00,21546,20,Strong,Single Target
+Outrider,A2,Fire Arrow,ATK,12471,1.5,1.15,1.00,21512,15,Strong,Single Target
+Candraphon,A2,Butcher's Glee,ATK,11946,1.5,1.2,1.00,21503,20,Godlike,AoE Enemy
+Pigsticker,A3,Septic Spearhead,ATK,11921,1.5,1.2,1.00,21458,20,Strong,Single Target
+Lordly Legionary,A2,Outflank,ATK,11916,1.5,1.2,1.00,21449,20,Strong,Single Target
+Baerdal Fellhammer,A2,Fey Protection,ATK,11415,1.5,1.25,1.00,21403,25,Strong,Single Target
+Peydma,A3,Appropriate,DEF,11139,1.6,1.2,1.00,21387,20,Strong,Single Target
+Anax,A2,Deathly Ichors,ATK,12928,1.5,1.1,1.00,21331,10,Strong,Single Target
+Necrohunter,A2,Gravestorm,ATK,11838,1.5,1.2,1.00,21308,20,Godlike,Single Target
+Yelagirna,A3,Sword of Loss,ATK,11834,1.5,1.2,1.00,21301,20,Strong,Single Target
+Confessor,A3,Unyielding Fervor,ATK,12324,1.5,1.15,1.00,21259,15,Strong,Single Target
+Maiden,A3,Sow Confusion,ATK,11808,1.5,1.2,1.00,21254,20,Strong,Single Target
+Head Taker,A2,Weakling!,ATK,10893,1.5,1.3,1.00,21241,30,Strong,Single Target
+Brakus the Shifter,A1,Innocent Blood,ATK,11791,1.5,1.2,1.00,21224,20,Godlike,Single Target
+Hexia,A3,Spirit Harvest,ATK,12860,1.5,1.1,1.00,21219,10,Strong,Single Target
+Ox,A3,Destroy Confidence,ATK,14144,1.5,1,1.00,21216,0,Strong,Single Target
+Heartpiercer,A2,Sight In,ATK,11779,1.5,1.2,1.00,21202,20,Strong,Single Target
+Wyvernbane,A3,Cursefire Spear,ATK,11764,1.5,1.2,1.00,21175,20,Strong,Single Target
+Richtoff the Bold,A2,Bloodletting,ATK,12275,1.5,1.15,1.00,21174,15,Strong,Single Target
+Masked Fearmonger,A2,Haunted Machete,ATK,12261,1.5,1.15,1.00,21150,15,Strong,Single Target
+Skraank,A2,Sup On Blood,ATK,11731,1.5,1.2,1.00,21116,20,Strong,Single Target
+Raider,A1,Savagery,ATK,11727,1.5,1.2,1.00,21109,20,Godlike,Single Target
+Bloodfeather,A2,Armor Breaker,ATK,12235,1.5,1.15,1.00,21105,15,Strong,Single Target
+Reinbeast,A2,Open Slay,DEF,10992,1.6,1.2,1.00,21105,20,Strong,Single Target
+Harrier,A1,Trick Shot,ATK,11255,1.5,1.25,1.00,21103,25,Godlike,Single Target
+Tayrel,A3,Preemptive Strike,DEF,10134,1.6,1.3,1.00,21079,30,Strong,Single Target
+Stitched Beast,A3,Pack Tactics,ATK,10807,1.5,1.3,1.00,21074,30,Strong,Single Target
+Rocktooth,A1,Grab,ATK,11688,1.5,1.2,1.00,21038,20,Godlike,Single Target
+Zargala,A2,Devastate,ATK,11204,1.5,1.25,1.00,21008,25,Strong,Single Target
+Witness,A1,Long Shot,ATK,11202,1.5,1.25,1.00,21004,25,Godlike,Single Target
+Bone Knight,A2,Ancient Seal,ATK,11662,1.5,1.2,1.00,20992,20,Strong,Single Target
+Taurus,A2,Tendon Slash,ATK,12157,1.5,1.15,1.00,20971,15,Strong,Single Target
+Chemist,A2,Alchemic Stunner,ATK,10752,1.5,1.3,1.00,20966,30,Strong,Single Target
+Fayne,A2,Flower's Tears,ATK,11643,1.5,1.2,1.00,20957,20,Strong,Single Target
+Yaga the Insatiable,A2,Hungering Plague,ATK,11640,1.5,1.2,1.00,20952,20,Strong,Single Target
+Dervish,A2,Sealing Arrow,ATK,13928,1.5,1,1.00,20892,0,Strong,Single Target
+Knight-Errant,A1,Half-Sword,ATK,13924,1.5,1,1.00,20886,0,Godlike,Single Target
+Quaestor,A3,Depletion,ATK,11571,1.5,1.2,1.00,20828,20,Strong,Single Target
+Scrapper,A2,Crowd Pleaser,ATK,12061,1.5,1.15,1.00,20805,15,Strong,Single Target
+Gorlos Hellmaw,A3,Gnashing Fangs,ATK,11557,1.5,1.2,1.00,20803,20,Strong,Single Target
+Exemplar,A1,High Stance,ATK,11547,1.5,1.2,1.00,20785,20,Godlike,Single Target
+Fodbor the Bard,A2,Robber's Tale,ATK,12043,1.5,1.15,1.00,20774,15,Strong,Single Target
+Pigsticker,A2,Heartless Curse,ATK,11523,1.5,1.2,1.00,20741,20,Strong,Single Target
+Grimskin,A2,Frustrating Muck,DEF,11261,1.6,1.15,1.00,20720,15,Strong,Single Target
+Crimson Slayer,A2,Flowing Sword,ATK,11036,1.5,1.25,1.00,20693,25,Strong,Single Target
+Solaris,A3,Blinding Bash,ATK,11969,1.5,1.15,1.00,20647,15,Strong,Single Target
+Rowan,A3,Blade Surge,ATK,12511,1.5,1.1,1.00,20643,10,Strong,Single Target
+Dagger,A3,Swordbreak Knife,ATK,11946,1.5,1.15,1.00,20607,15,Strong,Single Target
+Penitent,A1,Sword of Faith,ATK,11426,1.5,1.2,1.00,20567,20,Godlike,Single Target
+Iron Brago,A2,Fearless Charge,DEF,10682,1.6,1.2,1.00,20509,20,Strong,Single Target
+Erinyes,A3,Engulfing Flame,ATK,10891,1.5,1.25,1.00,20421,25,Strong,Single Target
+Skinner,A2,Skinning Slice,ATK,11344,1.5,1.2,1.00,20419,20,Strong,Single Target
+Dilgol,A3,Big Game Hunter,ATK,11816,1.5,1.15,1.00,20383,15,Strong,Single Target
+Cormac the Highpeak,A2,Highpeak's Reach,ATK,11320,1.5,1.2,1.00,20376,20,Strong,Single Target
+Luria,A3,Hex,ATK,11311,1.5,1.2,1.00,20360,20,Strong,Single Target
+Renouncer,A3,Battlefield Grace,ATK,11308,1.5,1.2,1.00,20354,20,Strong,Single Target
+Gloril Brutebane,A3,Heroic Company,ATK,11296,1.5,1.2,1.00,20333,20,Strong,Single Target
+Painsmith,A2,Utter Destruction,ATK,11292,1.5,1.2,1.00,20326,20,Strong,Single Target
+Throatcutter,A2,Gratuitous Death,ATK,10818,1.5,1.25,1.00,20284,25,Strong,Single Target
+Balthus Drauglord,A3,Driven to Slaughter,DEF,11524,1.6,1.1,1.00,20282,10,Strong,Single Target
+Jaeger,A2,Freezing Arrow,ATK,11252,1.5,1.2,1.00,20254,20,Strong,Single Target
+Skink,A3,Catalyze,ATK,10767,1.5,1.25,1.00,20188,25,Strong,Single Target
+Ithos,A3,Extinguish Life,ATK,10747,1.5,1.25,1.00,20151,25,Godlike,AoE Enemy
+Arbalester,A2,Lethargy,ATK,12208,1.5,1.1,1.00,20143,10,Strong,Single Target
+Jizoh,A3,Rile,DEF,11414,1.6,1.1,1.00,20089,10,Strong,Single Target
+Infiltrator,A2,Throwing Knives,ATK,11108,1.5,1.2,1.00,19994,20,Strong,Single Target
+Goremask,A3,Tearing Jaws,ATK,10663,1.5,1.25,1.00,19993,25,Strong,Single Target
+Marquess,A2,Crush the Weak,DEF,11356,1.6,1.1,1.00,19987,10,Godlike,AoE Enemy
+Lightsworn,A2,Brutality,DEF,10403,1.6,1.2,1.00,19974,20,Strong,Single Target
+Deathless,A2,Vile Insults,DEF,10387,1.6,1.2,1.00,19943,20,Strong,Single Target
+Karato Foxhunter,A3,Suppression Ward,ATK,11077,1.5,1.2,1.00,19939,20,Godlike,AoE Enemy
+Gala Longbraids,A1,Brutal Bludgeon,ATK,11547,1.5,1.15,1.00,19919,15,Godlike,Single Target
+Warchief,A2,Marauder,DEF,8887,1.6,1.4,1.00,19907,40,Strong,Single Target
+Lich,A3,Enervation,DEF,10356,1.6,1.2,1.00,19884,20,Strong,Single Target
+Slasher,A2,Chop Apart,ATK,11523,1.5,1.15,1.00,19877,15,Strong,Single Target
+Hurler,A2,Firebolt,ATK,10597,1.5,1.25,1.00,19869,25,Strong,Single Target
+Samar Gemcursed,A2,Emerald Curse,HP,16556,1,1.2,1.00,19867,20,Strong,Single Target
+Ashwalker,A2,Devastator,ATK,11034,1.5,1.2,1.00,19861,20,Strong,Single Target
+Slayer,A3,Debilitate,ATK,11504,1.5,1.15,1.00,19844,15,Strong,Single Target
+Phranox,A3,Isolate,ATK,11496,1.5,1.15,1.00,19831,15,Strong,Single Target
+Ursine Ironhide,A2,Beat Back,DEF,11257,1.6,1.1,1.00,19812,10,Strong,Single Target
+Dracomorph,A1,Seeping Pain,ATK,10562,1.5,1.25,1.00,19804,25,Godlike,Single Target
+Lifetaker,A2,Leg Bind,ATK,11998,1.5,1.1,1.00,19797,10,Strong,Single Target
+Prosecutor,A3,Prosecute,ATK,10992,1.5,1.2,1.00,19786,20,Strong,Single Target
+Quaestor,A2,Guiding Example,ATK,10992,1.5,1.2,1.00,19786,20,Strong,Single Target
+Canoness,A2,Blinding Assault,DEF,10740,1.6,1.15,1.00,19762,15,Strong,Single Target
+Icebound Prospector,A2,Noggin Knocker,ATK,11437,1.5,1.15,1.00,19729,15,Strong,Single Target
+Renouncer,A2,Shining Sword,ATK,10517,1.5,1.25,1.00,19719,25,Strong,Single Target
+Chopper,A2,Grapple,ATK,10932,1.5,1.2,1.00,19678,20,Strong,Single Target
+Harvester,A2,Accursed Scythe,ATK,11398,1.5,1.15,1.00,19662,15,Strong,Single Target
+Hero 4900 name,A3,Skill 49003 name ascended,ATK,10917,1.5,1.2,1.00,19651,20,Strong,Single Target
+Courtier,A2,Denigrate,ATK,10909,1.5,1.2,1.00,19636,20,Strong,Single Target
+Aristocrat,A2,Stinging Rebuke,ATK,10470,1.5,1.25,1.00,19631,25,Strong,Single Target
+Wyvernbane,A2,Setback,ATK,11378,1.5,1.15,1.00,19627,15,Strong,Single Target
+Sandbow,A2,Veinfire Venom,ATK,10454,1.5,1.25,1.00,19601,25,Strong,Single Target
+Conscript,A2,Fusillade,ATK,10889,1.5,1.2,1.00,19600,20,Strong,Single Target
+Raider,A3,Dominate,ATK,10889,1.5,1.2,1.00,19600,20,Strong,Single Target
+Purgator,A3,Humble the Heathen,ATK,10444,1.5,1.25,1.00,19583,25,Strong,Single Target
+Tracker,A2,Haughty Dismissal,ATK,10873,1.5,1.2,1.00,19571,20,Strong,Single Target
+Roshcard the Tower,A2,Sanction,ATK,10429,1.5,1.25,1.00,19554,25,Average,Single Target
+Nogoryo,A2,Abduct By Night,ATK,10838,1.5,1.2,1.00,19508,20,Average,Single Target
+Soulbond Bowyer,A3,Soulbound Shot,ATK,11308,1.5,1.15,1.00,19506,15,Average,Single Target
+Knight-Errant,A2,Mordhau,ATK,11807,1.5,1.1,1.00,19482,10,Average,Single Target
+Elfguard,A2,Impale,ATK,10387,1.5,1.25,1.00,19476,25,Average,Single Target
+Wretch,A3,Gravefire,ATK,10385,1.5,1.25,1.00,19472,25,Average,Single Target
+Maiden,A2,Diminish,ATK,10807,1.5,1.2,1.00,19453,20,Average,Single Target
+Fylja,A2,Crushing Eternity,ATK,12968,1.5,1,1.00,19452,0,Average,Single Target
+Marksman,A3,Thorns,ATK,9975,1.5,1.3,1.00,19451,30,Weak,Random Enemy
+Twinclaw Disciple,A3,Tear to Shreds,ATK,11777,1.5,1.1,1.00,19432,10,Average,Single Target
+Avenger,A3,Fatal Blow,ATK,10786,1.5,1.2,1.00,19415,20,Average,Single Target
+Fireblade,A2,Path of Flame,ATK,11752,1.5,1.1,1.00,19391,10,Average,Single Target
+Slitherbrute,A2,Essence Snatch,ATK,10767,1.5,1.2,1.00,19381,20,Average,Single Target
+Twinclaw Disciple,A2,Tendon Carve,ATK,10762,1.5,1.2,1.00,19372,20,Average,Single Target
+Tunnel Steward,A2,Intensify,ATK,9904,1.5,1.3,1.00,19313,30,Average,Single Target
+Zii Ixchi,A2,Crown Breaker,ATK,10725,1.5,1.2,1.00,19305,20,Average,Single Target
+Flinger,A3,Burn,ATK,9876,1.5,1.3,1.00,19258,30,Average,Single Target
+Slicer,A2,Cut Apart,ATK,10664,1.5,1.2,1.00,19195,20,Average,Single Target
+Solaris,A2,Solar Shield,ATK,10660,1.5,1.2,1.00,19188,20,Average,Single Target
+Hero 4900 name,A2,Skill 49002 name,ATK,11122,1.5,1.15,1.00,19185,15,Average,Single Target
+Mountain King,A3,Regal Force,HP,17425,1,1.1,1.00,19168,10,Average,Single Target
+Bulwark,A2,Meteoric Ignition,DEF,9980,1.6,1.2,1.00,19162,20,Average,Single Target
+Hyria,A2,Poisonous Lily,ATK,11106,1.5,1.15,1.00,19158,15,Average,Single Target
+Cupidus,A2,Flames of Passion,ATK,11608,1.5,1.1,1.00,19153,10,Godlike,AoE Enemy
+Berserker,A2,Havoc,ATK,10636,1.5,1.2,1.00,19145,20,Average,Single Target
+Ritualist,A2,Wrath of Gods,ATK,10634,1.5,1.2,1.00,19141,20,Average,Single Target
+Itinerant,A3,Waste Away,ATK,11088,1.5,1.15,1.00,19127,15,Average,Single Target
+Tormentor,A1,Endless Agonies,ATK,10620,1.5,1.2,1.00,19116,20,Godlike,Single Target
+Amarantine Skeleton,A2,Tomb Blight,DEF,9538,1.6,1.25,1.00,19076,25,Average,Single Target
+Wretch,A2,Lifeleech,ATK,10597,1.5,1.2,1.00,19075,20,Average,Single Target
+Rotos the Lost Groom,A2,Vitality Plunder,ATK,9762,1.5,1.3,1.00,19036,30,Average,Single Target
+Gravechill Killer,A3,Icy Veins,ATK,9396,1.5,1.35,1.00,19027,35,Average,Single Target
+Siegebreaker,A2,Electrocute,ATK,11517,1.5,1.1,1.00,19003,10,Average,Single Target
+Jotun,A3,Sear Away,HP,15806,1,1.2,1.00,18967,20,Average,Single Target
+Drexthar Bloodtwin,A2,Burning Lash,DEF,10305,1.6,1.15,1.00,18961,15,Godlike,AoE Enemy
+Cleopterix,A3,Sky Punishment,ATK,10982,1.5,1.15,1.00,18944,15,Godlike,AoE Enemy
+Duelist,A2,Stunning Slice,ATK,9694,1.5,1.3,1.00,18903,30,Average,Single Target
+Assassin,A2,Lingering Death,ATK,11446,1.5,1.1,1.00,18886,10,Average,Single Target
+Snorting Thug,A2,Ruckus,HP,15732,1,1.2,1.00,18878,20,Weak,Single Target
+Lumberer,A2,Flatten,ATK,11435,1.5,1.1,1.00,18868,10,Average,Single Target
+Assassin,A3,Draught of Sleep,ATK,10476,1.5,1.2,1.00,18857,20,Average,Single Target
+Ox,A2,Shatter Defenses,ATK,12553,1.5,1,1.00,18830,0,Average,Single Target
+Maulie Tankard,A1,Roast,DEF,10230,1.6,1.15,1.00,18823,15,Godlike,Single Target
+Jurojin,A3,True Smite,HP,15663,1,1.2,1.00,18796,20,Average,Single Target
+Maneater,A2,Syphon,ATK,10424,1.5,1.2,1.00,18763,20,Average,Single Target
+Hephraak,A1,Hephraak's Grin,ATK,10414,1.5,1.2,1.00,18745,20,Godlike,Single Target
+Longbeard,A1,Unstoppable Force,ATK,10410,1.5,1.2,1.00,18738,20,Godlike,Single Target
+Frozen Banshee,A2,Cruel Exultation,ATK,9984,1.5,1.25,1.00,18720,25,Average,Single Target
+Stag Knight,A1,Spot Quarry,ATK,10393,1.5,1.2,1.00,18707,20,Godlike,Single Target
+Riho Bonespear,A2,Pressure Points,ATK,9959,1.5,1.25,1.00,18673,25,Average,Single Target
+Malbranche,A3,Demonic Explosives,ATK,12436,1.5,1,1.00,18654,0,Average,Single Target
+Marquess,A3,Freeze Solid,DEF,9712,1.6,1.2,1.00,18647,20,Average,Single Target
+Hound Spawn,A2,Adamantine Teeth,ATK,10786,1.5,1.15,1.00,18606,15,Average,Single Target
+Lordly Legionary,A1,Press the Fight,ATK,10786,1.5,1.15,1.00,18606,15,Godlike,Single Target
+Ithos,A2,Outburst,ATK,9893,1.5,1.25,1.00,18549,25,Godlike,AoE Enemy
+Errol,A1,Blazing Sword,ATK,9880,1.5,1.25,1.00,18525,25,Godlike,Single Target
+Thrasher,A2,Thrash,ATK,11224,1.5,1.1,1.00,18520,10,Average,Single Target
+Ragash,A2,Fur Typhoon,DEF,10520,1.6,1.1,1.00,18515,10,Godlike,AoE Enemy
+Hellfreak,A2,Mind Games,ATK,10282,1.5,1.2,1.00,18508,20,Average,Single Target
+Treefeller,A2,Chop Down,ATK,10718,1.5,1.15,1.00,18489,15,Average,Single Target
+Flailer,A3,Fury Swipe,DEF,9589,1.6,1.2,1.00,18411,20,Average,Single Target
+Chevalier,A2,Stern Rebuke,DEF,11499,1.6,1,1.00,18398,0,Average,Single Target
+Battle Sister,A2,Condemn,ATK,10664,1.5,1.15,1.00,18395,15,Average,Single Target
+Jintoro,A2,Blood Freeze,ATK,9806,1.5,1.25,1.00,18386,25,Strong,Single Target
+Judge,A1,Eviscerate,ATK,9800,1.5,1.25,1.00,18375,25,Godlike,Single Target
+Adjudicator,A2,Slowing Sanction,ATK,11120,1.5,1.1,1.00,18348,10,Average,Single Target
+Huntress,A2,Incinerate,ATK,10180,1.5,1.2,1.00,18324,20,Average,Single Target
+Inithwe Bloodtwin,A1,Vitality Censure,ATK,9393,1.5,1.3,1.00,18316,30,Godlike,Single Target
+Ma'Shalled,A1,Bloodsucker,ATK,8700,1.5,1.4,1.00,18270,40,Godlike,AoE Enemy
+Ma'Shalled,A1,Bloodsucker,ATK,8700,1.5,1.4,1.00,18270,40,Godlike,Single Target
+Crossbowman,A3,Blunted Arrow,ATK,9724,1.5,1.25,1.00,18233,25,Average,Single Target
+Robar,A2,Wild Swing,ATK,10568,1.5,1.15,1.00,18230,15,Godlike,AoE Enemy
+Abbess,A2,Mass Impalement,ATK,12148,1.5,1,1.00,18222,0,Godlike,AoE Enemy
+Interceptor,A2,Somnolent Toxin,DEF,9474,1.6,1.2,1.00,18190,20,Average,Single Target
+Rae,A3,Banish,ATK,11013,1.5,1.1,1.00,18171,10,Godlike,AoE Enemy
+Bystophus,A2,Shadow Strike,ATK,8640,1.5,1.4,1.00,18144,40,Godlike,AoE Enemy
+Judicator,A2,Undermine,ATK,10994,1.5,1.1,1.00,18140,10,Average,Single Target
+Ithos,A1,Gouge,ATK,9282,1.5,1.3,1.00,18100,30,Godlike,Single Target
+Elenaril,A2,Smolder,ATK,10051,1.5,1.2,1.00,18092,20,Godlike,AoE Enemy
+Gravechill Killer,A2,Blood Chill,ATK,12055,1.5,1,1.00,18083,0,Average,Single Target
+Ragemonger,A3,Scorch Shot,ATK,10958,1.5,1.1,1.00,18081,10,Average,Single Target
+Jintoro,A3,Oni's Rage (1 Hit),ATK,9637,1.5,1.25,1.00,18069,25,Godlike,Single Target
+Conquerer,A2,Cut Down To Size,ATK,10945,1.5,1.1,1.00,18059,10,Average,Single Target
+Ruffstone,A2,Tender Meat,ATK,9245,1.5,1.3,1.00,18028,30,Average,Single Target
+Roric Wyrmbane,A2,Dragon Rage,ATK,10014,1.5,1.2,1.00,18025,20,Average,Single Target
+Tuhanarak,A2,Radiant Suffering,DEF,10240,1.6,1.1,1.00,18022,10,Average,Single Target
+Excruciator,A1,Flicker Strike,ATK,10008,1.5,1.2,1.00,18014,20,Godlike,Single Target
+Stitched Beast,A2,Virulent Spittle,ATK,10007,1.5,1.2,1.00,18013,20,Average,Single Target
+Dirandil,A2,Dispatch Them,ATK,9995,1.5,1.2,1.00,17991,20,Godlike,AoE Enemy
+Staltus Dragonbane,A2,Drakehunter Tactics,DEF,9369,1.6,1.2,1.00,17988,20,Godlike,AoE Enemy
+Bushi,A1,Rising Storm,ATK,9987,1.5,1.2,1.00,17977,20,Godlike,Single Target
+Vlad the Nightborn,A2,Exsanguinate,ATK,10413,1.5,1.15,1.00,17962,15,Godlike,AoE Enemy
+War Mother,A3,Mother's Touch,ATK,10379,1.5,1.15,1.00,17904,15,Godlike,AoE Enemy
+Retainer,A3,Hypnotize,DEF,8594,1.6,1.3,1.00,17876,30,Average,Single Target
+Rocktooth,A3,Rabble,ATK,9497,1.5,1.25,1.00,17807,25,Average,Single Target
+Zavia,A3,Deadly Catalyst,ATK,9891,1.5,1.2,1.00,17804,20,Godlike,AoE Enemy
+Husk,A3,Retaliate,ATK,9880,1.5,1.2,1.00,17784,20,Average,Single Target
+Nogdar the Headhunter,A1,Brutal Verdict,ATK,8460,1.5,1.4,1.00,17766,40,Godlike,Single Target
+Skink,A2,Withering Poison,ATK,10767,1.5,1.1,1.00,17766,10,Average,Single Target
+Fencer,A2,Pommel Strike,ATK,10295,1.5,1.15,1.00,17759,15,Average,Single Target
+Ginro the Stork,A2,Befuddle,DEF,9643,1.6,1.15,1.00,17743,15,Average,Single Target
+Astralon,A3,Light of Sanctity,ATK,9831,1.5,1.2,1.00,17696,20,Godlike,AoE Enemy
+Abbess,A3,Divine Wrath,ATK,10719,1.5,1.1,1.00,17686,10,Godlike,AoE Enemy
+Karato Foxhunter,A1,Three Visitations,ATK,10719,1.5,1.1,1.00,17686,10,Godlike,Single Target
+War Mother,A2,Special Brew,ATK,9802,1.5,1.2,1.00,17644,20,Godlike,AoE Enemy
+Versulf the Grim,A2,Reign of Sorrow,HP,16024,1,1.1,1.00,17626,10,Godlike,AoE Enemy
+Saito,A3,Army Breaker,ATK,10167,1.5,1.15,1.00,17538,15,Godlike,AoE Enemy
+Juliana,A1,Battledance,ATK,10147,1.5,1.15,1.00,17504,15,Godlike,Single Target
+Azure,A3,Coup de Grace,ATK,8960,1.5,1.3,1.00,17472,30,Average,Single Target
+Hatchet Slinger,A1,Axe Frenzy,ATK,9701,1.5,1.2,1.00,17462,20,Godlike,Single Target
+Aleksandr the Sharpshooter,A2,Spraydown,ATK,10122,1.5,1.15,1.00,17460,15,Godlike,AoE Enemy
+Sanctum Protector,A3,False Bravado,DEF,10905,1.6,1,1.00,17448,0,Average,Single Target
+Warmaiden,A2,Opportunity Strike,ATK,9686,1.5,1.2,1.00,17435,20,Average,Single Target
+Yakarl the Scourge,A3,Glaciate,ATK,9685,1.5,1.2,1.00,17433,20,Godlike,AoE Enemy
+Gurgoh the Augur,A1,Icebreaker,ATK,10106,1.5,1.15,1.00,17433,15,Godlike,Single Target
+Deathchanter,A2,Bully,ATK,8579,1.5,1.35,1.00,17372,35,Average,Single Target
+Narma the Returned,A3,Toxin Trance,ATK,10066,1.5,1.15,1.00,17364,15,Average,Single Target
+Honor Guard,A3,Astral Chains,DEF,9041,1.6,1.2,1.00,17359,20,Average,Single Target
+Cleopterix,A2,Feather Barrage,ATK,10515,1.5,1.1,1.00,17350,10,Godlike,AoE Enemy
+Bloodbraid,A2,Tireless Assault,ATK,9252,1.5,1.25,1.00,17348,25,Average,Single Target
+Skirmisher,A2,Hexed Arrow,ATK,9248,1.5,1.25,1.00,17340,25,Average,Single Target
+Slitherbrute,A3,Punish Hubris,ATK,11550,1.5,1,1.00,17325,0,Average,Single Target
+Roric Wyrmbane,A1,Wyrmslayer Hammer,ATK,10014,1.5,1.15,1.00,17274,15,Godlike,Single Target
+Pitiless One,A1,Split Arrow,ATK,9569,1.5,1.2,1.00,17224,20,Godlike,Single Target
+Vagabond,A2,Ominous Visit,ATK,10386,1.5,1.1,1.00,17137,10,Average,Single Target
+Staltus Dragonbane,A3,Dragon Heart,DEF,8923,1.6,1.2,1.00,17132,20,Godlike,AoE Enemy
+Honor Guard,A2,Fate Transfer,DEF,9307,1.6,1.15,1.00,17125,15,Average,Single Target
+Magnarr,A2,Percussive Pound,HP,13172,1,1.3,1.00,17124,30,Godlike,AoE Enemy
+Grandmaster,A3,Demoralizing Display,ATK,9923,1.5,1.15,1.00,17117,15,Average,Single Target
+Bloodbraid,A3,Lifecurse,ATK,9118,1.5,1.25,1.00,17096,25,Average,Single Target
+Big 'Un,A3,Molten Slag,ATK,9109,1.5,1.25,1.00,17079,25,Godlike,AoE Enemy
+Ignatius,A3,Turn to Ash,DEF,10162,1.6,1.05,1.00,17072,5,Godlike,AoE Enemy
+Crypt Witch,A1,Fetid Steel,ATK,9481,1.5,1.2,1.00,17066,20,Godlike,Single Target
+Brute,A2,Rip and Tear,ATK,9467,1.5,1.2,1.00,17041,20,Average,Single Target
+Hellfang,A2,Hunter's Mark,ATK,9463,1.5,1.2,1.00,17033,20,Average,Single Target
+Panthera,A2,Devitalize,ATK,9874,1.5,1.15,1.00,17033,15,Average,Single Target
+Jarang,A1,Armor Piercer,ATK,9080,1.5,1.25,1.00,17025,25,Strong,Single Target
+Veteran,A2,Head Hunter,DEF,7599,1.6,1.4,1.00,17022,40,Average,Single Target
+Gomlok Skyhide,A2,Fateful Trickster,ATK,10282,1.5,1.1,1.00,16965,10,Average,Single Target
+Lua,A2,Hail of Arrows,ATK,9820,1.5,1.15,1.00,16940,15,Godlike,AoE Enemy
+Ghoulish Ranger,A1,Numbing Arrows,ATK,9816,1.5,1.15,1.00,16933,15,Godlike,Single Target
+Amarantine Skeleton,A3,Rusted Targe,DEF,9197,1.6,1.15,1.00,16922,15,Average,Single Target
+Ragash,A1,Tiger's Greatclaws,DEF,8808,1.6,1.2,1.00,16911,20,Godlike,Single Target
+Nogoryo,A3,Faster Than The Eye,ATK,9379,1.5,1.2,1.00,16882,20,Godlike,AoE Enemy
+Trugorr,A2,Maniacal Chopping,ATK,10228,1.5,1.1,1.00,16876,10,Average,Single Target
+Rhazin Scarhide,A1,Bone Sword,DEF,8417,1.6,1.25,1.00,16834,25,Godlike,Single Target
+Bombardier,A2,Skirmish Tactics,ATK,9352,1.5,1.2,1.00,16834,20,Average,Single Target
+Andryssia,A2,Mind Prison,DEF,10502,1.6,1,1.00,16803,0,Average,Single Target
+Hollow,A2,Creeping Dark,ATK,9327,1.5,1.2,1.00,16789,20,Average,Single Target
+Penitent,A2,Counter,ATK,9724,1.5,1.15,1.00,16774,15,Average,Single Target
+Drake,A1,Death from Above,ATK,8937,1.5,1.25,1.00,16757,25,Godlike,Single Target
+Pounder,A2,Spreading Ice,DEF,10386,1.6,1,1.00,16618,0,Average,Single Target
+Fu-Shan,A2,Frightful Claws,ATK,8862,1.5,1.25,1.00,16616,25,Godlike,AoE Enemy
+Fu-Shan,A1,Howl,ATK,8862,1.5,1.25,1.00,16616,25,Godlike,Single Target
+Genzin,A1,Flowing Cuts,ATK,9231,1.5,1.2,1.00,16616,20,Godlike,Single Target
+Gaius the Gleeful,A2,Jester's Remedy,ATK,9167,1.5,1.2,1.00,16501,20,Godlike,AoE Enemy
+Danag Skullreap,A2,Bane of Elves,ATK,9559,1.5,1.15,1.00,16489,15,Godlike,AoE Enemy
+Scabrius,A2,Gnawing Horde,ATK,9545,1.5,1.15,1.00,16465,15,Godlike,AoE Enemy
+Hegemon,A2,Crippling Cold,ATK,8421,1.5,1.3,1.00,16421,30,Godlike,AoE Enemy
+Souldrinker,A1,Razing Hand,ATK,9109,1.5,1.2,1.00,16396,20,Godlike,Single Target
+Maranix,A2,Excruciate,ATK,9104,1.5,1.2,1.00,16387,20,Godlike,AoE Enemy
+hero 3750 name,A2,Skill 37502 name,ATK,9101,1.5,1.2,1.00,16382,20,Average,Single Target
+Queen Eva,A3,Energy Drain,ATK,8717,1.5,1.25,1.00,16344,25,Godlike,AoE Enemy
+Bloodgorged,A1,Break Defense,ATK,9881,1.5,1.1,1.00,16304,10,Godlike,Single Target
+Belanor,A1,Swordleader,ATK,8357,1.5,1.3,1.00,16296,30,Godlike,Single Target
+Acrizia,A2,Battlefield Domination,ATK,9044,1.5,1.2,1.00,16279,20,Godlike,AoE Enemy
+Spikehead,A3,Rip,ATK,8680,1.5,1.25,1.00,16275,25,Average,Single Target
+Staltus Dragonbane,A1,Axe of Glory,DEF,8476,1.6,1.2,1.00,16274,20,Godlike,Single Target
+Trunda Giltmallet,A1,Golden Mallet,ATK,9038,1.5,1.2,1.00,16268,20,Godlike,Single Target
+Mortu-Macaab,A1,Stigmata,ATK,8666,1.5,1.25,1.00,16249,25,Godlike,Single Target
+Quaestor,A1,Undaunted Assault,ATK,9025,1.5,1.2,1.00,16245,20,Godlike,Single Target
+Michinaki,A2,Dire Whorl,DEF,8436,1.6,1.2,1.00,16197,20,Strong,AoE Enemy
+Aina,A1,Ferocity,ATK,9384,1.5,1.15,1.00,16187,15,Godlike,Single Target
+Big 'Un,A2,Forward Charge,ATK,8630,1.5,1.25,1.00,16181,25,Strong,AoE Enemy
+Bloodgorged,A2,Raging Beast,ATK,8983,1.5,1.2,1.00,16169,20,Strong,AoE Enemy
+Urticata,A2,Poison Agonist,ATK,10777,1.5,1,1.00,16166,0,Average,Single Target
+Vanguard,A2,Inescapable Wrath,ATK,8974,1.5,1.2,1.00,16153,20,Average,Single Target
+Militia,A2,Piercing Bolt,ATK,10219,1.5,1.05,1.00,16095,5,Average,Single Target
+Skullcrown,A2,Corrupting Touch,ATK,9735,1.5,1.1,1.00,16063,10,Strong,AoE Enemy
+Nethril,A3,Bat Swarm,ATK,8923,1.5,1.2,1.00,16061,20,Strong,AoE Enemy
+Nethril,A2,Ghastly Horrors,ATK,10707,1.5,1,1.00,16061,0,Strong,AoE Enemy
+Skraank,A3,Unleash Havoc,ATK,8915,1.5,1.2,1.00,16047,20,Strong,AoE Enemy
+Bystophus,A1,Horror,ATK,8910,1.5,1.2,1.00,16038,20,Godlike,Single Target
+Beast Wrestler,A1,Weighty Cleaver,ATK,8907,1.5,1.2,1.00,16033,20,Godlike,Single Target
+Nogdar the Headhunter,A2,Gore Feast,ATK,8204,1.5,1.3,1.00,15998,30,Godlike,AoE Enemy
+Yannica,A3,Elven Judgment,ATK,8194,1.5,1.3,1.00,15978,30,Strong,AoE Enemy
+Sinesha,A2,Vaporize,ATK,9252,1.5,1.15,1.00,15960,15,Average,Single Target
+Vlad the Nightborn,A1,Thirsting Blade,ATK,8862,1.5,1.2,1.00,15952,20,Godlike,Single Target
+Daywalker,A1,Grave's Grasp,ATK,8850,1.5,1.2,1.00,15930,20,Godlike,Single Target
+Cromax Moonblood,A2,Moonlight Bonds,DEF,9049,1.6,1.1,1.00,15926,10,Average,Single Target
+Zavia,A2,Poison Rain,ATK,9649,1.5,1.1,1.00,15921,10,Strong,AoE Enemy
+Pitiless One,A2,Projectile Burst,ATK,8481,1.5,1.25,1.00,15902,25,Strong,AoE Enemy
+Narma the Returned,A2,Weirding Dance,ATK,9622,1.5,1.1,1.00,15876,10,Average,Single Target
+Minaya,A2,Mending Ways,ATK,8141,1.5,1.3,1.00,15875,30,Average,Single Target
+Lady Etessa,A1,Blessed Missiles,ATK,8816,1.5,1.2,1.00,15869,20,Godlike,Single Target
+Grappler,A2,Soul Sizzle,ATK,9613,1.5,1.1,1.00,15861,10,Average,Single Target
+Grandmaster,A2,Steel Crusher,ATK,10057,1.5,1.05,1.00,15840,5,Average,Single Target
+Mountain King,A1,Thunder Cleave,HP,13187,1,1.2,1.00,15824,20,Godlike,Single Target
+Tigersoul,A2,Wearying Tactics,ATK,8103,1.5,1.3,1.00,15801,30,Average,Single Target
+Grohak the Bloodied,A2,Unbound Anger,ATK,8421,1.5,1.25,1.00,15789,25,Strong,AoE Enemy
+Bloodfeather,A1,Hunt Down,ATK,8772,1.5,1.2,1.00,15790,20,Godlike,Single Target
+Theresc,A3,Hate's Flowers,ATK,9132,1.5,1.15,1.00,15753,15,Strong,AoE Enemy
+Hurndig,A2,Arcane Tempest,ATK,9542,1.5,1.1,1.00,15744,10,Strong,AoE Enemy
+Kreela Witch-Arm,A2,Blinding Glow,ATK,9538,1.5,1.1,1.00,15738,10,Average,Single Target
+Crohnam,A3,Blazing Zephyr,ATK,9528,1.5,1.1,1.00,15721,10,Strong,AoE Enemy
+Ninja,A3,Cyan Slash,ATK,9110,1.5,1.15,1.00,15715,15,Average,AoE Enemy
+Ramantu Drakesblood,A3,Blood Wings,ATK,10473,1.5,1,1.00,15710,0,Strong,AoE Enemy
+Robar,A1,Stunning Strength,ATK,8356,1.5,1.25,1.00,15668,25,Godlike,Single Target
+Basileus Roanas,A3,Majesty,ATK,8702,1.5,1.2,1.00,15664,20,Strong,AoE Enemy
+Ignatius,A2,Battle Shout,DEF,8892,1.6,1.1,1.00,15650,10,Strong,AoE Enemy
+Tatura Rimehide,A3,Otherworld Breach,DEF,8504,1.6,1.15,1.00,15647,15,Strong,AoE Enemy
+Purgator,A2,Great Purge,ATK,8689,1.5,1.2,1.00,15640,20,Strong,AoE Enemy
+Gaius the Gleeful,A1,Chuckling Sickles,ATK,8684,1.5,1.2,1.00,15631,20,Godlike,Single Target
+Roxam,A3,Flicker Step,ATK,9468,1.5,1.1,1.00,15622,10,Godlike,AoE Enemy
+Deathchanter,A3,Bleed Out,ATK,8331,1.5,1.25,1.00,15621,25,Average,Single Target
+Little Miss Annie,A1,Pretty Nails,ATK,9467,1.5,1.1,1.00,15621,10,Godlike,Single Target
+Hurndig,A3,Stasis Strike,ATK,8675,1.5,1.2,1.00,15615,20,Godlike,AoE Enemy
+Hurndig,A1,Lethal Lust,ATK,8675,1.5,1.2,1.00,15615,20,Godlike,Single Target
+Foli,A3,Sealed Fate,ATK,9044,1.5,1.15,1.00,15601,15,Godlike,AoE Enemy
+Teumesia,A2,Cunning Chaos,ATK,9044,1.5,1.15,1.00,15601,15,Strong,AoE Enemy
+Foli,A3,Sealed Fate,ATK,9044,1.5,1.15,1.00,15601,15,Godlike,Single Target
+Varl the Destroyer,A2,Lay Waste,ATK,9044,1.5,1.15,1.00,15601,15,Strong,AoE Enemy
+Justiciar,A2,Contemptuous Blow,ATK,9447,1.5,1.1,1.00,15588,10,Average,Single Target
+Hellgazer,A3,Malign Lightning,ATK,8655,1.5,1.2,1.00,15579,20,Strong,AoE Enemy
+Yannica,A1,Even the Odds,ATK,8649,1.5,1.2,1.00,15568,20,Godlike,Single Target
+Ruel the Huntmaster,A1,Vile Arrows,ATK,9024,1.5,1.15,1.00,15566,15,Godlike,Single Target
+Lyssandra,A2,Exhaustion,ATK,8631,1.5,1.2,1.00,15536,20,Average,Single Target
+Baron,A1,Trample,ATK,8630,1.5,1.2,1.00,15534,20,Godlike,Single Target
+Valla,A2,Crush The Wall,DEF,8089,1.6,1.2,1.00,15531,20,Strong,AoE Enemy
+Genzin,A2,Steel Parting,ATK,8994,1.5,1.15,1.00,15515,15,Strong,AoE Enemy
+Inithwe Bloodtwin,A3,Tormenting Whispers,ATK,9393,1.5,1.1,1.00,15498,10,Strong,AoE Enemy
+Chaagur,A2,Venom Storm,ATK,8608,1.5,1.2,1.00,15494,20,Strong,AoE Enemy
+Kreela Witch-Arm,A1,Witchlight Barrier,ATK,8603,1.5,1.2,1.00,15485,20,Godlike,Single Target
+Elhain,A1,Keen Shot,ATK,8252,1.5,1.25,1.00,15473,25,Godlike,Single Target
+Mistress of Hymns,A2,Song of Triumph,ATK,8596,1.5,1.2,1.00,15473,20,Average,Single Target
+Varl the Destroyer,A1,Ravaging Leech,ATK,8592,1.5,1.2,1.00,15466,20,Godlike,Single Target
+Septimus,A2,Holy Sword,ATK,8234,1.5,1.25,1.00,15439,25,Godlike,Single Target
+Kallia,A2,Curse of Nullity,ATK,9352,1.5,1.1,1.00,15431,10,Strong,AoE Enemy
+Maranix,A3,Inexorable End,ATK,9332,1.5,1.1,1.00,15398,10,Strong,AoE Enemy
+Sanguinia,A3,Sacrificial Lamb,ATK,8920,1.5,1.15,1.00,15387,15,Average,Single Target
+Jinglehunter,A3,Cold Snap,ATK,8546,1.5,1.2,1.00,15383,20,Strong,AoE Enemy
+Astralith,A1,Assault Leader,ATK,8194,1.5,1.25,1.00,15364,25,Godlike,Single Target
+Royal Huntsman,A2,Slaughter Volley,ATK,8521,1.5,1.2,1.00,15338,20,Strong,AoE Enemy
+Genbo the Dishonored,A2,Heartless Blitz,ATK,8515,1.5,1.2,1.00,15327,20,Strong,AoE Enemy
+Genbo the Dishonored,A1,Twin Soulswords,ATK,8515,1.5,1.2,1.00,15327,20,Godlike,Single Target
+Martyr,A3,Suppression,DEF,7983,1.6,1.2,1.00,15327,20,Strong,AoE Enemy
+Elhain,A3,Valley of Death,ATK,8164,1.5,1.25,1.00,15308,25,Strong,AoE Enemy
+Galek,A2,Hellraiser,ATK,8153,1.5,1.25,1.00,15287,25,Strong,AoE Enemy
+Basileus Roanas,A1,Bolts of Scorn,ATK,8466,1.5,1.2,1.00,15239,20,Godlike,Single Target
+Nobel,A1,Smell Fear,ATK,9231,1.5,1.1,1.00,15231,10,Godlike,Single Target
+Fleshmonger,A1,Thorough Butchery,ATK,7521,1.5,1.35,1.00,15230,35,Godlike,Single Target
+Vizier Ovelis,A1,Accursed Blades,ATK,8818,1.5,1.15,1.00,15211,15,Godlike,Single Target
+Kalvalax,A1,Oozing Greatsword,ATK,8814,1.5,1.15,1.00,15204,15,Godlike,Single Target
+Oboro,A1,Spreading Chaos,ATK,9196,1.5,1.1,1.00,15173,10,Godlike,Single Target
+Kael,A2,Acid Rain,ATK,8425,1.5,1.2,1.00,15165,20,Strong,AoE Enemy
+Ailil,A3,Chill Wind of Autumn,ATK,8408,1.5,1.2,1.00,15134,20,Strong,AoE Enemy
+War Mother,A1,Cry Havoc,ATK,8764,1.5,1.15,1.00,15118,15,Godlike,Single Target
+Sicia Flametongue,A2,Flame Eruption,ATK,8761,1.5,1.15,1.00,15113,15,Strong,AoE Enemy
+Saito,A1,Unbearable Assault,ATK,9150,1.5,1.1,1.00,15098,10,Strong,Single Target
+Sir Artimage,A1,Nobleman's Mace,ATK,8380,1.5,1.2,1.00,15084,20,Godlike,Single Target
+Sir Artimage,A2,Ring True,ATK,8379,1.5,1.2,1.00,15082,20,Strong,AoE Enemy
+Raglin,A1,Repent,ATK,8041,1.5,1.25,1.00,15077,25,Godlike,Single Target
+Sniper,A1,Double Shot,ATK,8036,1.5,1.25,1.00,15068,25,Godlike,Single Target
+Suwai Firstborn,A2,Utter Rampage,ATK,8362,1.5,1.2,1.00,15052,20,Strong,AoE Enemy
+Cupidus,A1,Heartbreaker,ATK,8343,1.5,1.2,1.00,15017,20,Godlike,AoE Enemy
+Elenaril,A1,Searing Rebuke,ATK,7698,1.5,1.3,1.00,15011,30,Godlike,Single Target
+Black Knight,A3,Last Breath,HP,12496,1,1.2,1.00,14995,20,Strong,AoE Enemy
+Scabrius,A1,Gutter Knife,ATK,9079,1.5,1.1,1.00,14980,10,Godlike,Single Target
+Rhazin Scarhide,A3,Bog Down,DEF,7481,1.6,1.25,1.00,14962,25,Strong,AoE Enemy
+Malbranche,A2,Bident Mastery,ATK,8668,1.5,1.15,1.00,14952,15,Average,Single Target
+Teshada,A3,Spirit Appeasement,DEF,9344,1.6,1,1.00,14950,0,Average,Single Target
+Archmage Hellmut,A2,Timeslip,ATK,8296,1.5,1.2,1.00,14933,20,Strong,Single Target
+Sicia Flametongue,A3,Firestorm Rite,ATK,8288,1.5,1.2,1.00,14918,20,Strong,AoE Enemy
+Tallia,A2,Rise to Duty,ATK,7955,1.5,1.25,1.00,14916,25,Strong,AoE Enemy
+Kurzad Deepheart,A1,Bushwhack,ATK,7648,1.5,1.3,1.00,14914,30,Godlike,Single Target
+Nobel,A3,Dismay,ATK,9468,1.5,1.05,1.00,14912,5,Strong,AoE Enemy
+Bystophus,A3,Crumble,ATK,8640,1.5,1.15,1.00,14904,15,Strong,AoE Enemy
+Sachi,A2,Heart Pierce,ATK,8267,1.5,1.2,1.00,14881,20,Average,Single Target
+Shatterbones,A2,Hail,ATK,9446,1.5,1.05,1.00,14877,5,Strong,AoE Enemy
+Helicath,A2,Winds of the Pit,DEF,7747,1.6,1.2,1.00,14874,20,Strong,AoE Enemy
+Shaman,A2,Exploit Weakness,ATK,8260,1.5,1.2,1.00,14868,20,Average,Single Target
+Sachi,A3,Shadow Ambush,ATK,8619,1.5,1.15,1.00,14868,15,Average,Single Target
+Wuji,A2,World of Darkness,ATK,8996,1.5,1.1,1.00,14843,10,Strong,AoE Enemy
+Arix,A2,Thornchain Malison,HP,12348,1,1.2,1.00,14818,20,Strong,AoE Enemy
+Bombardier,A3,Septic Shot,ATK,8978,1.5,1.1,1.00,14814,10,Average,Single Target
+Headsman,A2,Headman's Due,ATK,8578,1.5,1.15,1.00,14797,15,Strong,AoE Enemy
+Alika,A3,Disorient,ATK,8218,1.5,1.2,1.00,14792,20,Strong,AoE Enemy
+Umbral Enchantress,A3,Undying Evil,DEF,7704,1.6,1.2,1.00,14792,20,Strong,AoE Enemy
+Tomb Lord,A2,Death Burst,ATK,9839,1.5,1,1.00,14759,0,Average,Single Target
+Lady Eresh,A2,Blur of Knives,ATK,7864,1.5,1.25,1.00,14745,25,Strong,AoE Enemy
+Basher,A2,Stinging Blast,ATK,8546,1.5,1.15,1.00,14742,15,Strong,AoE Enemy
+Slayer,A2,Frost Burst,ATK,8164,1.5,1.2,1.00,14695,20,Strong,AoE Enemy
+Suwai Firstborn,A1,Render Helpless,ATK,8159,1.5,1.2,1.00,14686,20,Godlike,Single Target
+Anointed,A2,Vigor Theft,ATK,8509,1.5,1.15,1.00,14678,15,Average,Single Target
+Old Ghrukkus,A2,Toe the Line,ATK,9782,1.5,1,1.00,14673,0,Average,Single Target
+Chonoru,A3,Lay Bare,ATK,8150,1.5,1.2,1.00,14670,20,Strong,AoE Enemy
+Skullcrown,A1,Wave of Souls,ATK,8150,1.5,1.2,1.00,14670,20,Godlike,AoE Enemy
+Aleksandr the Sharpshooter,A1,Arctic Warfare,ATK,8141,1.5,1.2,1.00,14654,20,Godlike,Single Target
+Venomage,A2,Neurotoxin,ATK,8881,1.5,1.1,1.00,14654,10,Average,Single Target
+Baerdal Fellhammer,A1,Ensorcelled Axe,ATK,8879,1.5,1.1,1.00,14650,10,Godlike,Single Target
+Mistrider Daithi,A2,Squall of Shafts,ATK,8128,1.5,1.2,1.00,14630,20,Strong,AoE Enemy
+Outlander,A1,Savage Strike,ATK,7797,1.5,1.25,1.00,14619,25,Godlike,Single Target
+Wagonbane,A3,Start The Mayhem,ATK,8463,1.5,1.15,1.00,14599,15,Average,Single Target
+Umetogi,A1,Sai Assassin,ATK,7482,1.5,1.3,1.00,14590,30,Godlike,Single Target
+Thylessia,A2,Shrieking Voices,ATK,8102,1.5,1.2,1.00,14584,20,Strong,AoE Enemy
+Thylessia,A3,Melancholia,ATK,8102,1.5,1.2,1.00,14584,20,Strong,AoE Enemy
+Skimfos the Consumed,A2,Curse Feeder,ATK,8100,1.5,1.2,1.00,14580,20,Strong,AoE Enemy
+Ultimate Galek,A3,Burning Rage,ATK,8099,1.5,1.2,1.00,14578,20,Strong,AoE Enemy
+Outrider,A3,Salvo,ATK,7774,1.5,1.25,1.00,14576,25,Strong,AoE Enemy
+Valla,A1,Piercing Blade,DEF,7589,1.6,1.2,1.00,14571,20,Godlike,Single Target
+Keeyra the Watcher,A2,Smashing Spree,DEF,7584,1.6,1.2,1.00,14561,20,Strong,AoE Enemy
+Scion,A3,Crawling Chaos,ATK,8089,1.5,1.2,1.00,14560,20,Strong,AoE Enemy
+Relickeeper,A1,Crusade,ATK,7760,1.5,1.25,1.00,14550,25,Godlike,Single Target
+Alaric the Hooded,A3,Crimson Warlord,ATK,8430,1.5,1.15,1.00,14542,15,Strong,AoE Enemy
+Michinaki,A3,Doubled Degeneracy,DEF,9086,1.6,1,1.00,14538,0,Strong,AoE Enemy
+Michinaki,A1,Burning Bonds,DEF,7571,1.6,1.2,1.00,14536,20,Godlike,Single Target
+Queen Eva,A1,Cauterize,ATK,7178,1.5,1.35,1.00,14535,35,Godlike,Single Target
+Exiled Sorcerer,A1,Pulsating Projectile,ATK,8417,1.5,1.15,1.00,14519,15,Godlike,Single Target
+Ruella,A1,Harassment Volley,ATK,8793,1.5,1.1,1.00,14508,10,Godlike,Single Target
+Helior,A1,Sunshine Halberd,DEF,7249,1.6,1.25,1.00,14498,25,Godlike,Single Target
+Sinesha,A1,Burning Wave,ATK,8046,1.5,1.2,1.00,14483,20,Strong,AoE Enemy
+Zavia,A4,Calamitous Partner,ATK,9649,1.5,1,1.00,14474,0,Average,Single Target
+Galkut,A3,Boom Barrage,ATK,8040,1.5,1.2,1.00,14472,20,Strong,AoE Enemy
+Elder Skarg,A1,Tide of Steel,ATK,7419,1.5,1.3,1.00,14467,30,Strong,Single Target
+Oldbeard,A2,Outlast,ATK,8385,1.5,1.15,1.00,14464,15,Average,Single Target
+Teumesia,A1,Fiery Battleaxe,ATK,8365,1.5,1.15,1.00,14430,15,Strong,Single Target
+Ogryn Jailer,A1,Lockdown,ATK,8744,1.5,1.1,1.00,14428,10,Strong,Single Target
+Aox the Rememberer,A2,Lore of Restoration,ATK,8358,1.5,1.15,1.00,14418,15,Average,Single Target
+Conquerer,A1,Swift Blow,ATK,7998,1.5,1.2,1.00,14396,20,Strong,Single Target
+Goremask,A1,Snap,ATK,7109,1.5,1.35,1.00,14396,35,Strong,Single Target
+Goffred Brassclad,A2,Concuss,DEF,7492,1.6,1.2,1.00,14385,20,Strong,AoE Enemy
+Souldrinker,A3,Magma Blast,ATK,8713,1.5,1.1,1.00,14376,10,Strong,AoE Enemy
+Catacomb Councilor,A1,Grotesque Strength,ATK,7664,1.5,1.25,1.00,14370,25,Strong,Single Target
+Armina,A2,Trampling Rampage,ATK,8321,1.5,1.15,1.00,14354,15,Strong,AoE Enemy
+Whisper,A1,Softening Drive,ATK,8699,1.5,1.1,1.00,14353,10,Strong,Single Target
+Zavia,A1,Transfix,ATK,7961,1.5,1.2,1.00,14330,20,Strong,Single Target
+Terrorbeast,A2,Shriek,ATK,7345,1.5,1.3,1.00,14323,30,Weak,Random Enemy
+Arndulf,A2,Daunting Violence,DEF,7783,1.6,1.15,1.00,14321,15,Strong,AoE Enemy
+Hordin,A1,Relentless Strike,ATK,7638,1.5,1.25,1.00,14321,25,Strong,Single Target
+Lydia the Deathsiren,A3,Nullification,ATK,8672,1.5,1.1,1.00,14309,10,Average,Single Target
+Fortus,A2,Horrors Beyond,DEF,8126,1.6,1.1,1.00,14302,10,Strong,AoE Enemy
+Ashwalker,A1,Great Hammer,ATK,7062,1.5,1.35,1.00,14301,35,Strong,Single Target
+Dolor Lorekeeper,A2,Stern Punishment,ATK,8660,1.5,1.1,1.00,14289,10,Average,Single Target
+Danag Skullreap,A1,Shatter Confidence,ATK,8649,1.5,1.1,1.00,14271,10,Strong,Single Target
+Chaagur,A1,Stupor,ATK,7928,1.5,1.2,1.00,14270,20,Strong,Single Target
+Iron Brago,A3,Battle Storm,DEF,7750,1.6,1.15,1.00,14260,15,Strong,AoE Enemy
+Stitched Beast,A1,Bestial Maw,ATK,7605,1.5,1.25,1.00,14259,25,Strong,Single Target
+Ripper,A1,Scar for Life,ATK,7921,1.5,1.2,1.00,14258,20,Strong,Single Target
+Mistrider Daithi,A1,Briar Arrows,ATK,7920,1.5,1.2,1.00,14256,20,Strong,Single Target
+Acolyte,A2,Dark Exhaustion,ATK,7307,1.5,1.3,1.00,14249,30,Average,Single Target
+Ultimate Galek,A1,Fury Slash,ATK,7897,1.5,1.2,1.00,14215,20,Strong,Single Target
+Dark Athel,A3,Harvest of Despair,ATK,7895,1.5,1.2,1.00,14211,20,Strong,AoE Enemy
+Luthiea,A3,Numbing Poison,ATK,8229,1.5,1.15,1.00,14195,15,Strong,AoE Enemy
+Yumeko,A2,Destiny's Mirror,ATK,7878,1.5,1.2,1.00,14180,20,Average,Single Target
+Sigmund the Highshield,A2,Battlefield Beacon,DEF,7704,1.6,1.15,1.00,14175,15,Strong,AoE Enemy
+Shatterbones,A1,Rend,ATK,7872,1.5,1.2,1.00,14170,20,Strong,Single Target
+Tatura Rimehide,A1,Solar Ray,DEF,7695,1.6,1.15,1.00,14159,15,Strong,Single Target
+Ultimate Deathknight,A2,Rats Off To Ya,DEF,8044,1.6,1.1,1.00,14157,10,Strong,AoE Enemy
+Crusader,A1,Hack,ATK,7865,1.5,1.2,1.00,14157,20,Strong,Single Target
+Helior,A2,Solar Blessing,DEF,6796,1.6,1.3,1.00,14136,30,Strong,AoE Enemy
+Fayne,A1,Exotic Blades,ATK,7520,1.5,1.25,1.00,14100,25,Strong,Single Target
+Defiled Sinner,A3,Corrosive Smog,ATK,8162,1.5,1.15,1.00,14079,15,Strong,AoE Enemy
+Ninja,A1,Shatterbolt,ATK,8533,1.5,1.1,1.00,14079,10,Strong,Single Target
+Roxam,A1,Chroma Shift,ATK,8521,1.5,1.1,1.00,14060,10,Strong,Single Target
+Umbral Enchantress,A1,Essence Scepter,DEF,7319,1.6,1.2,1.00,14052,20,Strong,Single Target
+Skullsquire,A2,Cold Grasp,ATK,8516,1.5,1.1,1.00,14051,10,Average,Single Target
+Crusher,A2,Savage Swipe,ATK,8141,1.5,1.15,1.00,14043,15,Average,Single Target
+Taurus,A1,Metabolize,ATK,7481,1.5,1.25,1.00,14027,25,Strong,Single Target
+Shemnath,A1,Bring to Ruin,ATK,7787,1.5,1.2,1.00,14017,20,Strong,Single Target
+Channeler,A2,Halt!,ATK,8493,1.5,1.1,1.00,14013,10,Average,Single Target
+Goffred Brassclad,A1,Mete Punishment,DEF,7290,1.6,1.2,1.00,13997,20,Strong,Single Target
+Ailil,A1,Gnarled Scythe,ATK,7171,1.5,1.3,1.00,13983,30,Strong,Single Target
+Tuhak the Wanderer,A2,Whirl of Battle,ATK,7760,1.5,1.2,1.00,13968,20,Strong,AoE Enemy
+Yelagirna,A2,Mortify,ATK,7760,1.5,1.2,1.00,13968,20,Strong,AoE Enemy
+Necrohunter,A1,Crypt Arrows,ATK,8456,1.5,1.1,1.00,13952,10,Strong,Single Target
+Siegehulk,A2,Thrashing Fit,ATK,8080,1.5,1.15,1.00,13938,15,Strong,AoE Enemy
+Teshada,A1,Savage Fury,DEF,6691,1.6,1.3,1.00,13917,30,Strong,Single Target
+Balthus Drauglord,A2,Doomwheels,DEF,7563,1.6,1.15,1.00,13916,15,Strong,AoE Enemy
+Countess Lix,A3,Time Dilation,ATK,8434,1.5,1.1,1.00,13916,10,Strong,AoE Enemy
+Misericord,A2,Stay Vigilant,ATK,7716,1.5,1.2,1.00,13889,20,Strong,AoE Enemy
+Berserker,A1,All-Out Attack,ATK,7407,1.5,1.25,1.00,13888,25,Strong,Single Target
+Judge,A2,Blade Dance,ATK,7404,1.5,1.25,1.00,13883,25,Strong,AoE Enemy
+Luthiea,A1,Burning Arrow,ATK,8411,1.5,1.1,1.00,13878,10,Strong,Single Target
+Aothar,A1,Rage,ATK,7697,1.5,1.2,1.00,13855,20,Strong,Single Target
+Fencer,A1,Enchanted Rapier,ATK,8027,1.5,1.15,1.00,13847,15,Strong,Single Target
+Wanderer,A1,Lay On,ATK,7682,1.5,1.2,1.00,13828,20,Strong,Single Target
+Pharsalas Gravedirt,A2,Necrosis,DEF,7855,1.6,1.1,1.00,13825,10,Strong,AoE Enemy
+Frozen Banshee,A3,Frost Blight,ATK,7680,1.5,1.2,1.00,13824,20,Average,Single Target
+Nekhret the Great,A1,Tomb Glaive,DEF,7512,1.6,1.15,1.00,13822,15,Strong,Single Target
+Archer,A1,Double Shot,ATK,7371,1.5,1.25,1.00,13821,25,Strong,Single Target
+Infernal Baroness,A2,Clinging Dark,DEF,7852,1.6,1.1,1.00,13820,10,Strong,AoE Enemy
+Athel,A2,Divine Blades,ATK,7369,1.5,1.25,1.00,13817,25,Strong,AoE Enemy
+Grimskin,A3,Ichor Fling,DEF,7843,1.6,1.1,1.00,13804,10,Strong,AoE Enemy
+Cudgeler,A1,The Harder They Fall,ATK,6813,1.5,1.35,1.00,13796,35,Strong,Single Target
+Thylessia,A1,Weft of Madness,ATK,7664,1.5,1.2,1.00,13795,20,Strong,Single Target
+Astralon,A1,Hellbinder,ATK,8356,1.5,1.1,1.00,13787,10,Strong,Single Target
+Dark Kael,A2,Binding Darkness,ATK,7649,1.5,1.2,1.00,13768,20,Strong,AoE Enemy
+Tallia,A1,Hack and Slash,ATK,7343,1.5,1.25,1.00,13768,25,Strong,Single Target
+Jinglehunter,A1,Missile Toe,ATK,7647,1.5,1.2,1.00,13765,20,Strong,Single Target
+Jizoh,A1,Reaping Blows,DEF,7478,1.6,1.15,1.00,13760,15,Strong,Single Target
+Hellborn Sprite,A2,Crumbling Flesh,ATK,7975,1.5,1.15,1.00,13757,15,Average,Single Target
+Liburga,A2,Boil From Within,ATK,8331,1.5,1.1,1.00,13746,10,Average,Single Target
+Romero,A1,Bring Hope,DEF,6869,1.6,1.25,1.00,13738,25,Strong,Single Target
+Preserver,A3,Ice Blow,ATK,7957,1.5,1.15,1.00,13726,15,Average,Single Target
+King Garog,A1,Gigantic Cleavers,ATK,7623,1.5,1.2,1.00,13721,20,Strong,Single Target
+Daywalker,A3,Death Denied,ATK,9144,1.5,1,1.00,13716,0,Strong,AoE Enemy
+Samar Gemcursed,A3,Boon Subversion,HP,11418,1,1.2,1.00,13702,20,Strong,AoE Enemy
+Delver,A3,Finisher,ATK,7921,1.5,1.15,1.00,13664,15,Godlike,AoE Enemy
+Norog,A1,Maul,DEF,7426,1.6,1.15,1.00,13664,15,Strong,Single Target
+Visix the Unbowed,A3,Single Combat,DEF,8531,1.6,1,1.00,13650,0,Strong,AoE Enemy
+Rowan,A1,Slash,ATK,8266,1.5,1.1,1.00,13639,10,Strong,Single Target
+Berserker,A3,Sweep,ATK,7573,1.5,1.2,1.00,13631,20,Average,AoE Enemy
+Fodbor the Bard,A1,Axe Solo,ATK,7883,1.5,1.15,1.00,13598,15,Strong,Single Target
+Giscard the Sigiled,A2,Lion's Roar,DEF,7390,1.6,1.15,1.00,13598,15,Strong,AoE Enemy
+Head Taker,A1,Carve Up,ATK,7552,1.5,1.2,1.00,13594,20,Strong,Single Target
+Lady Quilen,A1,Mistress of Mallets,ATK,7546,1.5,1.2,1.00,13583,20,Strong,Single Target
+Flesheater,A2,Tenderize,ATK,7541,1.5,1.2,1.00,13574,20,Average,Single Target
+Luria,A2,Mark of Fear,ATK,7540,1.5,1.2,1.00,13572,20,Strong,AoE Enemy
+Martyr,A1,Rush,DEF,6786,1.6,1.25,1.00,13572,25,Strong,Single Target
+Dark Elhain,A2,Death's Majesty,ATK,7864,1.5,1.15,1.00,13565,15,Strong,AoE Enemy
+Tuhak the Wanderer,A1,Unfair Fight,ATK,7864,1.5,1.15,1.00,13565,15,Strong,Single Target
+Fanatic,A2,Cursebearer,ATK,8218,1.5,1.1,1.00,13560,10,Average,Single Target
+Norog,A2,Ice Pillar,DEF,7054,1.6,1.2,1.00,13544,20,Strong,AoE Enemy
+Chemist,A1,Trick Saws,ATK,7219,1.5,1.25,1.00,13536,25,Strong,Single Target
+Sniper,A2,Rain of Arrows,ATK,6940,1.5,1.3,1.00,13533,30,Strong,AoE Enemy
+Fahrakin the Fat,A1,Sizzling Strike,ATK,8195,1.5,1.1,1.00,13522,10,Strong,Single Target
+Gorlos Hellmaw,A1,Hungry Shafts,ATK,7512,1.5,1.2,1.00,13522,20,Strong,Single Target
+Akoth the Seared,A2,Pyroclasm,DEF,6497,1.6,1.3,1.00,13514,30,Strong,AoE Enemy
+Ultimate Deathknight,A1,Heckler of Legends,DEF,7038,1.6,1.2,1.00,13513,20,Strong,Single Target
+Dirandil,A1,Brumal Razors,ATK,7503,1.5,1.2,1.00,13505,20,Strong,Single Target
+Nogoryo,A1,Double Kamas,ATK,7503,1.5,1.2,1.00,13505,20,Strong,Single Target
+Hardscale,A2,Shocking Wound,ATK,7826,1.5,1.15,1.00,13500,15,Average,Single Target
+Cleopterix,A1,Death Dive,ATK,8178,1.5,1.1,1.00,13494,10,Strong,Single Target
+Angar,A1,Exacerbate,HP,11236,1,1.2,1.00,13483,20,Strong,Single Target
+Hexia,A1,Grave Rot,ATK,7482,1.5,1.2,1.00,13468,20,Strong,Single Target
+Kallia,A1,Superheated Hammer,ATK,7482,1.5,1.2,1.00,13468,20,Strong,Single Target
+Maeve,A1,Stupefy,ATK,7807,1.5,1.15,1.00,13467,15,Strong,Single Target
+Broodlord,A3,Primal Tremor,DEF,7642,1.6,1.1,1.00,13450,10,Strong,AoE Enemy
+Gliseah Soulguide,A2,Breath of Rime,DEF,7004,1.6,1.2,1.00,13448,20,Strong,AoE Enemy
+Yelagirna,A1,Breath Taker,ATK,8148,1.5,1.1,1.00,13444,10,Strong,Single Target
+Dark Athel,A2,Blades of Blood,ATK,7787,1.5,1.15,1.00,13433,15,Strong,AoE Enemy
+Foli,A1,Marked for Destruction,ATK,8139,1.5,1.1,1.00,13429,10,Strong,Single Target
+Cagebreaker,A3,Burn Away,ATK,7451,1.5,1.2,1.00,13412,20,Strong,AoE Enemy
+Scion,A1,Nightmare Khopesh,ATK,7451,1.5,1.2,1.00,13412,20,Strong,Single Target
+Lady Eresh,A1,Meticulous Adversary,ATK,7450,1.5,1.2,1.00,13410,20,Strong,Single Target
+Sergeant,A1,Hack,ATK,7450,1.5,1.2,1.00,13410,20,Strong,Single Target
+Cultist,A2,Toxic Miasma,ATK,7770,1.5,1.15,1.00,13403,15,Strong,AoE Enemy
+Stalker,A2,Tear Apart,ATK,8119,1.5,1.1,1.00,13396,10,Average,Single Target
+Luria,A1,Cursed Sword,ATK,7436,1.5,1.2,1.00,13385,20,Strong,Single Target
+Wagonbane,A2,Hackgore Magic,ATK,7758,1.5,1.15,1.00,13383,15,Average,Single Target
+Masamoto,A2,Steel Typhoon,DEF,7954,1.6,1.05,1.00,13363,5,Strong,AoE Enemy
+Skirmisher,A1,Twin Shafts,ATK,7424,1.5,1.2,1.00,13363,20,Strong,Single Target
+Demytha,A1,Fires of Old,ATK,7423,1.5,1.2,1.00,13361,20,Strong,Single Target
+Outrider,A1,Bodkin,ATK,8098,1.5,1.1,1.00,13362,10,Strong,Single Target
+Elhain,A2,Lightning Arrow,ATK,7422,1.5,1.2,1.00,13360,20,Strong,Single Target
+Scrapper,A1,Arena Arts,ATK,7422,1.5,1.2,1.00,13360,20,Strong,Single Target
+Cagebreaker,A1,Shatter Shell,ATK,8089,1.5,1.1,1.00,13347,10,Strong,Single Target
+Krisk the Ageless,A2,Centuried Vigor,DEF,6409,1.6,1.3,1.00,13331,30,Strong,AoE Enemy
+Totem,A2,Malediction,ATK,7401,1.5,1.2,1.00,13322,20,Average,Single Target
+Umbral Enchantress,A2,Immolate,DEF,6934,1.6,1.2,1.00,13313,20,Strong,AoE Enemy
+Magnarr,A3,Fan the Flames,HP,11077,1,1.2,1.00,13292,20,Average,Single Target
+Riho Bonespear,A1,Absorbtion,ATK,7384,1.5,1.2,1.00,13291,20,Strong,Single Target
+Tainix Hateflower,A2,Spiteful Cut,ATK,7384,1.5,1.2,1.00,13291,20,Average,Single Target
+Husk,A1,Burning Iron,ATK,8055,1.5,1.1,1.00,13291,10,Strong,Single Target
+Sigmund the Highshield,A1,Fairer Fight,DEF,7223,1.6,1.15,1.00,13290,15,Strong,Single Target
+Witness,A2,Support Fire,ATK,7084,1.5,1.25,1.00,13283,25,Average,Single Target
+Taya,A1,Daze Powder,ATK,8046,1.5,1.1,1.00,13276,10,Strong,Single Target
+Kyoku,A2,Blood Curdle,DEF,6912,1.6,1.2,1.00,13271,20,Strong,AoE Enemy
+Iron Brago,A1,Molten Pummeling,DEF,7540,1.6,1.1,1.00,13270,10,Strong,Single Target
+Deathless,A1,Grave Whispers,DEF,7539,1.6,1.1,1.00,13269,10,Strong,Single Target
+Ghrush the Mangler,A3,Smothering Swath,DEF,7537,1.6,1.1,1.00,13265,10,Strong,AoE Enemy
+Chonoru,A1,Night Blossom,ATK,8037,1.5,1.1,1.00,13261,10,Strong,Single Target
+Karam,A1,Bloodstained Swords,ATK,8834,1.5,1,1.00,13251,0,Strong,Single Target
+Siegebreaker,A3,Heavenly Roar,ATK,8027,1.5,1.1,1.00,13245,10,Strong,AoE Enemy
+Ignatius,A1,Skull Rattle,DEF,6896,1.6,1.2,1.00,13240,20,Strong,Single Target
+Yumeko,A1,Wereclaws,ATK,7353,1.5,1.2,1.00,13235,20,Strong,Single Target
+Fylja,A1,Elders' Judgment,ATK,6783,1.5,1.3,1.00,13227,30,Strong,Single Target
+Teela Goremane,A2,Pyre Strike,HP,10175,1,1.3,1.00,13228,30,Average,Single Target
+Gerhard the Stone,A1,Ringing Blow,ATK,7347,1.5,1.2,1.00,13225,20,Strong,Single Target
+Interceptor,A1,Leg Pierce,DEF,7187,1.6,1.15,1.00,13224,15,Strong,Single Target
+Fenax,A2,Stern Partner,ATK,7664,1.5,1.15,1.00,13220,15,Strong,AoE Enemy
+Chani,A1,Insidious Arrow,ATK,7344,1.5,1.2,1.00,13219,20,Strong,Single Target
+Royal Huntsman,A1,Confident Shot,ATK,7337,1.5,1.2,1.00,13207,20,Strong,Single Target
+Alure,A2,Temptation,ATK,8000,1.5,1.1,1.00,13200,10,Strong,AoE Enemy
+Stalwart,A2,Headbutt,ATK,7333,1.5,1.2,1.00,13199,20,Average,Single Target
+Tuhanarak,A1,Sun's Kiss,DEF,7497,1.6,1.1,1.00,13195,10,Strong,Single Target
+Prosecutor,A2,Halt Proceedings,ATK,7328,1.5,1.2,1.00,13190,20,Strong,AoE Enemy
+Giscard the Sigiled,A1,Foebreaker,DEF,7493,1.6,1.1,1.00,13188,10,Strong,Single Target
+Skimfos the Consumed,A1,Growing Hunger,ATK,7992,1.5,1.1,1.00,13187,10,Strong,Single Target
+Scyl of the Drakes,A1,Drake's Swiftness,DEF,7485,1.6,1.1,1.00,13174,10,Strong,Single Target
+Eviscerator,A2,Lethal Confusion,ATK,7311,1.5,1.2,1.00,13160,20,Strong,AoE Enemy
+Woad-Painted,A3,Overpower,HP,11960,1,1.1,1.00,13156,10,Average,Single Target
+Balthus Drauglord,A1,Shield Strike,DEF,7473,1.6,1.1,1.00,13152,10,Strong,Single Target
+Marquess,A1,Disdainful Swipe,DEF,7471,1.6,1.1,1.00,13149,10,Strong,Single Target
+Altan,A1,Searing Blow,DEF,6845,1.6,1.2,1.00,13142,20,Strong,Single Target
+Dhukk the Pierced,A2,Lunatic Outburst,DEF,6839,1.6,1.2,1.00,13131,20,Strong,AoE Enemy
+Hotatsu,A2,Rushing Death,DEF,7816,1.6,1.05,1.00,13131,5,Strong,AoE Enemy
+Tarshon,A1,Diabolical Hook,DEF,7135,1.6,1.15,1.00,13128,15,Strong,Single Target
+Grimskin,A1,Tarry Fist,DEF,6837,1.6,1.2,1.00,13127,20,Strong,Single Target
+Archbishop Pinthroy,A1,Author of Fates,ATK,7285,1.5,1.2,1.00,13113,20,Strong,Single Target
+Halberdier,A1,Hew,ATK,8735,1.5,1,1.00,13103,0,Strong,Single Target
+Painsmith,A1,Pickaxe Crunch,ATK,7273,1.5,1.2,1.00,13091,20,Strong,Single Target
+Andryssia,A3,Pointed Justice,DEF,6817,1.6,1.2,1.00,13089,20,Strong,AoE Enemy
+Underpriest Brogni,A2,Cavern's Grasp,ATK,7930,1.5,1.1,1.00,13085,10,Strong,AoE Enemy
+Pharsalas Gravedirt,A1,Grasp of the Grave,DEF,7433,1.6,1.1,1.00,13082,10,Strong,Single Target
+Akoth the Seared,A1,Molten Punch,DEF,7426,1.6,1.1,1.00,13070,10,Strong,Single Target
+Delver,A1,Necrotic Toxin,ATK,7921,1.5,1.1,1.00,13070,10,Strong,Single Target
+Dhukk the Pierced,A1,Mad Chopper,DEF,7425,1.6,1.1,1.00,13068,10,Strong,Single Target
+Rearguard Sergeant,A2,Flail Master,DEF,6282,1.6,1.3,1.00,13067,30,Strong,AoE Enemy
+Suzerain Katonn,A2,Hex of Years,ATK,7571,1.5,1.15,1.00,13060,15,Strong,AoE Enemy
+Bonekeeper,A1,Batter,ATK,7569,1.5,1.15,1.00,13057,15,Strong,Single Target
+Royal Guard,A1,Razor Blade,ATK,7569,1.5,1.15,1.00,13057,15,Strong,Single Target
+Wurlim Frostking,A1,Winds of Winter,DEF,7091,1.6,1.15,1.00,13047,15,Strong,Single Target
+Wurlim Frostking,A2,Frostbite Blast,DEF,7091,1.6,1.15,1.00,13047,15,Strong,AoE Enemy
+Gliseah Soulguide,A1,Glittering Slash,DEF,6792,1.6,1.2,1.00,13041,20,Strong,Single Target
+Arndulf,A1,Iron Greatclub,DEF,7403,1.6,1.1,1.00,13029,10,Strong,Single Target
+Gurptuk Moss-Beard,A1,Biotic Staff,ATK,6942,1.5,1.25,1.00,13016,25,Strong,Single Target
+Warmaiden,A3,Crumbling Blast,ATK,7889,1.5,1.1,1.00,13017,10,Strong,AoE Enemy
+Exiled Sorcerer,A2,Plague Mines,ATK,7540,1.5,1.15,1.00,13006,15,Strong,AoE Enemy
+Rugnor Goldgleam,A1,Thirsty Axe,ATK,7877,1.5,1.1,1.00,12997,10,Strong,Single Target
+Warden,A2,Rending Flames,DEF,6766,1.6,1.2,1.00,12991,20,Strong,AoE Enemy
+Lightsworn,A1,Teardown,DEF,6242,1.6,1.3,1.00,12983,30,Strong,Single Target
+Jareg,A1,Rending Claws,ATK,7210,1.5,1.2,1.00,12978,20,Strong,Single Target
+Dagger,A2,Precision Sabotage,ATK,7518,1.5,1.15,1.00,12969,15,Strong,AoE Enemy
+Chani,A3,Shower of Misery,ATK,8639,1.5,1,1.00,12959,0,Strong,AoE Enemy
+Basher,A1,Splintering Bash,ATK,7197,1.5,1.2,1.00,12955,20,Strong,Single Target
+Sethallia,A1,Put to Flame,ATK,7842,1.5,1.1,1.00,12939,10,Strong,Single Target
+Masked Fearmonger,A1,Nightmare,ATK,7187,1.5,1.2,1.00,12937,20,Strong,Single Target
+Kunoichi,A2,Poison Piercing,DEF,7023,1.6,1.15,1.00,12922,15,Strong,AoE Enemy
+Helicath,A1,Pyroclastic Claw,DEF,7340,1.6,1.1,1.00,12918,10,Strong,Single Target
+Warchief,A1,Brutal Force,DEF,6200,1.6,1.3,1.00,12896,30,Strong,Single Target
+Underpriest Brogni,A1,Deepcrystal Scourge,ATK,7810,1.5,1.1,1.00,12887,10,Strong,Single Target
+Armina,A1,Discipline Staff,ATK,7807,1.5,1.1,1.00,12882,10,Strong,Single Target
+Ripperfist,A2,Rip to Shreds,ATK,7156,1.5,1.2,1.00,12881,20,Average,Single Target
+Siegehulk,A1,Battering Ram,ATK,7156,1.5,1.2,1.00,12881,20,Strong,Single Target
+hero 3750 name,A3,Skill 37503 name ascended,ATK,6868,1.5,1.25,1.00,12878,25,Average,AoE Enemy
+Sicia Flametongue,A1,Towering Inferno,ATK,7459,1.5,1.15,1.00,12867,15,Strong,Single Target
+Nazana,A3,Steel Breaker,ATK,7795,1.5,1.1,1.00,12862,10,Average,AoE Enemy
+Fleshmonger,A3,Tornado Cleaver,ATK,7135,1.5,1.2,1.00,12843,20,Average,AoE Enemy
+Prosecutor,A1,Sap Initiative,ATK,7135,1.5,1.2,1.00,12843,20,Strong,Single Target
+Rearguard Sergeant,A1,Crushing Impact,DEF,6980,1.6,1.15,1.00,12843,15,Strong,Single Target
+Vergis,A1,Pierce,DEF,7294,1.6,1.1,1.00,12837,10,Strong,Single Target
+Heartpiercer,A1,Perforate,ATK,7130,1.5,1.2,1.00,12834,20,Strong,Single Target
+Hound Spawn,A1,Fire Breath,ATK,6845,1.5,1.25,1.00,12834,25,Strong,Single Target
+Terrorbeast,A1,Painful Bite,ATK,7440,1.5,1.15,1.00,12834,15,Strong,Single Target
+Myrmidon,A2,Disarm Sweep,DEF,6684,1.6,1.2,1.00,12833,20,Average,AoE Enemy
+Defiled Sinner,A1,Murderer's Craft,ATK,7129,1.5,1.2,1.00,12832,20,Godlike,Single Target
+Galkut,A1,Mangle Limbs,ATK,7437,1.5,1.15,1.00,12829,15,Strong,Single Target
+Visix the Unbowed,A2,Sinister Allies,DEF,7282,1.6,1.1,1.00,12816,10,Average,AoE Enemy
+Myciliac Priest Orn,A2,Erupting Growths,HP,11641,1,1.1,1.00,12805,10,Average,Single Target
+Bombardier,A1,Bombard,ATK,7107,1.5,1.2,1.00,12793,20,Strong,Single Target
+Lady Quilen,A3,First to Fight,ATK,7102,1.5,1.2,1.00,12784,20,Average,AoE Enemy
+Dark Kael,A1,Weaver of Woes,ATK,7744,1.5,1.1,1.00,12778,10,Strong,Single Target
+Crimson Slayer,A3,Copious Bleed,ATK,6552,1.5,1.3,1.00,12776,30,Average,AoE Enemy
+Cultist,A1,Sickle,ATK,7095,1.5,1.2,1.00,12771,20,Strong,Single Target
+Mighty Ukko,A2,Ukko's Fury,ATK,7092,1.5,1.2,1.00,12766,20,Average,AoE Enemy
+Madman,A2,Insane Resilience,ATK,6805,1.5,1.25,1.00,12759,25,Average,AoE Enemy
+Hope,A3,Holy Storm,ATK,7731,1.5,1.1,1.00,12756,10,Average,AoE Enemy
+Confessor,A2,Blinding Light,ATK,7729,1.5,1.1,1.00,12753,10,Average,AoE Enemy
+Bloodpainter,A2,Embers,ATK,7084,1.5,1.2,1.00,12751,20,Average,AoE Enemy
+Ashwalker,A3,Backbreaker,ATK,7724,1.5,1.1,1.00,12745,10,Average,AoE Enemy
+Scyl of the Drakes,A2,Wingbeat Flurry,DEF,6629,1.6,1.2,1.00,12728,20,Average,AoE Enemy
+Kaiden,A1,Halberd's Fall,DEF,7230,1.6,1.1,1.00,12725,10,Strong,Single Target
+Raider,A2,Carnage,ATK,7371,1.5,1.15,1.00,12715,15,Average,AoE Enemy
+Gorlos Hellmaw,A2,Raging Hunger,ATK,7704,1.5,1.1,1.00,12712,10,Average,AoE Enemy
+Seeker,A1,Devour,ATK,6513,1.5,1.3,1.00,12700,30,Strong,Single Target
+Outlander,A2,Talisman of Power,ATK,7054,1.5,1.2,1.00,12697,20,Average,AoE Enemy
+Roshcard the Tower,A1,Rebuke,ATK,7053,1.5,1.2,1.00,12695,20,Strong,Single Target
+Kytis,A1,Soul Reaper,ATK,7692,1.5,1.1,1.00,12692,10,Strong,Single Target
+Athel,A1,Strike Down,ATK,7049,1.5,1.2,1.00,12688,20,Strong,Single Target
+Ghoulish Ranger,A2,Foul Festering,ATK,7042,1.5,1.2,1.00,12676,20,Average,Single Target
+Cillian the Lucky,A1,Trip Up,ATK,7041,1.5,1.2,1.00,12674,20,Strong,Single Target
+Skull Lord Var-Gall,A3,Abyssal Clutch,DEF,7201,1.6,1.1,1.00,12674,10,Average,AoE Enemy
+Icebound Prospector,A1,Frosty Pick,ATK,7038,1.5,1.2,1.00,12668,20,Strong,Single Target
+Skraank,A1,Flitter In Chaos,ATK,7038,1.5,1.2,1.00,12668,20,Strong,Single Target
+Tyrant Ixlimor,A2,Hellfire Torrent,DEF,6884,1.6,1.15,1.00,12667,15,Average,AoE Enemy
+Canoness,A1,Lead the Charge,DEF,6595,1.6,1.2,1.00,12662,20,Strong,Single Target
+Death Hound,A2,Gnaw,ATK,7026,1.5,1.2,1.00,12647,20,Average,Single Target
+Alaric the Hooded,A1,Red Fury,ATK,7664,1.5,1.1,1.00,12646,10,Strong,Single Target
+Keeyra the Watcher,A1,Falling Star Crush,DEF,7185,1.6,1.1,1.00,12646,10,Strong,Single Target
+Morrigaine,A1,Haunt With Hesitation,ATK,7663,1.5,1.1,1.00,12644,10,Strong,Single Target
+Skinner,A1,Sharpened Bone,ATK,7023,1.5,1.2,1.00,12641,20,Strong,Single Target
+Ursine Ironhide,A3,Rampaging Swipe,DEF,6860,1.6,1.15,1.00,12622,15,Average,AoE Enemy
+Veteran,A1,Disarm,DEF,6311,1.6,1.25,1.00,12622,25,Strong,Single Target
+Temptress,A1,Sly Slice,ATK,7005,1.5,1.2,1.00,12609,20,Strong,Single Target
+Venus,A1,Pining,ATK,7003,1.5,1.2,1.00,12605,20,Strong,Single Target
+Pathfinder Cait,A2,Untraceable,ATK,7001,1.5,1.2,1.00,12602,20,Average,AoE Enemy
+Bone Knight,A3,Death's Vigor,ATK,6997,1.5,1.2,1.00,12595,20,Average,AoE Enemy
+Dilgol,A1,Crippler Round,ATK,6993,1.5,1.2,1.00,12587,20,Strong,Single Target
+Maneater,A1,Pummel,ATK,6992,1.5,1.2,1.00,12586,20,Strong,Single Target
+Atur,A1,Roaring Leap,DEF,7144,1.6,1.1,1.00,12573,10,Strong,Single Target
+Pit Fighter,A2,Gust of Dust,ATK,6705,1.5,1.25,1.00,12572,25,Average,Single Target
+Fylja,A3,Righteous Evocation,ATK,6983,1.5,1.2,1.00,12569,20,Average,AoE Enemy
+Flailer,A1,Tangle Bash,DEF,6545,1.6,1.2,1.00,12566,20,Strong,Single Target
+Gomlok Skyhide,A1,Soulsuck Tendrils,ATK,7978,1.5,1.05,1.00,12565,5,Strong,Single Target
+Headsman,A1,Public Execution,ATK,7280,1.5,1.15,1.00,12558,15,Strong,Single Target
+Yoshi the Drunkard,A1,Strong Booze,ATK,7611,1.5,1.1,1.00,12558,10,Strong,Single Target
+Renouncer,A1,Redoubled Effort,ATK,6973,1.5,1.2,1.00,12551,20,Strong,Single Target
+Belanor,A4,Tactical Partner,ATK,8357,1.5,1,1.00,12536,0,Average,Single Target
+Battle Sister,A1,Sever,ATK,6685,1.5,1.25,1.00,12534,25,Strong,Single Target
+Suzerain Katonn,A3,Banish From Time,ATK,6424,1.5,1.3,1.00,12527,30,Average,AoE Enemy
+Chancellor Yasmin,A1,Resounding Smash,ATK,6422,1.5,1.3,1.00,12523,30,Strong,Single Target
+Hope,A1,Sequester,ATK,7258,1.5,1.15,1.00,12520,15,Strong,Single Target
+Itinerant,A2,Wanderer's Weirding,ATK,7257,1.5,1.15,1.00,12518,15,Average,AoE Enemy
+Pigsticker,A1,Vile Substance,ATK,6954,1.5,1.2,1.00,12517,20,Strong,Single Target
+Abbess,A1,Arrow of Rebuke,ATK,6670,1.5,1.25,1.00,12506,25,Strong,Single Target
+Sniktraak,A2,Cloying Horror,HP,11363,1,1.1,1.00,12499,10,Average,AoE Enemy
+Odachi,A2,Great Sword,DEF,6504,1.6,1.2,1.00,12488,20,Average,AoE Enemy
+Tayrel,A1,Humble,DEF,6501,1.6,1.2,1.00,12482,20,Strong,Single Target
+Ghrush the Mangler,A2,Bonebreaker Stomp,DEF,6783,1.6,1.15,1.00,12481,15,Average,AoE Enemy
+Seducer,A2,Disorienting Blast,DEF,6783,1.6,1.15,1.00,12481,15,Average,AoE Enemy
+Romero,A4,Stalwart Partner,DEF,7797,1.6,1,1.00,12475,0,Average,AoE Enemy
+Lord Shazar,A3,Cruel Fate,ATK,6649,1.5,1.25,1.00,12467,25,Average,AoE Enemy
+Dark Athel,A1,Profane Glaive,ATK,6922,1.5,1.2,1.00,12460,20,Strong,Single Target
+Conellia,A1,Surprising Swiftness,ATK,7544,1.5,1.1,1.00,12448,10,Strong,Single Target
+Judicator,A1,Bright Fury,ATK,6638,1.5,1.25,1.00,12446,25,Strong,Single Target
+Candleguard,A3,Focused,ATK,6914,1.5,1.2,1.00,12445,20,Average,AoE Enemy
+Archmage Hellmut,A1,Arcane Dynamo,ATK,6637,1.5,1.25,1.00,12444,25,Strong,Single Target
+Ordinator,A2,Obedience Collars,ATK,7537,1.5,1.1,1.00,12436,10,Average,AoE Enemy
+Candleguard,A2,Triumph Cry,ATK,7535,1.5,1.1,1.00,12433,10,Average,AoE Enemy
+Archer,A2,Rain of Arrows,ATK,6366,1.5,1.3,1.00,12414,30,Average,AoE Enemy
+Ursine Ironhide,A1,Confounding Crush,DEF,7387,1.6,1.05,1.00,12410,5,Strong,Single Target
+Ritualist,A1,Power Slash,ATK,7194,1.5,1.15,1.00,12410,15,Strong,Single Target
+Courtier,A3,Whirling Blow,ATK,6890,1.5,1.2,1.00,12402,20,Average,AoE Enemy
+Nari the Lucky,A3,Irresistible Wealth,DEF,7750,1.6,1,1.00,12400,0,Average,AoE Enemy
+Slasher,A1,Fearsome Slice,ATK,6358,1.5,1.3,1.00,12398,30,Strong,Single Target
+Lich,A1,Curse of Blindness,DEF,7034,1.6,1.1,1.00,12380,10,Strong,Single Target
+Drowned Bloatwraith,A2,Wretched Stench,ATK,7497,1.5,1.1,1.00,12370,10,Average,AoE Enemy
+Magus,A3,Vitality Theft,ATK,6869,1.5,1.2,1.00,12364,20,Average,AoE Enemy
+Theresc,A1,Dual Debility,ATK,7493,1.5,1.1,1.00,12363,10,Strong,Single Target
+Vulpine,A1,Bare Fangs,ATK,6868,1.5,1.2,1.00,12362,20,Strong,Single Target
+Malbranche,A1,Gathering Inferno,ATK,7160,1.5,1.15,1.00,12351,15,Strong,Single Target
+Kreela Witch-Arm,A3,War Weirding,ATK,8229,1.5,1,1.00,12344,0,Average,AoE Enemy
+Crohnam,A1,Djinn Swords,ATK,7146,1.5,1.15,1.00,12327,15,Strong,Single Target
+Mithrala Lifebane,A2,Sigil of Toxic Glory,DEF,7704,1.6,1,1.00,12326,0,Average,AoE Enemy
+Captain Temila,A1,Bond of Duty,ATK,6844,1.5,1.2,1.00,12319,20,Strong,Single Target
+Slicer,A1,Finishing Blow,ATK,6844,1.5,1.2,1.00,12319,20,Strong,Single Target
+Lonatharil,A2,Flicker Barrier,HP,10260,1,1.2,1.00,12312,20,Average,AoE Enemy
+Kurzad Deepheart,A2,Flailing Pick,ATK,6310,1.5,1.3,1.00,12305,30,Average,AoE Enemy
+Mausoleum Mage,A1,Soul Manacles,ATK,7130,1.5,1.15,1.00,12299,15,Strong,Single Target
+Dervish,A1,Flurry,ATK,7450,1.5,1.1,1.00,12293,10,Strong,Random Enemy
+Sandlashed Survivor,A2,Endless Sands,DEF,6402,1.6,1.2,1.00,12292,20,Average,AoE Enemy
+Yannica,A1,Even the Odds,ATK,6828,1.5,1.2,1.00,12290,20,Godlike,AoE Enemy
+Warden,A1,Deathmark,DEF,6400,1.6,1.2,1.00,12288,20,Strong,Single Target
+Lumberer,A3,Massive Momentum,ATK,6825,1.5,1.2,1.00,12285,20,Average,AoE Enemy
+Fodbor the Bard,A3,Awful Crooning,ATK,7445,1.5,1.1,1.00,12284,10,Average,AoE Enemy
+Jaeger,A1,Shackle Shot,ATK,7443,1.5,1.1,1.00,12281,10,Strong,Single Target
+Archbishop Pinthroy,A2,Holy Word,ATK,7440,1.5,1.1,1.00,12276,10,Average,AoE Enemy
+Walking Tomb Dreng,A2,Exalted Pyre,HP,10226,1,1.2,1.00,12271,20,Average,AoE Enemy
+Jurojin,A2,Fated Duel,HP,10219,1,1.2,1.00,12263,20,Average,Single Target
+Throatcutter,A1,Cleaver,ATK,5838,1.5,1.4,1.00,12260,40,Strong,Single Target
+Rian the Conjurer,A1,Magma Ball,ATK,6809,1.5,1.2,1.00,12256,20,Strong,Single Target
+Oathbound,A2,Subjugate,ATK,7426,1.5,1.1,1.00,12253,10,Strong,AoE Enemy
+Magus,A1,Paralyze,ATK,8168,1.5,1,1.00,12252,0,Strong,Single Target
+Redeemer,A1,Split,ATK,6534,1.5,1.25,1.00,12251,25,Strong,Single Target
+Aristocrat,A1,Sepsis Tips,ATK,6805,1.5,1.2,1.00,12249,20,Strong,Single Target
+Greenwarden Ruarc,A2,Rust Consume You,DEF,6958,1.6,1.1,1.00,12246,10,Average,AoE Enemy
+Slayer,A1,Vicious Strike,ATK,7422,1.5,1.1,1.00,12246,10,Strong,Single Target
+Sandbow,A1,Let Fly,ATK,6044,1.5,1.35,1.00,12239,35,Strong,Single Target
+Dagger,A1,Double Daggers,ATK,6797,1.5,1.2,1.00,12235,20,Strong,Single Target
+Gomlok Skyhide,A3,Wild Surge,ATK,8154,1.5,1,1.00,12231,0,Average,AoE Enemy
+Tormin the Cold,A3,Blizzard Rage,DEF,7642,1.6,1,1.00,12227,0,Average,AoE Enemy
+Cormac the Highpeak,A1,Drover,ATK,6792,1.5,1.2,1.00,12226,20,Strong,Single Target
+Kaiden,A2,Shatter Sweep,DEF,6643,1.6,1.15,1.00,12223,15,Average,AoE Enemy
+Magmablood,A1,Hurl,ATK,7084,1.5,1.15,1.00,12220,15,Strong,Single Target
+Magmablood,A2,Splinters,ATK,7084,1.5,1.15,1.00,12220,15,Average,AoE Enemy
+Yaga the Insatiable,A1,Virulent Cleaver,ATK,7081,1.5,1.15,1.00,12215,15,Strong,Single Target
+Skullcrusher,A1,Smash,DEF,6353,1.6,1.2,1.00,12198,20,Strong,Single Target
+Kantra the Cyclone,A1,Bane Hatchet,DEF,6925,1.6,1.1,1.00,12188,10,Strong,Single Target
+Tomb Lord,A1,Crippling Blows,ATK,6494,1.5,1.25,1.00,12176,25,Strong,Single Target
+Nari the Lucky,A2,Rainbow of Woe,DEF,6912,1.6,1.1,1.00,12165,10,Average,AoE Enemy
+Frozen Banshee,A1,Death's Caress,ATK,6758,1.5,1.2,1.00,12164,20,Strong,Single Target
+Metalshaper,A1,Transference Bolt,DEF,6606,1.6,1.15,1.00,12155,15,Strong,Single Target
+Erinyes,A1,Razor Claws,ATK,6752,1.5,1.2,1.00,12154,20,Strong,Single Target
+Gladiator,A1,Cleaving Axe,ATK,7365,1.5,1.1,1.00,12152,10,Strong,Single Target
+Baroth the Bloodsoaked,A3,Serpent Axes,HP,10552,1,1.15,1.00,12135,15,Average,Single Target
+Paragon,A1,Power Drain,DEF,6316,1.6,1.2,1.00,12127,20,Strong,Single Target
+Burangiri,A2,Bakemono Charge,DEF,6888,1.6,1.1,1.00,12123,10,Average,AoE Enemy
+Azure,A1,Lunge,ATK,5983,1.5,1.35,1.00,12116,35,Strong,Single Target
+Ragemonger,A1,Recoup,ATK,6210,1.5,1.3,1.00,12110,30,Strong,Single Target
+Spikehead,A1,Stomp,ATK,6200,1.5,1.3,1.00,12090,30,Strong,Single Target
+Marquis,A1,Skewer,ATK,6705,1.5,1.2,1.00,12069,20,Strong,Single Target
+Reinbeast,A1,Caning,DEF,6559,1.6,1.15,1.00,12069,15,Strong,Single Target
+Steelskull,A1,Decay,ATK,7314,1.5,1.1,1.00,12068,10,Strong,Single Target
+Elva Autumnborn,A1,Scepter of Thriving,ATK,6704,1.5,1.2,1.00,12067,20,Strong,Single Target
+Hellgazer,A1,Soul Rend,ATK,6436,1.5,1.25,1.00,12068,25,Strong,Single Target
+Marked,A1,Dance of Blades,ATK,8045,1.5,1,1.00,12068,0,Strong,Single Target
+Ramantu Drakesblood,A1,Psychic Overload,ATK,6703,1.5,1.2,1.00,12065,20,Strong,Single Target
+Valkyrie,A2,Stand Firm,ATK,6702,1.5,1.2,1.00,12064,20,Average,AoE Enemy
+Marksman,A1,Venom Arrow,ATK,6696,1.5,1.2,1.00,12053,20,Strong,Single Target
+Dilgol,A2,Shot Spray,ATK,7299,1.5,1.1,1.00,12043,10,Average,AoE Enemy
+Dunestrider,A3,Harsh Mercy,ATK,7298,1.5,1.1,1.00,12042,10,Average,AoE Enemy
+Hotatsu,A1,Red River,DEF,6253,1.6,1.2,1.00,12006,20,Strong,Single Target
+Fenshi,A1,Hate Blades,ATK,7275,1.5,1.1,1.00,12004,10,Strong,Single Target
+Countess Lix,A2,Mire of Misery,ATK,7274,1.5,1.1,1.00,12002,10,Average,AoE Enemy
+Dunestrider,A1,Desert Wind,ATK,6955,1.5,1.15,1.00,11997,15,Strong,Single Target
+Minaya,A1,Graceful Guide,ATK,6661,1.5,1.2,1.00,11990,20,Strong,Single Target
+Zargala,A3,Crack Armor,ATK,7610,1.5,1.05,1.00,11986,5,Average,AoE Enemy
+Inquisitor Shamael,A1,Wreak Revenge,ATK,5699,1.5,1.4,1.00,11968,40,Strong,Single Target
+Narma the Returned,A1,Hell Crescent,ATK,7253,1.5,1.1,1.00,11967,10,Strong,Single Target
+Sikara,A1,Followup Volley,ATK,6639,1.5,1.2,1.00,11950,20,Strong,Single Target
+Vergumkaar,A3,Crushing Trample,ATK,6639,1.5,1.2,1.00,11950,20,Average,AoE Enemy
+Kantra the Cyclone,A2,Chaos Tempest,DEF,6493,1.6,1.15,1.00,11947,15,Average,AoE Enemy
+Infiltrator,A1,Shank,ATK,6371,1.5,1.25,1.00,11946,25,Strong,Single Target
+Phranox,A1,Carve Through,ATK,7238,1.5,1.1,1.00,11943,10,Strong,Single Target
+Sepulcher Sentinel,A1,Sword of Withering,DEF,6218,1.6,1.2,1.00,11939,20,Strong,Single Target
+Occult Brawler,A1,Sorcerous Razor,ATK,7225,1.5,1.1,1.00,11921,10,Strong,Single Target
+Templar,A1,Charge,DEF,6208,1.6,1.2,1.00,11919,20,Strong,Single Target
+Duelist,A1,Elan,ATK,5885,1.5,1.35,1.00,11917,35,Strong,Single Target
+Peydma,A2,Flesh Warp,DEF,6475,1.6,1.15,1.00,11914,15,Average,AoE Enemy
+Odachi,A1,Showy Slice,DEF,6757,1.6,1.1,1.00,11892,10,Strong,Single Target
+Zargala,A1,Split Apart,ATK,6342,1.5,1.25,1.00,11891,25,Strong,Single Target
+Ifrit,A1,Feebleness Curse,ATK,6341,1.5,1.25,1.00,11889,25,Strong,Single Target
+Perforator,A1,Vermin Slayer,ATK,6890,1.5,1.15,1.00,11885,15,Strong,Single Target
+Steel Bowyer,A1,Binding Arrows,ATK,6092,1.5,1.3,1.00,11879,30,Strong,Single Target
+Rotting Mage,A3,Mental Overload,ATK,6881,1.5,1.15,1.00,11870,15,Average,Single Target
+Courtier,A1,Outmaneuver,ATK,6316,1.5,1.25,1.00,11843,25,Strong,Single Target
+Vagabond,A1,Dreamer's Curse,ATK,6578,1.5,1.2,1.00,11840,20,Strong,Single Target
+Godseeker Aniri,A1,Blade of Blessings,DEF,6432,1.6,1.15,1.00,11835,15,Strong,Single Target
+Chaagur,A3,Heart Stopper,ATK,6569,1.5,1.2,1.00,11824,20,Average,Random Enemy
+Bogwalker,A1,Bone Katars,DEF,6154,1.6,1.2,1.00,11816,20,Strong,Single Target
+Ripperfist,A1,Mangler Gauntlet,ATK,6057,1.5,1.3,1.00,11811,30,Strong,Single Target
+Drillmaster,A1,Piercing Shot,ATK,6843,1.5,1.15,1.00,11804,15,Strong,Single Target
+Fortus,A1,Taste of Oblivion,DEF,6415,1.6,1.15,1.00,11804,15,Strong,Single Target
+Tolf the Maimed,A1,Blade Hand Butcher,HP,8739,1,1.35,1.00,11798,35,Strong,Single Target
+Tayrel,A2,Singing Steel,DEF,6693,1.6,1.1,1.00,11780,10,Average,AoE Enemy
+Ghostborn,A1,Energy Bolt,ATK,7852,1.5,1,1.00,11778,0,Strong,Single Target
+Thrall,A1,Shambling Assault,ATK,6268,1.5,1.25,1.00,11753,25,Strong,Single Target
+Eviscerator,A1,Bleed Dry,ATK,6267,1.5,1.25,1.00,11751,25,Strong,Single Target
+Bloodpainter,A1,Throwing Spear,ATK,6260,1.5,1.25,1.00,11738,25,Strong,Single Target
+Walking Tomb Dreng,A1,Corpsefire,HP,9781,1,1.2,1.00,11737,20,Strong,Single Target
+Solaris,A1,Cleansing Light,ATK,7107,1.5,1.1,1.00,11727,10,Strong,Single Target
+Venomage,A1,Toxicity,ATK,7106,1.5,1.1,1.00,11725,10,Strong,Single Target
+Visix the Unbowed,A1,Flanged Mace,DEF,6658,1.6,1.1,1.00,11718,10,Strong,Single Target
+Burangiri,A1,Battering Skull,DEF,6100,1.6,1.2,1.00,11712,20,Strong,Single Target
+Big 'Un,A1,Head Splitter,ATK,5993,1.5,1.3,1.00,11686,30,Godlike,AoE Enemy
+Big 'Un,A1,Head Splitter,ATK,5993,1.5,1.3,1.00,11686,30,Godlike,Single Target
+Cromax Moonblood,A1,Lunar Lance,DEF,6636,1.6,1.1,1.00,11679,10,Strong,Single Target
+Andryssia,A1,Censorious Bludgeon,DEF,6080,1.6,1.2,1.00,11674,20,Strong,Single Target
+Grizzled Jarl,A3,Earthstomp,DEF,6080,1.6,1.2,1.00,11674,20,Average,AoE Enemy
+Adriel,A1,Humiliate,ATK,7065,1.5,1.1,1.00,11657,10,Strong,Single Target
+Confessor,A1,Stern Judgment,ATK,6476,1.5,1.2,1.00,11657,20,Strong,Single Target
+Militia,A1,Headshot,ATK,6472,1.5,1.2,1.00,11650,20,Strong,Single Target
+Achak the Wendarin,A3,Frostfire Gale,ATK,7758,1.5,1,1.00,11637,0,Average,AoE Enemy
+Sanguinia,A1,Red Punishment,ATK,7042,1.5,1.1,1.00,11619,10,Average,Single Target
+Gronjarr,A2,Shatter Falsity,HP,9676,1,1.2,1.00,11611,20,Average,Single Target
+Ghrush the Mangler,A1,Gore-Slick Maul,DEF,6595,1.6,1.1,1.00,11607,10,Average,Single Target
+Ox,A1,Onrush,ATK,6188,1.5,1.25,1.00,11603,25,Average,Single Target
+Cromax Moonblood,A3,Blood Moon,DEF,7239,1.6,1,1.00,11582,0,Average,AoE Enemy
+Amarantine Skeleton,A1,Sorcerous Bones,DEF,5791,1.6,1.25,1.00,11582,25,Average,Single Target
+Shieldguard,A1,Uppercut,DEF,6032,1.6,1.2,1.00,11581,20,Average,Single Target
+Pounder,A1,Bonebreaker,DEF,6578,1.6,1.1,1.00,11577,10,Average,Single Target
+Jintoro,A1,Soul Drinker,ATK,6425,1.5,1.2,1.00,11565,20,Godlike,Single Target
+Dark Elhain,A1,Necrotic Bolt,ATK,6415,1.5,1.2,1.00,11547,20,Average,Single Target
+Centurion,A1,Feed on Suffering,DEF,6010,1.6,1.2,1.00,11539,20,Average,Single Target
+Chevalier,A1,Hack Through,DEF,5766,1.6,1.25,1.00,11532,25,Average,Single Target
+Maiden,A1,Icy Temper,ATK,6404,1.5,1.2,1.00,11527,20,Average,Single Target
+Duchess Lilitu,A1,Abyssal Invocation,DEF,6264,1.6,1.15,1.00,11526,15,Average,Single Target
+Gladiator,A3,Torture,ATK,6137,1.5,1.25,1.00,11507,25,Average,AoE Enemy
+Adjudicator,A1,Isolation Cell,ATK,6973,1.5,1.1,1.00,11505,10,Average,Single Target
+Ragemonger,A2,Toxin Flurry,ATK,6392,1.5,1.2,1.00,11506,20,Average,AoE Enemy
+Trugorr,A3,Leave Them Gutted,ATK,6392,1.5,1.2,1.00,11506,20,Average,AoE Enemy
+Kael,A1,Dark Bolt,ATK,6386,1.5,1.2,1.00,11495,20,Average,Single Target
+Ursine Icecrusher,A1,Ravaging Paw,DEF,5987,1.6,1.2,1.00,11495,20,Average,Single Target
+Urticata,A1,Mephitic Spines,ATK,6386,1.5,1.2,1.00,11495,20,Average,Single Target
+Harvester,A1,Destabilize,ATK,6663,1.5,1.15,1.00,11494,15,Average,Single Target
+Huntress,A1,Curved Shot,ATK,6656,1.5,1.15,1.00,11482,15,Average,Single Target
+Lifetaker,A1,Bleeding Serum,ATK,6956,1.5,1.1,1.00,11477,10,Average,Single Target
+Lady Annabelle,A1,Covetous Nails,ATK,6370,1.5,1.2,1.00,11466,20,Average,Single Target
+Arbalester,A1,Spread Misery,ATK,6946,1.5,1.1,1.00,11461,10,Average,Single Target
+Baroth the Bloodsoaked,A2,Splattering Hacks,HP,9966,1,1.15,1.00,11461,15,Average,Single Target
+Elfguard,A1,Puncture,ATK,6366,1.5,1.2,1.00,11459,20,Average,Single Target
+Thrasher,A1,Gorey Fists,ATK,6366,1.5,1.2,1.00,11459,20,Average,Single Target
+Graybeard,A2,Ice Crush,ATK,6640,1.5,1.15,1.00,11454,15,Average,AoE Enemy
+Thenasil,A1,Spring Lullaby,ATK,7625,1.5,1,1.00,11438,0,Average,Single Target
+Ginro the Stork,A1,Plunging Beak,DEF,6494,1.6,1.1,1.00,11429,10,Average,Single Target
+Shirimani,A3,Ice Storm,ATK,6926,1.5,1.1,1.00,11428,10,Average,AoE Enemy
+Sandlashed Survivor,A1,Smell Weakness,DEF,6208,1.6,1.15,1.00,11423,15,Average,Single Target
+Faceless,A1,Fireball,ATK,6342,1.5,1.2,1.00,11416,20,Average,Single Target
+Drexthar Bloodtwin,A1,Eldritch Flames,DEF,5945,1.6,1.2,1.00,11414,20,Average,Single Target
+Runekeeper Dazdurk,A1,Syphon Symbol,DEF,5942,1.6,1.2,1.00,11409,20,Average,Single Target
+Candleguard,A1,Light of Scrutiny,ATK,6914,1.5,1.1,1.00,11408,10,Average,Single Target
+Gravechill Killer,A1,Freezing Toxin,ATK,6914,1.5,1.1,1.00,11408,10,Average,Single Target
+Hollow,A1,Bleed Away,ATK,6606,1.5,1.15,1.00,11395,15,Average,Single Target
+Misericord,A1,Pity Slaying,ATK,6904,1.5,1.1,1.00,11392,10,Average,Single Target
+Treefeller,A1,Pruning Limbs,ATK,6890,1.5,1.1,1.00,11369,10,Average,Single Target
+Lua,A1,Splinter Arrow,ATK,6313,1.5,1.2,1.00,11363,20,Godlike,Single Target
+Seer,A1,Knock Out,ATK,6313,1.5,1.2,1.00,11363,20,Average,Single Target
+Duhr the Hungerer,A1,Odious Bulk,ATK,6881,1.5,1.1,1.00,11354,10,Average,Single Target
+Grizzled Jarl,A1,Massive Halberd,DEF,6449,1.6,1.1,1.00,11350,10,Average,Single Target
+Marked,A2,Punishment of Gods,ATK,6302,1.5,1.2,1.00,11344,20,Average,AoE Enemy
+Lonatharil,A1,Gallantry,HP,9439,1,1.2,1.00,11327,20,Average,Single Target
+Broodlord,A1,Patient Tactician,DEF,6435,1.6,1.1,1.00,11326,10,Average,Single Target
+Lumberer,A1,Gigantic Pulverizers,ATK,6559,1.5,1.15,1.00,11314,15,Average,Single Target
+Slitherbrute,A1,Rusty Gash,ATK,6852,1.5,1.1,1.00,11306,10,Average,Single Target
+Sanctum Protector,A2,Hallowed Ground,DEF,5885,1.6,1.2,1.00,11299,20,Average,AoE Enemy
+Kunoichi,A1,Sever Muscle,DEF,5884,1.6,1.2,1.00,11297,20,Average,Single Target
+Zii Ixchi,A1,Brush Choppers,ATK,5792,1.5,1.3,1.00,11294,30,Average,Single Target
+Vergumkaar,A1,Bejeweled Bulk,ATK,6844,1.5,1.1,1.00,11293,10,Average,Single Target
+Warlord,A1,Bludgeon,ATK,6844,1.5,1.1,1.00,11293,10,Average,Single Target
+Warlord,A3,Orcish Rituals,ATK,7528,1.5,1,1.00,11292,0,Average,AoE Enemy
+Jingwon,A2,Compound Calamity,HP,11290,1,1,1.00,11290,0,Average,Single Target
+Sir Nicholas,A1,Boreal Blade,HP,9032,1,1.25,1.00,11290,25,Average,Single Target
+Deliana,A2,Withering Scorn,HP,10259,1,1.1,1.00,11285,10,Average,Single Target
+Marquis,A3,Paralyzing Bolts,ATK,6839,1.5,1.1,1.00,11284,10,Average,AoE Enemy
+Purgator,A1,Doom Inescapable,ATK,6267,1.5,1.2,1.00,11281,20,Average,Single Target
+Rakka Viletide,A1,Ichor of Life,ATK,6260,1.5,1.2,1.00,11268,20,Average,Single Target
+Tracker,A1,Hooked Arrowheads,ATK,6260,1.5,1.2,1.00,11268,20,Average,Single Target
+Madman,A1,Wild Slashing,ATK,6004,1.5,1.25,1.00,11258,25,Average,Single Target
+Admonitor,A1,Shield Wall,ATK,5559,1.5,1.35,1.00,11257,35,Average,Single Target
+Itinerant,A1,Soultap,ATK,6250,1.5,1.2,1.00,11250,20,Average,Single Target
+Truath,A2,Gaze Upon Me,HP,8653,1,1.3,1.00,11249,30,Average,AoE Enemy
+Pathfinder Cait,A1,Dragging Line,ATK,6817,1.5,1.1,1.00,11248,10,Average,Single Target
+Skullsquire,A1,Maim,ATK,6813,1.5,1.1,1.00,11241,10,Average,Single Target
+Shaman,A1,Dispelling Blow,ATK,6802,1.5,1.1,1.00,11223,10,Average,Single Target
+Wandering Priest,A1,Brilliant Lightning,ATK,6496,1.5,1.15,1.00,11206,15,Average,Single Target
+Mordecai,A1,Purgatory,ATK,6790,1.5,1.1,1.00,11204,10,Average,Single Target
+Black Knight,A1,Heavy Blow,HP,9331,1,1.2,1.00,11197,20,Average,Single Target
+Boltsmith,A1,Quarrel Cripple,ATK,6489,1.5,1.15,1.00,11194,15,Average,Single Target
+Ordinator,A1,Weighty Punishment,ATK,6218,1.5,1.2,1.00,11192,20,Average,Single Target
+Trugorr,A1,Bloodshed Rites,ATK,6210,1.5,1.2,1.00,11178,20,Average,Single Target
+Basilisk,A1,Whirling Axe,ATK,6208,1.5,1.2,1.00,11174,20,Average,AoE Enemy
+Hellfreak,A1,Vile Blades,ATK,6208,1.5,1.2,1.00,11174,20,Average,Single Target
+Masamoto,A1,Dual Slice,DEF,5820,1.6,1.2,1.00,11174,20,Average,Single Target
+Hakkorhn Smashlord,A3,Blood Offering,HP,11170,1,1,1.00,11170,0,Strong,AoE Enemy
+Gator,A1,Hex Smash,ATK,6768,1.5,1.1,1.00,11167,10,Average,Single Target
+Doompriest,A1,Fate Weave,ATK,5955,1.5,1.25,1.00,11166,25,Average,Single Target
+Tarshon,A2,Soul Shrivel,DEF,6342,1.6,1.1,1.00,11162,10,Average,AoE Enemy
+Anointed,A1,Mystic Chill,ATK,6199,1.5,1.2,1.00,11158,20,Average,Single Target
+Crossbowman,A1,Snap Shot,ATK,6188,1.5,1.2,1.00,11138,20,Average,Single Target
+Coldheart,A2,Art of Pain,ATK,6749,1.5,1.1,1.00,11136,10,Average,AoE Enemy
+Countess Lix,A1,Festering Caress,ATK,6747,1.5,1.1,1.00,11133,10,Average,Single Target
+Wuji,A1,Dire Twinblade,ATK,6747,1.5,1.1,1.00,11133,10,Average,Single Target
+Drowned Bloatwraith,A1,Anchor Hook,ATK,6179,1.5,1.2,1.00,11122,20,Average,Single Target
+Flinger,A1,Axe Throw,ATK,5698,1.5,1.3,1.00,11111,30,Average,Single Target
+Missionary,A3,Humble the Faithless,HP,10101,1,1.1,1.00,11111,10,Average,Single Target
+Sorceress,A1,Crystal Bolt,ATK,5917,1.5,1.25,1.00,11094,25,Average,Single Target
+Pestilus,A2,Flames Within,ATK,6426,1.5,1.15,1.00,11085,15,Average,Single Target
+Warcaster,A1,Tactical Ace,ATK,6425,1.5,1.15,1.00,11083,15,Average,Single Target
+Old Ghrukkus,A1,Beating Staff,ATK,6153,1.5,1.2,1.00,11075,20,Average,Single Target
+Crypt-King Graal,A1,Brittleness Bane,ATK,6147,1.5,1.2,1.00,11065,20,Average,Single Target
+Assassin,A1,King's End,ATK,6402,1.5,1.15,1.00,11043,15,Average,Single Target
+Nethril,A1,Blood Harvest,ATK,6692,1.5,1.1,1.00,11042,10,Average,Single Target
+Skathix,A1,Leg Wrack,ATK,6393,1.5,1.15,1.00,11028,15,Average,Single Target
+Vanguard,A1,Gathering Momentum,ATK,6125,1.5,1.2,1.00,11025,20,Average,Single Target
+Skink,A1,Slippery Strike,ATK,5873,1.5,1.25,1.00,11012,25,Average,Single Target
+Arcanist,A1,Paralyzing Touch,ATK,5865,1.5,1.25,1.00,10997,25,Average,Single Target
+Bloodbraid,A1,Enraging Prowess,ATK,5632,1.5,1.3,1.00,10982,30,Average,Single Target
+Erinyes,A2,Almighty Curse,ATK,6970,1.5,1.05,1.00,10978,5,Average,AoE Enemy
+Twinclaw Disciple,A1,Disfigure,ATK,6092,1.5,1.2,1.00,10966,20,Average,Single Target
+Hospitaller,A1,Quick Slash,ATK,6088,1.5,1.2,1.00,10958,20,Average,Single Target
+Vasal of the Seal,A1,Abyssal Seal,HP,9113,1,1.2,1.00,10936,20,Average,Single Target
+Hyria,A1,Feint,ATK,6315,1.5,1.15,1.00,10893,15,Average,Single Target
+Old Hermit Jorrg,A1,Putrid Brazier,ATK,6590,1.5,1.1,1.00,10874,10,Average,Single Target
+Grandmaster,A1,Hammerblows,ATK,6034,1.5,1.2,1.00,10861,20,Average,Single Target
+Mistress of Hymns,A1,Bolstering Blow,ATK,6032,1.5,1.2,1.00,10858,20,Average,Single Target
+Lady Kimi,A2,Flurry of Petals,ATK,6568,1.5,1.1,1.00,10837,10,Average,AoE Enemy
+Armiger,A1,Riposte,DEF,5642,1.6,1.2,1.00,10833,20,Average,Single Target
+Vasal of the Seal,A2,Infernal Darkness,HP,9841,1,1.1,1.00,10825,10,Average,AoE Enemy
+Executioner,A1,Shield Bash,ATK,6008,1.5,1.2,1.00,10814,20,Average,Single Target
+Soulless,A1,Bewildering Blow,DEF,5631,1.6,1.2,1.00,10812,20,Average,Single Target
+Lanakis the Chosen,A1,Chosen's Touch,ATK,5762,1.5,1.25,1.00,10804,25,Average,Single Target
+Bone Knight,A1,Mutilate,ATK,5998,1.5,1.2,1.00,10796,20,Average,Single Target
+Rotting Mage,A1,Gelid Beam,ATK,6255,1.5,1.15,1.00,10790,15,Average,Single Target
+Lyssandra,A1,Transference,ATK,5754,1.5,1.25,1.00,10789,25,Average,Single Target
+Jotun,A2,Burning Blade,HP,9802,1,1.1,1.00,10782,10,Average,Single Target
+Cardiel,A1,Cow the Wicked,ATK,5977,1.5,1.2,1.00,10759,20,Average,Single Target
+Kurzad Deepheart,A3,Deep Ambush,ATK,5736,1.5,1.25,1.00,10755,25,Average,AoE Enemy
+Uugo,A1,Black Hand,ATK,5958,1.5,1.2,1.00,10724,20,Average,Single Target
+Cagebound,A1,Twisted Spike,DEF,5582,1.6,1.2,1.00,10717,20,Average,Single Target
+Opardin Clanfather,A1,Paired Hammers,HP,8915,1,1.2,1.00,10698,20,Average,Single Target
+Crypt-King Graal,A2,Death Fires,ATK,6479,1.5,1.1,1.00,10690,10,Average,AoE Enemy
+Flinger,A2,Meteor,ATK,5698,1.5,1.25,1.00,10684,25,Average,AoE Enemy
+Spirithost,A1,Reap,ATK,5683,1.5,1.25,1.00,10656,25,Average,Single Target
+Warpriest,A1,Admonish,ATK,5919,1.5,1.2,1.00,10654,20,Average,Single Target
+Lugan the Steadfast,A3,Mark of Silence,HP,8877,1,1.2,1.00,10652,20,Average,AoE Enemy
+Corpulent Cadaver,A3,Baleful Tenacity,HP,8856,1,1.2,1.00,10627,20,Weak,Single Target
+Aox the Rememberer,A1,Feathered Staff,ATK,6158,1.5,1.15,1.00,10623,15,Average,Single Target
+Honor Guard,A1,Bell Ringer,DEF,5531,1.6,1.2,1.00,10620,20,Average,Single Target
+Crypt Witch,A2,Dismantle,ATK,6435,1.5,1.1,1.00,10618,10,Weak,Random Enemy
+Saurus,A2,Fire Wave,ATK,6432,1.5,1.1,1.00,10613,10,Average,AoE Enemy
+Gorgorab,A1,Misfortune,ATK,5890,1.5,1.2,1.00,10602,20,Average,Single Target
+Draconis,A3,Order of Mercy,HP,8829,1,1.2,1.00,10595,20,Weak,Single Target
+Incubus,A1,Javelin,ATK,5649,1.5,1.25,1.00,10592,25,Average,Single Target
+Tomoe,A2,Bamboozle,ATK,5882,1.5,1.2,1.00,10588,20,Average,AoE Enemy
+Intercessor,A1,Mangle,ATK,5642,1.5,1.25,1.00,10579,25,Average,Single Target
+Prundar,A1,Flaming Pigsticker,DEF,5289,1.6,1.25,1.00,10578,25,Average,Single Target
+Mycolus,A1,Vigor Spores,ATK,5632,1.5,1.25,1.00,10560,25,Average,Single Target
+Thenasil,A3,Wither,ATK,5865,1.5,1.2,1.00,10557,20,Average,AoE Enemy
+Krakarth,A2,Eternal Return,HP,8793,1,1.2,1.00,10552,20,Weak,Single Target
+Ursine Icecrusher,A2,Howling Gale,DEF,5987,1.6,1.1,1.00,10537,10,Average,AoE Enemy
+Fencer,A3,Blade Flourish,ATK,6107,1.5,1.15,1.00,10535,15,Average,AoE Enemy
+Visionary,A1,Ectoplasm,ATK,5851,1.5,1.2,1.00,10532,20,Average,Single Target
+Broadmaw,A1,Ice Blast,ATK,6101,1.5,1.15,1.00,10524,15,Average,Single Target
+Stout Axeman,A1,Go No Further,ATK,5846,1.5,1.2,1.00,10523,20,Average,Single Target
+Dead Crusader,A2,Crypt Blight,DEF,5479,1.6,1.2,1.00,10520,20,Average,AoE Enemy
+Rocktooth,A2,Stomp,ATK,5844,1.5,1.2,1.00,10519,20,Average,AoE Enemy
+Lady Annabelle,A2,Captivator,ATK,5839,1.5,1.2,1.00,10510,20,Average,AoE Enemy
+Chaplain,A1,Holy Bolt,ATK,5838,1.5,1.2,1.00,10508,20,Average,Single Target
+Bivald of the Thorn,A2,Admonition of Barbs,HP,9552,1,1.1,1.00,10507,10,Average,AoE Enemy
+Wretch,A1,Crypt Touch,ATK,6358,1.5,1.1,1.00,10491,10,Average,Single Target
+Corpse Collector,A1,Insidious Parasite,ATK,6081,1.5,1.15,1.00,10490,15,Average,Single Target
+hero 3750 name,A1,Skill 37501 name,ATK,6353,1.5,1.1,1.00,10482,10,Average,Single Target
+Myrmidon,A1,Bone Splitter,DEF,5453,1.6,1.2,1.00,10470,20,Average,Single Target
+Spider,A1,Possess,ATK,6980,1.5,1,1.00,10470,0,Average,Single Target
+Cagebound,A2,Swordbreak Cage,DEF,5942,1.6,1.1,1.00,10458,10,Average,AoE Enemy
+Grunch Killjoy,A2,Kindle Soulfire,ATK,6041,1.5,1.15,1.00,10421,15,Average,AoE Enemy
+Khoronar,A3,Battle Waltz,HP,8679,1,1.2,1.00,10415,20,Average,AoE Enemy
+Guardian,A1,Chop,ATK,6035,1.5,1.15,1.00,10410,15,Average,Single Target
+Visionary,A2,Haunt,ATK,6034,1.5,1.15,1.00,10409,15,Average,AoE Enemy
+Acolyte,A1,Tireless Anger,ATK,5335,1.5,1.3,1.00,10403,30,Average,Single Target
+Cataphract,A1,Sure Strike,ATK,6305,1.5,1.1,1.00,10403,10,Average,Single Target
+Boragar the Elder,A1,Antique Staff,HP,9044,1,1.15,1.00,10401,15,Average,Single Target
+Akoth the Seared,A3,Pyretic Release,DEF,6497,1.6,1,1.00,10395,0,Average,AoE Enemy
+Zelotah,A3,Horrid Dreams,ATK,6287,1.5,1.1,1.00,10374,10,Average,AoE Enemy
+Tunnel Steward,A1,Vermin Killer,ATK,5762,1.5,1.2,1.00,10372,20,Average,Single Target
+Gloril Brutebane,A1,Scale Hacker,ATK,6284,1.5,1.1,1.00,10369,10,Average,Single Target
+Skirmisher,A3,Dispelling Shot,ATK,5758,1.5,1.2,1.00,10364,20,Average,AoE Enemy
+Graybeard,A1,Expose Weakness,ATK,6006,1.5,1.15,1.00,10360,15,Average,Single Target
+Valerie,A1,Swing,ATK,5754,1.5,1.2,1.00,10357,20,Average,Single Target
+Lamibur,A1,Pressing Advance,ATK,6276,1.5,1.1,1.00,10355,10,Average,Single Target
+Warcaster,A2,Sealing Strike,ATK,6276,1.5,1.1,1.00,10355,10,Average,AoE Enemy
+Missionary,A2,In the Thick,HP,8978,1,1.15,1.00,10325,15,Weak,Single Target
+Mortu-Macaab,A2,Falling from Grace,ATK,5733,1.5,1.2,1.00,10319,20,Average,AoE Enemy
+Crypt-King Graal,A3,Elemental Unity,ATK,5981,1.5,1.15,1.00,10317,15,Average,AoE Enemy
+Flesheater,A1,Freeze the Blood,ATK,5731,1.5,1.2,1.00,10316,20,Average,Single Target
+Magister,A1,Majestic Staff,ATK,5498,1.5,1.25,1.00,10309,25,Average,Single Target
+Retainer,A1,Sundering Chop,DEF,5851,1.6,1.1,1.00,10298,10,Average,Single Target
+Skathix,A2,Transfer Rush,ATK,6240,1.5,1.1,1.00,10296,10,Average,AoE Enemy
+Avir the Alchemage,A1,Flask of Vitreol,ATK,6237,1.5,1.1,1.00,10291,10,Average,Single Target
+Channeler,A1,Rage of Ancients,ATK,6237,1.5,1.1,1.00,10291,10,Average,Single Target
+Galek,A1,Cross Slash,ATK,5480,1.5,1.25,1.00,10275,25,Average,Single Target
+Elder,A1,Mocking Blow,ATK,5475,1.5,1.25,1.00,10266,25,Average,Single Target
+Pyxniel,A2,Grip of Winter,ATK,6844,1.5,1,1.00,10266,0,Average,AoE Enemy
+Frontline Warrior,A1,Wrath Hew,DEF,5569,1.6,1.15,1.00,10247,15,Average,Single Target
+Hellfang,A3,Chilling Howl,ATK,6494,1.5,1.05,1.00,10228,5,Average,AoE Enemy
+Wagonbane,A1,Eye Blight,ATK,5924,1.5,1.15,1.00,10219,15,Average,Single Target
+Diabolist,A1,Torment,ATK,5921,1.5,1.15,1.00,10214,15,Average,Single Target
+Gamuran,A1,Seal Scroll,ATK,5921,1.5,1.15,1.00,10214,15,Average,Single Target
+Grinner,A1,Bile,ATK,5447,1.5,1.25,1.00,10213,25,Average,Single Target
+Samar Gemcursed,A1,Crystal Flesh,HP,8156,1,1.25,1.00,10195,25,Average,Single Target
+Wyvernbane,A1,Hobble Pierce,ATK,6171,1.5,1.1,1.00,10182,10,Average,Single Target
+Adriel,A3,Blinding Flash,ATK,5218,1.5,1.3,1.00,10175,30,Average,AoE Enemy
+Fang Cleric,A1,Conduit Fangs,ATK,5419,1.5,1.25,1.00,10161,25,Average,Single Target
+Kinagashi,A1,Leaping Sword Art,ATK,6153,1.5,1.1,1.00,10152,10,Average,Single Target
+Hellborn Sprite,A1,Shivering Malady,ATK,6147,1.5,1.1,1.00,10143,10,Average,Single Target
+Outlaw Monk,A1,Dagger Throw,ATK,6432,1.5,1.05,1.00,10130,5,Average,Single Target
+Gladiator,A2,Capital Punishment,ATK,6137,1.5,1.1,1.00,10126,10,Weak,Random Enemy
+Totem,A1,Poisonous Evocation,ATK,5625,1.5,1.2,1.00,10125,20,Average,Single Target
+Squire,A2,Weapon Breaker,DEF,5501,1.6,1.15,1.00,10122,15,Average,AoE Enemy
+Greenwarden Ruarc,A1,Sword of the Glades,DEF,5271,1.6,1.2,1.00,10120,20,Average,Single Target
+Deliana,A3,Know Your Place,HP,8793,1,1.15,1.00,10112,15,Average,AoE Enemy
+Pitspawn,A1,Evil Touch,DEF,5035,1.6,1.25,1.00,10070,25,Average,Single Target
+Sikara,A2,Aura Puncture,ATK,5164,1.5,1.3,1.00,10070,30,Average,AoE Enemy
+Oldbeard,A1,Gut Punch,ATK,5590,1.5,1.2,1.00,10062,20,Average,Single Target
+Old Ghrukkus,A3,Harsh Discipline,ATK,6706,1.5,1,1.00,10059,0,Average,AoE Enemy
+Rector Drath,A1,Scepter of Authority,ATK,6088,1.5,1.1,1.00,10045,10,Average,Single Target
+High Khatun,A1,Imperial Grace,ATK,5580,1.5,1.2,1.00,10044,20,Average,Single Target
+Hellfang,A1,Tear,ATK,5567,1.5,1.2,1.00,10021,20,Average,Single Target
+Bulwark,A1,Hefty Flail,DEF,5444,1.6,1.15,1.00,10017,15,Average,Single Target
+Warmaiden,A1,Ferocious Attack,ATK,4755,1.5,1.4,1.00,9986,40,Average,Single Target
+Fireblade,A1,Burning Spear,ATK,5322,1.5,1.25,1.00,9979,25,Average,Single Target
+Ruffstone,A1,Round Up,ATK,5778,1.5,1.15,1.00,9967,15,Average,AoE Enemy
+Pit Cur,A2,Rabid Infection,ATK,6035,1.5,1.1,1.00,9958,10,Average,AoE Enemy
+Rockbeast,A3,Bellow,ATK,6034,1.5,1.1,1.00,9956,10,Average,AoE Enemy
+Prince Kymar,A2,Abyssal Gaze,ATK,5529,1.5,1.2,1.00,9952,20,Average,AoE Enemy
+Tomoe,A1,Stab and Grab,ATK,6032,1.5,1.1,1.00,9953,10,Average,Single Target
+Runic Warder,A2,Superior Steel,HP,8292,1,1.2,1.00,9950,20,Weak,Single Target
+Ghostborn,A2,Petrify,ATK,6631,1.5,1,1.00,9947,0,Average,AoE Enemy
+Ghostborn,A3,Ancestral Spirits,ATK,6631,1.5,1,1.00,9947,0,Average,AoE Enemy
+Master Butcher,A1,Mash,ATK,5526,1.5,1.2,1.00,9947,20,Average,Single Target
+Holsring,A1,Rampant Blows,ATK,5097,1.5,1.3,1.00,9939,30,Average,Random Enemy
+Sentinel,A2,Glaive Swing,ATK,6023,1.5,1.1,1.00,9938,10,Average,AoE Enemy
+Sanctum Protector,A1,Repel Intruders,DEF,5643,1.6,1.1,1.00,9932,10,Average,Single Target
+Avenger,A1,Hunt,ATK,5289,1.5,1.25,1.00,9917,25,Average,Single Target
+Nekmo Thaar,A2,Planar Chains,ATK,5496,1.5,1.2,1.00,9893,20,Average,AoE Enemy
+Fanatic,A1,Devil Hunt,ATK,5977,1.5,1.1,1.00,9862,10,Average,Single Target
+Dhampir,A1,Deathblow,ATK,5473,1.5,1.2,1.00,9851,20,Average,Single Target
+Shieldguard,A2,Battle Stance,DEF,5128,1.6,1.2,1.00,9846,20,Average,AoE Enemy
+Chopper,A1,Staggering Hit,ATK,5466,1.5,1.2,1.00,9839,20,Average,Single Target
+Elegaius,A2,Dead Stop,HP,8540,1,1.15,1.00,9821,15,Weak,Single Target
+Lugan the Steadfast,A1,Crushing Blow,HP,7853,1,1.25,1.00,9816,25,Average,Single Target
+Siegebreaker,A1,Pelting Blows,ATK,5235,1.5,1.25,1.00,9816,25,Average,Single Target
+Rotos the Lost Groom,A1,Terror Scourge,ATK,5448,1.5,1.2,1.00,9806,20,Average,Single Target
+Pitspawn,A2,Darkness,DEF,5322,1.6,1.15,1.00,9792,15,Average,AoE Enemy
+Psylar,A2,Toxic Cloud,ATK,6207,1.5,1.05,1.00,9776,5,Average,AoE Enemy
+Seneschal,A1,Bloodied Mace,DEF,5313,1.6,1.15,1.00,9776,15,Average,Single Target
+Cardinal,A1,Evaporation,ATK,5921,1.5,1.1,1.00,9770,10,Average,Single Target
+Shamrock,A1,Luck Swap,ATK,5921,1.5,1.1,1.00,9770,10,Average,Single Target
+Venomage,A3,Fleshmelter Venom,ATK,5921,1.5,1.1,1.00,9770,10,Average,AoE Enemy
+Acrizia,A1,Unflagging Assault,ATK,5652,1.5,1.15,1.00,9750,15,Average,Single Target
+Pit Cur,A1,Hamstring Bite,ATK,5909,1.5,1.1,1.00,9750,10,Average,Single Target
+Zelotah,A1,Hypnotic Gaze,ATK,5909,1.5,1.1,1.00,9750,10,Average,Single Target
+Siphi the Lost Bride,A1,Curse of Longing,ATK,6496,1.5,1,1.00,9744,0,Average,Single Target
+Raf-Matab,A2,Stampede,HP,8116,1,1.2,1.00,9739,20,Average,AoE Enemy
+Sniktraak,A1,Misery Morningstar,HP,8116,1,1.2,1.00,9739,20,Average,Single Target
+Deacon Armstrong,A2,Sweeping Retribution,ATK,5642,1.5,1.15,1.00,9732,15,Average,AoE Enemy
+Ursala the Mourner,A2,Waves of Grief,ATK,5406,1.5,1.2,1.00,9731,20,Average,AoE Enemy
+Hexweaver,A1,Curse,ATK,5886,1.5,1.1,1.00,9712,10,Average,Single Target
+Grunch Killjoy,A1,Mace of Foulness,ATK,5178,1.5,1.25,1.00,9709,25,Average,Single Target
+Grinner,A2,Shock,ATK,5866,1.5,1.1,1.00,9679,10,Average,AoE Enemy
+Sir Nicholas,A2,Polar Protection,HP,8064,1,1.2,1.00,9677,20,Average,AoE Enemy
+Chaplain,A3,Radiance,ATK,5364,1.5,1.2,1.00,9655,20,Average,AoE Enemy
+Guurda Bogbrew,A2,Rotlimb Decoction,ATK,5364,1.5,1.2,1.00,9655,20,Average,AoE Enemy
+Treefeller,A3,Blasting Powder,ATK,6124,1.5,1.05,1.00,9645,5,Weak,Random Enemy
+Dead Crusader,A1,Archaic Gladius,DEF,5023,1.6,1.2,1.00,9644,20,Average,Single Target
+Djamarsa,A1,Night's Finger,ATK,5587,1.5,1.15,1.00,9638,15,Average,Single Target
+Rock Breaker,A1,Whirling Hammers,DEF,4815,1.6,1.25,1.00,9630,25,Average,Single Target
+Mother Superior,A1,Lightning Sanction,ATK,5132,1.5,1.25,1.00,9623,25,Average,Single Target
+Avir the Alchemage,A2,Corroding Catalyst,ATK,5573,1.5,1.15,1.00,9613,15,Average,AoE Enemy
+Prundar,A2,Hulking Tantrum,DEF,5987,1.6,1,1.00,9579,0,Average,AoE Enemy
+Pilgrim,A1,Thunder Strike,ATK,5105,1.5,1.25,1.00,9572,25,Average,Single Target
+Bivald of the Thorn,A3,Briar Nexus,HP,7960,1,1.2,1.00,9552,20,Average,AoE Enemy
+Venus,A3,Burning Passion,ATK,6367,1.5,1,1.00,9551,0,Average,AoE Enemy
+Heiress,A1,Bullseye,ATK,5304,1.5,1.2,1.00,9547,20,Average,Single Target
+Tormentor,A2,Infernal Miasma,ATK,5786,1.5,1.1,1.00,9547,10,Weak,Random Enemy
+Bad-el-Kazar,A1,Dark Sphere,ATK,5302,1.5,1.2,1.00,9544,20,Average,AoE Enemy
+Theurgist,A2,Touch of Sealing,ATK,5783,1.5,1.1,1.00,9542,10,Weak,Single Target
+Axeman,A1,Heavy Chop,DEF,4579,1.6,1.3,1.00,9524,30,Average,Single Target
+Teodor the Savant,A1,Vile Physick,DEF,5409,1.6,1.1,1.00,9520,10,Average,AoE Enemy
+Sikara,A3,Enfeebling Tips,ATK,5287,1.5,1.2,1.00,9517,20,Average,AoE Enemy
+Necrohunter,A2,Gravestorm,ATK,5285,1.5,1.2,1.00,9513,20,Godlike,AoE Enemy
+Madame Serris,A1,Panic Spread,ATK,5281,1.5,1.2,1.00,9506,20,Average,Single Target
+Lemure,A1,Vicious Swipes,ATK,5510,1.5,1.15,1.00,9505,15,Average,Single Target
+Skullsworn,A1,Vicious Rip,ATK,4873,1.5,1.3,1.00,9502,30,Average,Single Target
+High Khatun,A3,Shamanic Lightning,ATK,5278,1.5,1.2,1.00,9500,20,Average,AoE Enemy
+Uugo,A2,Maelstrom Wrack,ATK,5500,1.5,1.15,1.00,9488,15,Average,AoE Enemy
+Vildrax,A1,Verminous Grasp,ATK,5271,1.5,1.2,1.00,9488,20,Average,Single Target
+Peydma,A1,Agonize,DEF,5153,1.6,1.15,1.00,9482,15,Average,Single Target
+Urost the Soulcage,A2,Fetid Eruption,HP,8243,1,1.15,1.00,9479,15,Average,AoE Enemy
+Squire,A1,Overhead Swing,DEF,4937,1.6,1.2,1.00,9479,20,Average,Single Target
+Atur,A2,Raging Bull,DEF,5150,1.6,1.15,1.00,9476,15,Weak,Random Enemy
+Ursala the Mourner,A1,Lance of Penitence,ATK,5743,1.5,1.1,1.00,9476,10,Average,Single Target
+Khoronar,A1,Flourish of Slaughter,HP,7890,1,1.2,1.00,9468,20,Average,AoE Enemy
+Opardin Clanfather,A2,Rally the Tribe,HP,8596,1,1.1,1.00,9456,10,Average,AoE Enemy
+Magmablood,A3,Magma Bomb,ATK,6297,1.5,1,1.00,9446,0,Weak,Random Enemy
+Justiciar,A1,Hold the Line,ATK,5475,1.5,1.15,1.00,9444,15,Average,Single Target
+Liburga,A1,Dripping Doom,ATK,5717,1.5,1.1,1.00,9433,10,Average,Single Target
+Conscript,A1,Peasant's Bow,ATK,5026,1.5,1.25,1.00,9424,25,Average,Single Target
+Bellower,A2,Mighty Bellow,ATK,6276,1.5,1,1.00,9414,0,Average,AoE Enemy
+Medicus,A1,Dual Scalpel,ATK,5222,1.5,1.2,1.00,9400,20,Average,Single Target
+Oboro,A1,Spreading Chaos,ATK,5693,1.5,1.1,1.00,9393,10,Godlike,AoE Enemy
+King Gallcobar,A2,Vitriolic Thorns,ATK,5690,1.5,1.1,1.00,9389,10,Weak,AoE Enemy
+Frostskin,A1,Frozen Fists,ATK,5683,1.5,1.1,1.00,9377,10,Average,Single Target
+Deathknight,A1,Decrepit Hatchet,ATK,5000,1.5,1.25,1.00,9375,25,Average,Single Target
+Rae,A1,Corrode,ATK,5195,1.5,1.2,1.00,9351,20,Average,AoE Enemy
+Fortress Goon,A1,Cruel Trap,DEF,5305,1.6,1.1,1.00,9337,10,Average,Single Target
+Madame Serris,A2,Tricks and Treats,ATK,5406,1.5,1.15,1.00,9325,15,Weak,AoE Enemy
+Arix,A1,Deathly Arts,HP,7761,1,1.2,1.00,9313,20,Average,AoE Enemy
+Skull Lord Var-Gall,A1,Gleeful Ripping,DEF,5050,1.6,1.15,1.00,9292,15,Average,Single Target
+Arbiter,A1,Gaze of Justice,ATK,5630,1.5,1.1,1.00,9290,10,Average,Single Target
+Wuji,A4,Skill 71505 name,ATK,5623,1.5,1.1,1.00,9278,10,Weak,AoE Enemy
+Venus,A2,Blind With Infatuation,ATK,5889,1.5,1.05,1.00,9275,5,Weak,AoE Enemy
+Valkyrie,A1,Denigration,ATK,4942,1.5,1.25,1.00,9266,25,Average,Single Target
+Hardscale,A1,Ambush,ATK,5143,1.5,1.2,1.00,9257,20,Average,Single Target
+Panthera,A1,Claws Upon Claws,ATK,4937,1.5,1.25,1.00,9257,25,Average,Single Target
+Magister,A3,Censure,ATK,5364,1.5,1.15,1.00,9253,15,Weak,AoE Enemy
+Vigilante,A1,Holy Blade,ATK,4930,1.5,1.25,1.00,9244,25,Average,Single Target
+Flesh-Tearer,A3,Lay Low,ATK,5132,1.5,1.2,1.00,9238,20,Weak,AoE Enemy
+Bloodmask,A3,Skull Fracture,HP,8032,1,1.15,1.00,9237,15,Weak,Single Target
+Muckstalker,A2,Strangle,ATK,5116,1.5,1.2,1.00,9209,20,Weak,Single Target
+Skellag,A2,Blizzard,ATK,4547,1.5,1.35,1.00,9208,35,Weak,AoE Enemy
+Tyrant Ixlimor,A1,Feast of Flame,DEF,4780,1.6,1.2,1.00,9178,20,Average,Single Target
+Adjudicator,A3,Penalize,ATK,5089,1.5,1.2,1.00,9160,20,Weak,Random Enemy
+Wythir the Crowned,A1,Soul's Impalement,DEF,4769,1.6,1.2,1.00,9156,20,Average,AoE Enemy
+King Gallcobar,A1,Tanglestaff,ATK,5081,1.5,1.2,1.00,9146,20,Average,Single Target
+Lydia the Deathsiren,A1,Oppression,ATK,5081,1.5,1.2,1.00,9146,20,Average,Single Target
+Lamibur,A2,Rain of Gore,ATK,5080,1.5,1.2,1.00,9144,20,Weak,AoE Enemy
+Deacon Armstrong,A1,Mace of Contempt,ATK,5078,1.5,1.2,1.00,9140,20,Average,Single Target
+Commander,A1,Holy Fire,ATK,4330,1.5,1.4,1.00,9093,40,Average,Single Target
+Suzerain Katonn,A1,Temporal Nova,ATK,5048,1.5,1.2,1.00,9086,20,Average,AoE Enemy
+Dolor Lorekeeper,A1,Banisher Axe,ATK,5266,1.5,1.15,1.00,9084,15,Average,Single Target
+Ba Satha,A3,Staggering Heft,HP,7858,1,1.15,1.00,9037,15,Weak,AoE Enemy
+Jingwon,A3,Power Flare,HP,9032,1,1,1.00,9032,0,Weak,AoE Enemy
+Carlinia,A2,Penance,ATK,5470,1.5,1.1,1.00,9026,10,Weak,AoE Enemy
+Mystic Hand,A2,Turn the Tide,ATK,4795,1.5,1.25,1.00,8991,25,Weak,Single Target
+Tigersoul,A1,Scorpion Tips,ATK,4988,1.5,1.2,1.00,8978,20,Average,Single Target
+Stalker,A1,Bloody Claws,ATK,4987,1.5,1.2,1.00,8977,20,Average,Single Target
+Deathchanter,A1,Clobber,ATK,4601,1.5,1.3,1.00,8972,30,Average,Single Target
+Hill Nomad,A1,Sandstorm Blade,ATK,4984,1.5,1.2,1.00,8971,20,Average,Single Target
+Cardiel,A5,Skill 57601 name (CLONE),ATK,5977,1.5,1,1.00,8966,0,Weak,Single Target
+Skartorsis,A1,Hand of Doom,ATK,5196,1.5,1.15,1.00,8963,15,Average,AoE Enemy
+Avenger,A2,Lethal Vortex,ATK,4978,1.5,1.2,1.00,8960,20,Weak,Random Enemy
+Furystoker,A1,Crush,ATK,4977,1.5,1.2,1.00,8959,20,Average,Single Target
+Lydia the Deathsiren,A2,Siren's Wail,ATK,5419,1.5,1.1,1.00,8941,10,Weak,AoE Enemy
+Quargan the Crowned,A1,Nature's Cycle,ATK,5419,1.5,1.1,1.00,8941,10,Average,Single Target
+Totem,A3,Manglestorm,ATK,5181,1.5,1.15,1.00,8937,15,Weak,AoE Enemy
+Chaagur,A4,Constant Agony [P],ATK,5946,1.5,1,1.00,8919,0,Weak,Single Target
+Luthiea,A2,Ice Shot,ATK,4754,1.5,1.25,1.00,8914,25,Weak,Random Enemy
+Bloodmask,A2,Foot Stomp,HP,7745,1,1.15,1.00,8907,15,Weak,Single Target
+Jingwon,A1,Doom Exchange,HP,7419,1,1.2,1.00,8903,20,Average,Single Target
+Golden Reaper,A2,Maelstrom,ATK,4942,1.5,1.2,1.00,8896,20,Weak,AoE Enemy
+Achak the Wendarin,A1,Devour All Hope,ATK,4937,1.5,1.2,1.00,8887,20,Average,Single Target
+Woad-Painted,A1,Crossup,HP,7404,1,1.2,1.00,8885,20,Average,Single Target
+Bellower,A3,Bowl Over,ATK,5379,1.5,1.1,1.00,8875,10,Weak,AoE Enemy
+Versulf the Grim,A1,Stern Admonishing,HP,7371,1,1.2,1.00,8845,20,Average,Single Target
+Teela Goremane,A1,Hexdrinker Scimitar,HP,6783,1,1.3,1.00,8818,30,Average,Single Target
+Jurojin,A1,Monk's Spade,HP,7664,1,1.15,1.00,8814,15,Average,Single Target
+Stalwart,A1,Rattle,ATK,4698,1.5,1.25,1.00,8809,25,Average,Single Target
+Diabolist,A2,Electric Storm,ATK,5329,1.5,1.1,1.00,8793,10,Weak,AoE Enemy
+Bivald of the Thorn,A1,Thorn Maul,HP,7960,1,1.1,1.00,8756,10,Average,Single Target
+Ursuga Warcaller,A1,Gigantic Cudgel,HP,7611,1,1.15,1.00,8753,15,Average,Single Target
+Ursuga Warcaller,A2,Barrel Through,HP,7611,1,1.15,1.00,8753,15,Weak,AoE Enemy
+Myciliac Priest Orn,A3,The Colony Expands,HP,7276,1,1.2,1.00,8731,20,Weak,AoE Enemy
+Infernal Baroness,A1,Life Syphon,DEF,4362,1.6,1.25,1.00,8724,25,Average,AoE Enemy
+Archmage Hellmut,A2,Timeslip,ATK,4839,1.5,1.2,1.00,8710,20,Strong,AoE Enemy
+Urost the Soulcage,A1,Jagged Knuckles,HP,7556,1,1.15,1.00,8689,15,Average,Single Target
+Satyr,A1,Deep Cut,ATK,4827,1.5,1.2,1.00,8689,20,Average,Single Target
+Yoshi the Drunkard,A2,Flaming Spirits,ATK,4827,1.5,1.2,1.00,8689,20,Weak,Random Enemy
+Seducer,A1,Lulling Touch,DEF,4522,1.6,1.2,1.00,8682,20,Average,Single Target
+Crusher,A1,Scythe,ATK,5252,1.5,1.1,1.00,8666,10,Average,Single Target
+Harvest Jack,A3,Lord of Terror,HP,7871,1,1.1,1.00,8658,10,Weak,AoE Enemy
+Pyxniel,A1,Mistress of Glamours,ATK,4775,1.5,1.2,1.00,8595,20,Average,Single Target
+Vildrax,A2,Duke of Flies,ATK,5729,1.5,1,1.00,8594,0,Weak,AoE Enemy
+Godseeker Aniri,A2,Quest For Meaning,DEF,5360,1.6,1,1.00,8576,0,Weak,AoE Enemy
+Raf-Matab,A1,Elderspear,HP,7142,1,1.2,1.00,8570,20,Average,Single Target
+Spiritwalker,A1,Cripple,ATK,5159,1.5,1.1,1.00,8512,10,Average,Single Target
+Klodd Beastfeeder,A1,New Stabby Hand,HP,7390,1,1.15,1.00,8499,15,Average,Single Target
+Ifrit,A2,Withering Bolt,ATK,4698,1.5,1.2,1.00,8456,20,Weak,Single Target
+Dhampir,A2,Bloody Feast,ATK,4692,1.5,1.2,1.00,8446,20,Weak,AoE Enemy
+Geomancer,A1,Tremor Staff,ATK,4895,1.5,1.15,1.00,8444,15,Average,AoE Enemy
+Defiled Sinner,A1,Murderer's Craft,ATK,4690,1.5,1.2,1.00,8442,20,Godlike,AoE Enemy
+Haruspex,A1,Infected Liver,ATK,4677,1.5,1.2,1.00,8419,20,Average,Single Target
+Kallia,A3,Flame Tempest,ATK,4676,1.5,1.2,1.00,8417,20,Weak,Random Enemy
+Lord Champfort,A2,Earthshaker,HP,7275,1,1.15,1.00,8366,15,Weak,AoE Enemy
+Gwynneth,A1,Infiltrator,ATK,4290,1.5,1.3,1.00,8366,30,Average,AoE Enemy
+Preacher,A1,Holy Blow,ATK,4449,1.5,1.25,1.00,8342,25,Average,Single Target
+Prince Kymar,A1,Phantom Fire,ATK,4608,1.5,1.2,1.00,8294,20,Average,AoE Enemy
+Windtalker,A1,Thunder,ATK,4606,1.5,1.2,1.00,8291,20,Average,Single Target
+Coffin Smasher,A2,Tombfire,HP,6632,1,1.25,1.00,8290,25,Weak,Single Target
+Sister Militant,A1,Wide Swing,ATK,4596,1.5,1.2,1.00,8273,20,Average,AoE Enemy
+Magnarr,A1,Superheated Hammer,HP,6886,1,1.2,1.00,8263,20,Average,Single Target
+Royal Guard,A2,Takedown,ATK,4587,1.5,1.2,1.00,8257,20,Godlike,AoE Enemy
+Crohnam,A2,Berserker's Delight,ATK,4764,1.5,1.15,1.00,8218,15,Weak,Random Enemy
+Vilespawn,A1,Hellblight,ATK,4563,1.5,1.2,1.00,8213,20,Average,Single Target
+Duedan the Runic,A2,Protector Effigy,HP,6834,1,1.2,1.00,8201,20,Weak,AoE Enemy
+Souldrinker,A2,Raining Fire,ATK,4554,1.5,1.2,1.00,8197,20,Weak,Random Enemy
+Miscreated Monster,A2,Lightning Storm,HP,6818,1,1.2,1.00,8182,20,Weak,AoE Enemy
+Teela Goremane,A3,Life Worm,HP,6783,1,1.2,1.00,8140,20,Weak,AoE Enemy
+Guurda Bogbrew,A1,Brew Mama,ATK,4693,1.5,1.15,1.00,8095,15,Average,Single Target
+White Dryad Nia,A1,Strangling Plants,DEF,4571,1.6,1.1,1.00,8045,10,Average,AoE Enemy
+Fortress Goon,A2,Devastating Wounds,DEF,4020,1.6,1.25,1.00,8040,25,Weak,AoE Enemy
+Carlinia,A1,Perdition,ATK,4862,1.5,1.1,1.00,8022,10,Average,Single Target
+Pain Keeper,A2,Spectacular Sweep,DEF,4160,1.6,1.2,1.00,7987,20,Weak,AoE Enemy
+Pestilus,A1,Blood Call,ATK,4626,1.5,1.15,1.00,7980,15,Average,Random Enemy
+Mighty Ukko,A1,Ukko Smash,ATK,4432,1.5,1.2,1.00,7978,20,Average,AoE Enemy
+Ninja,A2,Hailburn,ATK,4613,1.5,1.15,1.00,7957,15,Weak,Random Enemy
+Hellhound,A1,Paralyzing Bite,ATK,4078,1.5,1.3,1.00,7952,30,Average,Single Target
+Banshee,A3,Death Ray,ATK,4067,1.5,1.3,1.00,7931,30,Weak,Random Enemy
+Lord Champfort,A1,Annihilation,HP,6326,1,1.25,1.00,7908,25,Weak,Single Target
+Holsring,A3,Witchfinder,ATK,5247,1.5,1,1.00,7871,0,Weak,Random Enemy
+Medicus,A2,Restraints,ATK,4762,1.5,1.1,1.00,7857,10,Weak,AoE Enemy
+Armiger,A2,Lay to Rest,DEF,4091,1.6,1.2,1.00,7855,20,Godlike,Single Target
+Drokgul the Gaunt,A1,Bonebreak Boulder,HP,6493,1,1.2,1.00,7792,20,Weak,Single Target
+Jarang,A3,Talons,ATK,4720,1.5,1.1,1.00,7788,10,Weak,Random Enemy
+Suntribe,A1,Inscribed Axes,ATK,4326,1.5,1.2,1.00,7787,20,Weak,Single Target
+Banshee,A2,Cursed Touch,ATK,4502,1.5,1.15,1.00,7766,15,Weak,AoE Enemy
+Thea the Tomb Angel,A1,Befoulment,ATK,4704,1.5,1.1,1.00,7762,10,Weak,Random Enemy
+Grumbler,A2,No Coming Back,HP,6197,1,1.25,1.00,7746,25,Weak,Single Target
+Nari the Lucky,A1,Wee Filcher,DEF,4399,1.6,1.1,1.00,7742,10,Weak,Single Target
+Gronjarr,A3,Fires of Auld,HP,6451,1,1.2,1.00,7741,20,Weak,AoE Enemy
+Deliana,A1,Heart Stealer,HP,6449,1,1.2,1.00,7739,20,Weak,AoE Enemy
+Hoforees the Tusked,A1,Burly Bash,HP,7035,1,1.1,1.00,7739,10,Weak,Single Target
+Baroth the Bloodsoaked,A1,Gilded Weapons,HP,7034,1,1.1,1.00,7737,10,Weak,Single Target
+Vildrax,A3,Swarm of Horrors,ATK,5156,1.5,1,1.00,7734,0,Weak,AoE Enemy
+Hakkorhn Smashlord,A1,Inhuman Force,HP,6702,1,1.15,1.00,7707,15,Weak,Single Target
+Knecht,A1,Stab,DEF,4010,1.6,1.2,1.00,7699,20,Weak,Single Target
+Warboy,A1,Plunder,DEF,4010,1.6,1.2,1.00,7699,20,Weak,Single Target
+Truath,A1,Staff of Liferip,HP,6409,1,1.2,1.00,7691,20,Weak,Single Target
+Gory,A2,Frost Jutsu,ATK,4661,1.5,1.1,1.00,7691,10,Weak,Random Enemy
+Sachi,A1,Sickle Sweep,ATK,4661,1.5,1.1,1.00,7691,10,Weak,AoE Enemy
+Anchorite,A1,Warm Embrace,ATK,4454,1.5,1.15,1.00,7683,15,Weak,AoE Enemy
+Ba Satha,A1,Death Roll,HP,6985,1,1.1,1.00,7684,10,Weak,Single Target
+Battlesage,A1,Lightning Slash,ATK,4067,1.5,1.25,1.00,7626,25,Weak,AoE Enemy
+Golden Reaper,A1,Harvest of Blood,ATK,4613,1.5,1.1,1.00,7611,10,Weak,Single Target
+Bogwalker,A2,Combo Attack,DEF,3650,1.6,1.3,1.00,7592,30,Weak,AoE Enemy
+Lemure,A2,Dark Burst,ATK,4391,1.5,1.15,1.00,7574,15,Weak,Single Target
+Krisk the Ageless,A1,Enter the Morass,DEF,4273,1.6,1.1,1.00,7520,10,Weak,AoE Enemy
+Duedan the Runic,A1,Lodestone Claw,HP,6265,1,1.2,1.00,7518,20,Weak,Single Target
+Lodric Falconheart,A1,Strike of Dismay,HP,6261,1,1.2,1.00,7513,20,Weak,Single Target
+Warchanter,A2,Frenzy,HP,6261,1,1.2,1.00,7513,20,Average,AoE Enemy
+Stag Knight,A2,Huntmaster,ATK,4547,1.5,1.1,1.00,7503,10,Weak,AoE Enemy
+Angar,A2,Infuriate,HP,6242,1,1.2,1.00,7490,20,Weak,AoE Enemy
+Troglodyte,A1,Acid Blade,DEF,3890,1.6,1.2,1.00,7469,20,Weak,Single Target
+Grohak the Bloodied,A1,Sap Swiftness,ATK,4325,1.5,1.15,1.00,7461,15,Weak,Random Enemy
+Bergoth the Malformed,A1,Nightmare Juggernaut,HP,6200,1,1.2,1.00,7440,20,Weak,Single Target
+Toragi the Frog,A2,Potent Stench,HP,6200,1,1.2,1.00,7440,20,Weak,AoE Enemy
+Harvest Jack,A1,Harvest of Fear,HP,6747,1,1.1,1.00,7422,10,Weak,Single Target
+Soulbond Bowyer,A1,Ancestral Guidance,ATK,3958,1.5,1.25,1.00,7421,25,Weak,AoE Enemy
+Chonoru,A2,Reign of Fear,ATK,4301,1.5,1.15,1.00,7419,15,Weak,Random Enemy
+Gronjarr,A1,Pyro Pummel,HP,6451,1,1.15,1.00,7419,15,Weak,Single Target
+Sentinel,A1,Hook,ATK,4284,1.5,1.15,1.00,7390,15,Weak,Single Target
+Towering Titan,A1,Shieldsplitter,HP,6702,1,1.1,1.00,7372,10,Weak,Single Target
+Theurgist,A1,Ice Debris,ATK,4091,1.5,1.2,1.00,7364,20,Weak,Single Target
+Hungerer,A1,Meat Masher,ATK,4090,1.5,1.2,1.00,7362,20,Weak,Single Target
+Elhain,A2,Lightning Arrow,ATK,4082,1.5,1.2,1.00,7348,20,Strong,AoE Enemy
+Reliquary Tender,A1,Warden Staff,ATK,3897,1.5,1.25,1.00,7307,25,Weak,Single Target
+Pit Fighter,A1,True Strike,ATK,3889,1.5,1.25,1.00,7292,25,Weak,Single Target
+Aothar,A2,Holy Flame,ATK,3735,1.5,1.3,1.00,7283,30,Weak,Random Enemy
+Castigator,A1,Castigate,HP,6583,1,1.1,1.00,7241,10,Weak,Single Target
+Rowan,A2,Scourge,ATK,4022,1.5,1.2,1.00,7240,20,Weak,Random Enemy
+Warden,A3,Wall of Thorns,DEF,3758,1.6,1.2,1.00,7215,20,Weak,AoE Enemy
+Harvest Jack,A2,Dreams to Ash,HP,5997,1,1.2,1.00,7196,20,Weak,AoE Enemy
+Crimson Helm,A1,Sucker Punch,ATK,4349,1.5,1.1,1.00,7176,10,Weak,Single Target
+Magekiller,A1,Harry,ATK,3981,1.5,1.2,1.00,7166,20,Weak,Single Target
+Urogrim,A1,Skullstaff,ATK,3981,1.5,1.2,1.00,7166,20,Weak,Single Target
+Bloodhorn,A1,Killer Crescent,ATK,4333,1.5,1.1,1.00,7149,10,Weak,Single Target
+Miscreated Monster,A1,Meaty Fists,HP,6493,1,1.1,1.00,7142,10,Weak,Single Target
+Exemplar,A2,Pincer Attack,ATK,4754,1.5,1,1.00,7131,0,Weak,Random Enemy
+Marauder,A1,Kanabo Jutsu,HP,6200,1,1.15,1.00,7130,15,Weak,Single Target
+Marauder,A2,Reckless Sweep,HP,6200,1,1.15,1.00,7130,15,Weak,AoE Enemy
+Gnarlhorn,A1,Ram,ATK,3799,1.5,1.25,1.00,7123,25,Weak,Single Target
+Swordsman,A1,Cut,ATK,4274,1.5,1.1,1.00,7052,10,Weak,Single Target
+Doomscreech,A1,Scrabbling Claws,ATK,3899,1.5,1.2,1.00,7018,20,Weak,Single Target
+Corpulent Cadaver,A1,Crushing Mass,HP,5609,1,1.25,1.00,7011,25,Weak,Single Target
+Myciliac Priest Orn,A1,Spore Stick,HP,5820,1,1.2,1.00,6984,20,Weak,Single Target
+Corpse Collector,A2,Hailfire,ATK,4223,1.5,1.1,1.00,6968,10,Weak,AoE Enemy
+Elegaius,A3,Ghost Rage,HP,6326,1,1.1,1.00,6959,10,Weak,AoE Enemy
+Soulless,A2,Wave of Despair,DEF,3620,1.6,1.2,1.00,6950,20,Weak,Random Enemy
+Word Bearer,A1,Noble Authority,ATK,3704,1.5,1.25,1.00,6945,25,Weak,Single Target
+Lurker,A1,Viral Arrow,ATK,3854,1.5,1.2,1.00,6937,20,Weak,Single Target
+Teshada,A2,Maximum Carnage,DEF,3936,1.6,1.1,1.00,6927,10,Weak,Random Enemy
+Runic Warder,A1,Twin Chops,HP,5528,1,1.25,1.00,6910,25,Weak,Single Target
+Pain Keeper,A1,Unflagging Advance,DEF,3194,1.6,1.35,1.00,6899,35,Weak,Single Target
+Dunestrider,A2,Nomad's Stride,ATK,3830,1.5,1.2,1.00,6894,20,Weak,Random Enemy
+Bully,A1,Bullying,DEF,3308,1.6,1.3,1.00,6881,30,Weak,Single Target
+Torturehelm,A1,Pillage,ATK,4162,1.5,1.1,1.00,6867,10,Weak,Single Target
+Hospitaller,A2,Wave of Purification,ATK,3805,1.5,1.2,1.00,6849,20,Weak,AoE Enemy
+Herald,A1,Doombolt,ATK,3965,1.5,1.15,1.00,6840,15,Weak,Single Target
+Bergoth the Malformed,A2,Chemical Stench,HP,6200,1,1.1,1.00,6820,10,Weak,AoE Enemy
+Toragi the Frog,A1,Swamp Club,HP,6200,1,1.1,1.00,6820,10,Weak,Single Target
+Hero 4900 name,A1,Skill 49001 name,ATK,4119,1.5,1.1,1.00,6796,10,Weak,AoE Enemy
+Line Infantry,A2,Rabble Rouser,DEF,3267,1.6,1.3,1.00,6795,30,Weak,Random Enemy
+Novitiate,A1,Harrying Shot,ATK,3620,1.5,1.25,1.00,6788,25,Weak,Single Target
+Spymaster,A2,Directed Sabotage,HP,5653,1,1.2,1.00,6784,20,Weak,AoE Enemy
+Veteran,A3,Massacre,DEF,3533,1.6,1.2,1.00,6783,20,Weak,AoE Enemy
+Mithrala Lifebane,A1,Libation of Pain,DEF,3852,1.6,1.1,1.00,6780,10,Weak,Random Enemy
+Spider,A2,Calamity,ATK,3915,1.5,1.15,1.00,6753,15,Weak,AoE Enemy
+Paragon,A3,Life Shackles,DEF,4211,1.6,1,1.00,6738,0,Weak,Random Enemy
+Vogoth,A1,Horrendous Strength,HP,5848,1,1.15,1.00,6725,15,Weak,Single Target
+Yeoman,A1,Volley,ATK,4065,1.5,1.1,1.00,6707,10,Weak,Single Target
+Bellower,A1,Frazzle,ATK,3885,1.5,1.15,1.00,6702,15,Weak,AoE Enemy
+Saurus,A1,Wind Cutter,ATK,3574,1.5,1.25,1.00,6701,25,Weak,AoE Enemy
+Gamuran,A2,Thief of Blood,ATK,4441,1.5,1,1.00,6662,0,Weak,AoE Enemy
+Richtoff the Bold,A1,Ruination,ATK,3661,1.5,1.2,1.00,6590,20,Weak,AoE Enemy
+Fu-Shan,A3,Shred,ATK,3988,1.5,1.1,1.00,6580,10,Weak,Random Enemy
+Nazana,A1,Dark Lance,ATK,3508,1.5,1.25,1.00,6578,25,Weak,AoE Enemy
+Bandit,A1,Flaming Shot,ATK,3631,1.5,1.2,1.00,6536,20,Weak,Single Target
+Spymaster,A1,Spymaster's Blade,HP,5653,1,1.15,1.00,6501,15,Weak,Single Target
+Krakarth,A1,Magnificent Scepter,HP,5862,1,1.1,1.00,6448,10,Weak,Single Target
+Tormin the Cold,A1,Rimefire,DEF,4022,1.6,1,1.00,6435,0,Weak,AoE Enemy
+Pikeman,A1,Run Through,ATK,3291,1.5,1.3,1.00,6417,30,Weak,Single Target
+Hegemon,A1,Grave's Grasp,ATK,3869,1.5,1.1,1.00,6384,10,Weak,Random Enemy
+Skytouched Shaman,A1,Talon Knives,ATK,3134,1.5,1.35,1.00,6346,35,Weak,AoE Enemy
+Executioner,A2,Tumult,ATK,3675,1.5,1.15,1.00,6339,15,Weak,AoE Enemy
+Mother Cybele,A1,Mask of Dread,HP,5486,1,1.15,1.00,6309,15,Weak,AoE Enemy
+Draconis,A1,Beneficence,HP,5713,1,1.1,1.00,6284,10,Weak,Single Target
+Elegaius,A1,Spirits of Spite,HP,5693,1,1.1,1.00,6262,10,Weak,Single Target
+Coffin Smasher,A1,Mallet Crescendo,HP,5427,1,1.15,1.00,6241,15,Weak,Single Target
+Nekmo Thaar,A1,Steelmelt Acid,ATK,3191,1.5,1.3,1.00,6222,30,Weak,AoE Enemy
+Line Infantry,A1,Spear Goad,DEF,3381,1.6,1.15,1.00,6221,15,Weak,Single Target
+Vrask,A2,Lightning Strike,HP,4964,1,1.25,1.00,6205,25,Weak,Single Target
+Lady Kimi,A1,Lady's Touch,ATK,3753,1.5,1.1,1.00,6192,10,Strong,Single Target
+Lady Kimi,A1,Lady's Touch,ATK,3753,1.5,1.1,1.00,6192,10,Strong,Single Target
+Sorceress,A3,Vine Trap,ATK,3747,1.5,1.1,1.00,6183,10,Weak,Random Enemy
+Missionary,A1,Crashing Halberd,HP,5611,1,1.1,1.00,6172,10,Weak,Single Target
+Mystic Hand,A1,Tainted Blade,ATK,3565,1.5,1.15,1.00,6150,15,Weak,Single Target
+Vogoth,A2,Wave of Revulsion,HP,5570,1,1.1,1.00,6127,10,Weak,AoE Enemy
+Dracomorph,A2,Poison Jaws,ATK,3018,1.5,1.35,1.00,6111,35,Weak,Random Enemy
+Skellag,A1,Thrust,ATK,3669,1.5,1.1,1.00,6054,10,Weak,Single Target
+Ranger,A2,Multi-Shot,ATK,3357,1.5,1.2,1.00,6043,20,Weak,AoE Enemy
+Warchanter,A1,Head Wound,HP,5486,1,1.1,1.00,6035,10,Weak,Single Target
+Fellhound,A1,Ravage,DEF,3410,1.6,1.1,1.00,6002,10,Weak,AoE Enemy
+Bloodmask,A1,Bone Crunch,HP,5450,1,1.1,1.00,5995,10,Weak,Single Target
+Zephyr Sniper,A1,Suppressive Fire,DEF,3395,1.6,1.1,1.00,5975,10,Weak,AoE Enemy
+Jotun,A1,Brute Strength,HP,5391,1,1.1,1.00,5930,10,Weak,Single Target
+Psylar,A1,Surge,ATK,3267,1.5,1.2,1.00,5881,20,Weak,AoE Enemy
+Foli,A2,Biodisruptor,ATK,3391,1.5,1.15,1.00,5849,15,Weak,Random Enemy
+Basher,A3,Cause Fear,ATK,3486,1.5,1.1,1.00,5752,10,Weak,Random Enemy
+Abyssal,A1,Void Gaze,ATK,3481,1.5,1.1,1.00,5744,10,Weak,AoE Enemy
+Pyxniel,A3,Icicle Barrage,ATK,3183,1.5,1.2,1.00,5729,20,Weak,Random Enemy
+Lua,A1,Splinter Arrow,ATK,3157,1.5,1.2,1.00,5683,20,Godlike,AoE Enemy
+Arbiter,A2,Enforced Humility,ATK,3440,1.5,1.1,1.00,5676,10,Weak,AoE Enemy
+Royal Guard,A3,Hamstring,ATK,3440,1.5,1.1,1.00,5676,10,Weak,Random Enemy
+Snorting Thug,A1,Wanton Mugging,HP,4723,1,1.2,1.00,5668,20,Weak,Single Target
+Rockbeast,A1,Club,ATK,3245,1.5,1.15,1.00,5598,15,Weak,Single Target
+Muckstalker,A1,Pounce,ATK,3070,1.5,1.2,1.00,5526,20,Weak,Single Target
+Banshee,A1,Grave Chill,ATK,3340,1.5,1.1,1.00,5511,10,Weak,AoE Enemy
+Melga Steelgirdle,A1,Inspiring Violence,HP,4397,1,1.25,1.00,5496,25,Weak,Single Target
+Doomscreech,A3,Shelter,ATK,2910,1.5,1.25,1.00,5456,25,Weak,AoE Enemy
+Geargrinder,A1,Gears of Gore,HP,4177,1,1.3,1.00,5430,30,Weak,Single Target
+Oathbound,A1,Shatter,ATK,3283,1.5,1.1,1.00,5417,10,Weak,Single Target
+Kytis,A2,Spikes,ATK,3002,1.5,1.2,1.00,5404,20,Weak,Random Enemy
+Brute,A1,Dirty Cuts,ATK,2998,1.5,1.2,1.00,5396,20,Weak,Random Enemy
+Grappler,A1,Hoodoo,ATK,2988,1.5,1.2,1.00,5378,20,Weak,Random Enemy
+Cagebreaker,A2,Crunch Frenzy,ATK,2980,1.5,1.2,1.00,5364,20,Weak,Random Enemy
+Galek,A3,Cursed Blade,ATK,2899,1.5,1.2,1.00,5218,20,Weak,Random Enemy
+Frostbringer,A2,Snow Flurry,ATK,2889,1.5,1.2,1.00,5200,20,Weak,Random Enemy
+Crimson Slayer,A1,Bring Silence,ATK,2759,1.5,1.25,1.00,5173,25,Weak,Random Enemy
+Ranger,A1,Pin,ATK,3108,1.5,1.1,1.00,5128,10,Weak,Single Target
+Urticata,A3,Wretched Nexus,ATK,3393,1.5,1,1.00,5090,0,Weak,Random Enemy
+Corpse Collector,A3,Noxious Escape,ATK,2787,1.5,1.2,1.00,5017,20,Weak,Random Enemy
+Kael,A3,Disintegrate,ATK,2718,1.5,1.2,1.00,4892,20,Weak,Random Enemy
+Tainix Hateflower,A1,Seeker Bolts,ATK,2833,1.5,1.15,1.00,4887,15,Weak,Random Enemy
+Renegade,A2,Lash Out,ATK,2765,1.5,1.15,1.00,4770,15,Weak,Random Enemy
+Incubus,A2,Demon Fangs,ATK,2492,1.5,1.25,1.00,4673,25,Weak,Random Enemy
+Temptress,A2,Flying Daggers,ATK,2802,1.5,1.1,1.00,4623,10,Weak,Random Enemy
+Oathbound,A3,Intimidate,ATK,3063,1.5,1,1.00,4595,0,Weak,Random Enemy
+Templar,A2,Righteous Challenge,DEF,2706,1.6,1.05,1.00,4546,5,Weak,Random Enemy
+Crimson Helm,A2,Vile Tongue,ATK,3010,1.5,1,1.00,4515,0,Weak,Random Enemy
+Vigilante,A2,Branding Iron,ATK,2465,1.5,1.2,1.00,4437,20,Weak,Random Enemy
+Steadfast Marshal,A1,Thunderous Whallop,HP,4428,1,1,1.00,4428,0,Weak,Single Target
+Ghoulish Ranger,A3,Cryptfire,ATK,2667,1.5,1.1,1.00,4401,10,Weak,Random Enemy
+Lamellar,A1,Sacred Flame,HP,3957,1,1.1,1.00,4353,10,Weak,Single Target
+Frostbringer,A1,Cones of Cold,ATK,2626,1.5,1.1,1.00,4333,10,Weak,Random Enemy
+Blind Seer,A1,Visions of Death,ATK,2468,1.5,1.15,1.00,4257,15,Weak,Random Enemy
+Shirimani,A1,Bolts of Cold,ATK,2365,1.5,1.2,1.00,4257,20,Weak,Random Enemy
+Alure,A1,Psychic Whip,ATK,2353,1.5,1.2,1.00,4235,20,Weak,Random Enemy
+Vrask,A1,Whack,HP,3309,1,1.2,1.00,3971,20,Weak,Single Target
+Apothecary,A1,Scatterbolt,ATK,1858,1.5,1.25,1.00,3484,25,Weak,Random Enemy
+Flesh-Tearer,A1,Multiply Misery,ATK,2199,1.5,1.05,1.00,3463,5,Weak,Single Target
+Ironclad,A1,Wallop,HP,3122,1,1.1,1.00,3434,10,Weak,Single Target
+Grumbler,A1,Angry Mallet,HP,2845,1,1.2,1.00,3414,20,Weak,Single Target
+Steel Bowyer,A3,Big Game,ATK,1810,1.5,1.25,1.00,3394,25,Weak,AoE Enemy
+Renegade,A1,Lingering Pain,ATK,1919,1.5,1.15,1.00,3310,15,Weak,Single Target
+Satyr,A2,Catch!,ATK,1743,1.5,1.25,1.00,3268,25,Weak,Random Enemy
+Lamellar,A2,Crystal Burst,HP,2827,1,1.15,1.00,3251,15,Weak,AoE Enemy
+Towering Titan,A2,Flailing Assault,HP,2681,1,1.2,1.00,3217,20,Weak,Random Enemy
+Towering Titan,A2,Flailing Assault,HP,2681,1,1.2,1.00,3217,20,Weak,Single Target
+Guardian,A2,Thunderclap,ATK,1500,1.5,1.3,1.00,2925,30,Weak,Random Enemy
+Inquisitor Shamael,A4,Skill 45405 name,ATK,1781,1.5,1,1.00,2672,0,Weak,Single Target
+Coldheart,A1,Flurry of Arrows,ATK,1432,1.5,1.15,1.00,2470,15,Weak,Random Enemy
+Elder Skarg,A4,Kingslayer [P],ATK,1517,1.5,1,1.00,2276,0,Weak,Single Target
+Coldheart,A3,Heartseeker,ATK,1034,1.5,1.3,1.00,2016,30,Godlike,Single Target
+Holsring,A2,Overthrow,ATK,671,1.5,1.2,1.00,1208,20,Weak,Random Enemy

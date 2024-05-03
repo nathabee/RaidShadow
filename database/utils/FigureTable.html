@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>CSV to Text Converter</title>
+</head>
+<body>
+  <h1>CSV to Text Converter</h1>
+  <input type="file" id="csvFileInput">
+  <button id="convertButton">Convert CSV to Text</button>
+  <button id="convertToJsonButton">Convert CSV to JSON</button>
+
+  <script>
+    // Function to convert CSV to text and create a file
+    function convertCsvToText() {
+      const fileInput = document.getElementById('csvFileInput');
+      const file = fileInput.files[0];
+
+      if (!file) {
+        alert('Please select a CSV file.');
+        return;
+      }
+
+      const reader = new FileReader();
+
+      reader.onload = function(event) {
+        const csvData = event.target.result;
+        const lines = csvData.split('\n');
+        const headers = lines[0].split(',');
+        const figures = [];
+
+        for (let i = 1; i < lines.length; i++) {
+          const values = lines[i].split(',');
+          const figure = {};
+          for (let j = 0; j < headers.length; j++) {
+            figure[headers[j]] = isNaN(values[j]) ? values[j] : parseFloat(values[j]);
+          }
+          figures.push(figure);
+        }
+
+        const text = `const figures = ${JSON.stringify(figures, null, 2)};`;
+        const blob = new Blob([text], { type: 'text/plain' });
+        const url = URL.createObjectURL(blob);
+
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'figures.txt';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      };
+
+      reader.readAsText(file);
+    }
+
+    // Function to convert CSV to JSON
+    function convertCsvToJson() {
+      
+      const fileInput = document.getElementById('csvFileInput');
+      const file = fileInput.files[0];
+
+      if (!file) {
+        alert('Please select a CSV file.');
+        return;
+      }
+
+      const reader = new FileReader();
+
+      reader.onload = function(event) {
+        const csvData = event.target.result;
+        const lines = csvData.split('\n');
+        const headers = lines[0].split(',');
+        const figures = [];
+
+        for (let i = 1; i < lines.length; i++) {
+          const values = lines[i].split(',');
+          const figure = {};
+          for (let j = 0; j < headers.length; j++) {
+            // Modify header names to make them JSON compatible
+            const modifiedHeader = headers[j].replace(/\W+/g, '_').toLowerCase();
+            figure[modifiedHeader] = isNaN(values[j]) ? values[j] : parseFloat(values[j]);
+          }
+          figures.push(figure);
+        }
+
+        const json = JSON.stringify(figures, null, 2);
+        const blob = new Blob([json], { type: 'application/json' });
+        const url = URL.createObjectURL(blob);
+
+        const a = document.createElement('a');
+        a.href = url;
+        a.download = 'figures.json';
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(url);
+      };
+
+      reader.readAsText(file);
+    }
+
+    // Call the function to convert CSV to text when the button is clicked
+    document.getElementById('convertButton').addEventListener('click', convertCsvToText);
+
+    // Call the function to convert CSV to JSON when the button is clicked
+    document.getElementById('convertToJsonButton').addEventListener('click', convertCsvToJson);
+  </script>
+</body>
+</html>
