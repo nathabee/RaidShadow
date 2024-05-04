@@ -1,12 +1,13 @@
 import * as SQLite from 'expo-sqlite';
 import { initFigureTable } from './migrations/initFigureTable'; // Import database functions
+import { initAttributeTable } from './migrations/initAttributeTable'; // Import database functions
 import displayErrorToast from '../utils/DisplayErrorToast'; // Assuming utils.js contains the displayErrorToast function
 
 const createFigureTable = (db) => {
   db.transaction(
     tx => {
       tx.executeSql(
-        'CREATE TABLE IF NOT EXISTS figure (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, skill TEXT, skillName TEXT, primaryDamageStat TEXT, base INTEGER, ATKorDEFBuff REAL, book REAL, mastery REAL, total INTEGER, damageBonusFromBooks INTEGER, damageGrade TEXT, target TEXT)'
+        'CREATE TABLE IF NOT EXISTS figure (id INTEGER PRIMARY KEY AUTOINCREMENT, name TEXT, skill TEXT, skillName TEXT, primaryDamageStat TEXT, base INTEGER, ATKorDEFBuff REAL, book REAL, mastery REAL, total INTEGER, damageBonusFromBooks INTEGER, damageGrade TEXT, target TEXT, faction TEXT, rarity TEXT, role TEXT, affinity TEXT))'
       );
     },
     (error) => {
@@ -23,7 +24,7 @@ const deleteDatabase = (db) => {
   db.transaction(
     tx => {
       tx.executeSql(
-        'DELETE FROM figure'
+        'delete FROM figure; delete from attribute;'
       );
     },
     (error) => {
@@ -37,7 +38,8 @@ const deleteDatabase = (db) => {
 };
 
 const resetDatabase = (db) => { 
-  deleteDatabase(db);
+  deleteDatabase(db); 
+  initAttributeTable(db);
   initFigureTable(db); // Assuming this function properly handles transactions
 };
 
@@ -45,13 +47,13 @@ const resetDatabase = (db) => {
 
 
 const insertFigure  = (db,   newData) => {
-  const { name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target } = newData;
+  const { name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target,faction,rarity,role,affinity } = newData;
 
   db.transaction(
     tx => {
       tx.executeSql(
-        'INSERT INTO figure (name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)',
-        [name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target],
+        'INSERT INTO figure (name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target,faction,rarity,role,affinity) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?,?,?,?)',
+        [name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target,faction,rarity,role,affinity],
         () => console.log(`Figure with ID ${id} updated successfully`),
         (error) => console.error(`Error updating figure  ${newData}:`, error)
       );
@@ -85,13 +87,13 @@ const deleteFigureById = (db, id ) => {
 
 
 const updateFigureById = (db, id, newData) => {
-  const { name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target } = newData;
+  const { name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target,faction,rarity,role,affinity } = newData;
 
   db.transaction(
     tx => {
       tx.executeSql(
-        'UPDATE figure SET name = ?, skill = ?, skillName = ?, primaryDamageStat = ?, base = ?, ATKorDEFBuff = ?, book = ?, mastery = ?, total = ?, damageBonusFromBooks = ?, damageGrade = ?, target = ? WHERE id = ?',
-        [name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target, id],
+        'UPDATE figure SET name = ?, skill = ?, skillName = ?, primaryDamageStat = ?, base = ?, ATKorDEFBuff = ?, book = ?, mastery = ?, total = ?, damageBonusFromBooks = ?, damageGrade = ?, target = ?,faction = ?,rarity = ?,role = ?,affinity = ? WHERE id = ?',
+        [name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target, faction,rarity,role,affinity,id],
         () => console.log(`Figure with ID ${id} updated successfully`),
         (error) => console.error(`Error updating figure with ID ${id}:`, error)
       );
@@ -103,12 +105,20 @@ const updateFigureById = (db, id, newData) => {
   );
 };
 
-const getFigures = (db) => {
+const getFigures = (db, searchName, searchValue) => {
   return new Promise((resolve, reject) => {
     db.transaction(
       tx => {
+        let query = 'SELECT * FROM figure'; // Base query to select all figures
+
+        // Add WHERE clause to filter figures based on search criteria
+        if (searchName) {
+          query += ` WHERE name LIKE '%${searchName}%'`; // Modify the condition based on your database structure
+        }
+
+        // Execute SQL query
         tx.executeSql(
-          'SELECT * FROM figure',
+          query,
           [],
           (_, { rows }) => {
             const figures = rows._array; // Extract figures from the result
@@ -127,6 +137,8 @@ const getFigures = (db) => {
     );
   });
 };
+ 
+
 
 export { insertFigure, updateFigureById,deleteFigureById, getFigures, resetDatabase, deleteDatabase };
 

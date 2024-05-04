@@ -23,8 +23,7 @@ export const FigureDataProvider = ({ children }) => {
 
 
   // setIsModified(true); // Reset flag after fetching data
-
-
+ 
 
   console.log("provider database initFigureTable done ");
 

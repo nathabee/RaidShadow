@@ -1,0 +1,40 @@
+{
+  "Faction": {
+    "BL": "Banner Lords",
+    "HE": "High Elves",
+    "SO": "The Sacred Order",
+    "BA": "Barbarians",
+    "OT": "Ogryn Tribes",
+    "LZ": "Lizardmen",
+    "SW": "Skinwalkers",
+    "OR": "Orcs",
+    "DS": "Demonspawn",
+    "UH": "Undead Hordes",
+    "DE": "Dark Elves",
+    "KR": "Knight Revenant",
+    "DW": "Dwarves",
+    "SK": "Shadowkin",
+    "SY": "Sylvan Watchers"
+  },
+  "Rarity": {
+    "M": "Mythical",
+    "L": "Legendary",
+    "E": "Epic",
+    "R": "Rare",
+    "U": "Uncommon",
+    "C": "Common"
+  },
+  "Role": {
+    "A": "Attack",
+    "D": "Defense",
+    "H": "HP",
+    "S": "Support"
+  },
+  "Affinity": {
+    "F": "Force",
+    "M": "Magic",
+    "S": "Spirit",
+    "V": "Void"
+  }
+}
+

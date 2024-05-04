@@ -1,6 +1,8 @@
 # Presentation
 
-This is a small app to test one after another the functionnality that will be integrated later on a real APP
+This is a small app to test/implement react native functionnalities  
+The theme is RaidShadowLegend
+
 This is a Native ReactProject 
 Here are the feature that are tested :
 * React Native with Expo
@@ -41,7 +43,7 @@ start your android at the QR code
 ```
 
 
-# MyTestApp
+# RaidShadow
 how this project was created :
 
 
@@ -51,7 +53,7 @@ cd RaidShadow
 ```
 
 into github :
-Create a new repository on GitHub for your myTestApp app.
+Create a new repository on GitHub for your RaidShadow app.
 Initialise and Add your GitHub repository as a remote: 
 ```bash
 echo "# RaidShadow" >> README.md
@@ -64,9 +66,12 @@ git push -u origin main
 
 ```
 
-Push your code to GitHub: 
+Add and push your code to GitHub: 
 
 ```bash
+git add .
+git status
+git commit -m "commit Example and Figure initialisation"
 git push -u -f  origin main
 
 ```
@@ -87,3 +92,8 @@ to test :
 npx expo start
 ```
 
+to show the tree to discuss with chatgpt
+```bash
+sudo apt-get install tree
+tree -I node_modules > myTree.txt
+```

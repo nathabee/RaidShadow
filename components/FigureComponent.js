@@ -8,6 +8,30 @@ const FigureComponent = () => {
   const [modalVisible, setModalVisible] = useState(false);
   const [selectedFigure, setSelectedFigure] = useState(null);
 
+  //####################################
+  const [searchName, setSearchName] = useState('');
+  const [searchValue, setSearchValue] = useState('');
+  const [filteredFigures, setFilteredFigures] = useState([]);
+
+  // Function to fetch figures based on search criteria
+  const handleSearch = async () => {
+    try {
+      const filtered = figureData.filter(figure => (
+        figure.name.toLowerCase().includes(searchName.toLowerCase())
+      ));
+  
+      // Slice the filtered array to get only the first 20 items
+      const limitedFiltered = filtered.slice(0, 20);
+  
+      setFilteredFigures(limitedFiltered); // Update the state with filtered figures
+    } catch (error) {
+      console.error('Error searching figures:', error);
+    }
+  };
+  
+
+  //####################################
+
   const handleEditFigure = (figure) => {
     setSelectedFigure(figure);
     setModalVisible(true);
@@ -27,44 +51,69 @@ const FigureComponent = () => {
 
 
   return (
-    <View style={styles.container}>
-      <Text style={styles.title}>Figure Component</Text>
-      <ScrollView horizontal={true}>
-        <View style={styles.table}>
-          <View style={styles.headerRow}>
-            <Text style={styles.columnHeader}>Name</Text>
-            <Text style={styles.columnHeader}>Skill</Text>
-            <Text style={styles.columnHeader}>Skill Name</Text>
-            <Text style={styles.columnHeader}>Primary Damage Stat</Text>
-            <Text style={styles.columnHeader}>Base</Text>
-            <Text style={styles.columnHeader}>ATK or DEF Buff</Text>
-            <Text style={styles.columnHeader}>Book</Text>
-            <Text style={styles.columnHeader}>Mastery</Text>
-            <Text style={styles.columnHeader}>Total</Text>
-            <Text style={styles.columnHeader}>Damage Bonus from Books</Text>
-            <Text style={styles.columnHeader}>Damage Grade</Text>
-            <Text style={styles.columnHeader}>Target</Text>
-            <Text style={styles.columnHeader}>Action</Text>
+
+    <ScrollView style={styles.container}>
+    <Text style={styles.title}>Figure Component</Text>
+    <View style={styles.searchContainer}>
+      <TextInput
+        style={styles.inputField}
+        value={searchName}
+        placeholder="Search by name"
+        onChangeText={(text) => setSearchName(text)}
+      />
+      {/* Add your combobox component here */}
+      <TextInput
+        style={styles.inputField}
+        value={searchValue}
+        placeholder="Search by value"
+        onChangeText={(text) => setSearchValue(text)}
+      />
+      <Button title="Search" onPress={handleSearch} />
+    </View>
+    <ScrollView horizontal={true}>
+      <View style={styles.table}>
+        <View style={styles.headerRow}>
+            <Text style={[styles.columnHeader, styles.column1]}>Name</Text>
+            <Text style={[styles.columnHeader, styles.column2]}>Skill</Text>
+            <Text style={[styles.columnHeader, styles.column3]}>Skill Name</Text>
+            <Text style={[styles.columnHeader, styles.column4]}>Primary Damage Stat</Text>
+            <Text style={[styles.columnHeader, styles.column5]}>Base</Text>
+            <Text style={[styles.columnHeader, styles.column6]}>ATK or DEF Buff</Text>
+            <Text style={[styles.columnHeader, styles.column7]}>Book</Text>
+            <Text style={[styles.columnHeader, styles.column8]}>Mastery</Text>
+            <Text style={[styles.columnHeader, styles.column9]}>Total</Text>
+            <Text style={[styles.columnHeader, styles.column10]}>Damage Bonus from Books</Text>
+            <Text style={[styles.columnHeader, styles.column11]}>Damage Grade</Text>
+            <Text style={[styles.columnHeader, styles.column12]}>Target</Text>
+            <Text style={[styles.columnHeader, styles.column13]}>faction</Text>
+            <Text style={[styles.columnHeader, styles.column14]}>rarity</Text>
+            <Text style={[styles.columnHeader, styles.column15]}>role</Text>
+            <Text style={[styles.columnHeader, styles.column16]}>affinity</Text>
+            <Text style={[styles.columnHeader, styles.column17]}>Action</Text>
           </View>
-          {figureData.map((figure, index) => (
+          {filteredFigures.map((figure, index) => (
             <View style={[styles.row, { backgroundColor: getColorBySkill(figure.skill), opacity: getOpacityByDamageGrade(figure.damageGrade) }]} key={index}>
-              <Text style={styles.cell}>{figure.name}</Text>
-              <Text style={styles.cell}>{figure.skill}</Text>
-              <Text style={styles.cell}>{figure.skillName}</Text>
-              <Text style={styles.cell}>{figure.primaryDamageStat}</Text>
-              <Text style={styles.cell}>{figure.base}</Text>
-              <Text style={styles.cell}>{figure.ATKorDEFBuff}</Text>
-              <Text style={styles.cell}>{figure.book}</Text>
-              <Text style={styles.cell}>{figure.mastery}</Text>
-              <Text style={styles.cell}>{figure.total}</Text>
-              <Text style={styles.cell}>{figure.damageBonusFromBooks}</Text>
-              <Text style={styles.cell}>{figure.damageGrade}</Text>
-              <Text style={styles.cell}>{figure.target}</Text>
+              <Text style={[styles.cell, styles.column1]}>{figure.name}</Text>
+              <Text style={[styles.cell, styles.column2]}>{figure.skill}</Text>
+              <Text style={[styles.cell, styles.column3]}>{figure.skillName}</Text>
+              <Text style={[styles.cell, styles.column4]}>{figure.primaryDamageStat}</Text>
+              <Text style={[styles.cell, styles.column5]}>{figure.base}</Text>
+              <Text style={[styles.cell, styles.column6]}>{figure.ATKorDEFBuff}</Text>
+              <Text style={[styles.cell, styles.column7]}>{figure.book}</Text>
+              <Text style={[styles.cell, styles.column8]}>{figure.mastery}</Text>
+              <Text style={[styles.cell, styles.column9]}>{figure.total}</Text>
+              <Text style={[styles.cell, styles.column10]}>{figure.damageBonusFromBooks}</Text>
+              <Text style={[styles.cell, styles.column11]}>{figure.damageGrade}</Text>
+              <Text style={[styles.cell, styles.column12]}>{figure.target}</Text>
+              <Text style={[styles.cell, styles.column13]}>{figure.faction}</Text>
+              <Text style={[styles.cell, styles.column14]}>{figure.rarity}</Text>
+              <Text style={[styles.cell, styles.column15]}>{figure.role}</Text>
+              <Text style={[styles.cell, styles.column16]}>{figure.affinity}</Text>
               <Button title="Edit" onPress={() => handleEditFigure(figure)} />
             </View>
           ))}
         </View>
-      </ScrollView>
+    </ScrollView>
 
       <Modal
         animationType="slide"
@@ -103,7 +152,7 @@ const FigureComponent = () => {
           </View>
         </View>
       </Modal>
-    </View>
+  </ScrollView>
   );
 };
 
@@ -115,8 +164,8 @@ const styles = StyleSheet.create({
     marginVertical: 10,
     margin: 10,
   },  
-  container: {
-    flex: 1,
+  container: { 
+    padding: 10,
   },
   title: {
     fontSize: 24,
@@ -124,22 +173,17 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   table: {
-    width: '90%',
     borderWidth: 1,
     borderColor: 'black',
-    padding: 10,
   },
   row: {
-    flexDirection: 'row',
-    justifyContent: 'space-between',
+    flexDirection: 'row', 
     borderBottomWidth: 1,
     borderColor: 'lightgray',
-    alignItems: 'center',
-    paddingVertical: 10,
+    paddingVertical: 3,
   },
   headerRow: {
     flexDirection: 'row',
-    justifyContent: 'space-between',
     borderBottomWidth: 2,
     borderColor: 'black',
     alignItems: 'center',
@@ -147,12 +191,68 @@ const styles = StyleSheet.create({
   },
   columnHeader: {
     fontWeight: 'bold',
-    flex: 1,
     textAlign: 'center',
   },
-  cell: {
-    flex: 1,
+ 
+
+
+
+  cell: { 
     textAlign: 'center',
+  },
+  column1: {
+    justifyContent: 'space-between',  width: 100,
+  },
+  column2: {
+    justifyContent: 'space-between',  width: 50,
+  },
+  column3: {
+    justifyContent: 'space-between', width: 120,
+  },
+  column4: {
+    justifyContent: 'space-between', width: 50,
+  },
+  column5: {
+    justifyContent: 'space-between', width: 100,
+  },
+  column6: {
+    justifyContent: 'space-between', width: 100,
+  },
+  column6: {
+    justifyContent: 'space-between', width: 50,
+  },
+  column7: {
+    justifyContent: 'space-between', width: 50,
+  },
+  column8: {
+    justifyContent: 'space-between', width: 40,
+  },
+  column9: {
+    justifyContent: 'space-between', width: 100,
+  },
+  column10: {
+    justifyContent: 'space-between', width: 40,
+  },
+  column11: {
+    justifyContent: 'space-between', width: 100,
+  },
+  column12: {
+    justifyContent: 'space-between', width: 100,
+  },
+  column13: {
+    justifyContent: 'space-between', width: 40,
+  },
+  column14: {
+    justifyContent: 'space-between', width: 40,
+  },
+  column15: {
+    justifyContent: 'space-between', width: 40,
+  },
+  column16: {
+    justifyContent: 'space-between', width: 40,
+  },
+  column17: {
+    justifyContent: 'space-between', width: 100,
   },
     modalContainer: {
       flex: 1,

@@ -1,0 +1,362 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Text File Parser</title>
+    <style>
+        .container {
+            display: flex;
+        }
+
+        .column {
+            flex: 1;
+            padding: 10px;
+        }
+
+        .textarea {
+            width: 100%;
+            height: 200px;
+        }
+
+        /* CSS for rejected content */
+        textarea.rejected-content {
+            background-color: #ffe6e6;
+            /* Light red background */
+        }
+
+        button {
+            background-color: #3498db;
+            /* Lighter shade of blue */
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="column">
+            <!-- SECTION 1..... Left Column -->
+            <h3>Parse Champion + Faction </h3>
+            <input type="file" id="fileInput1" style="display:none;">
+            <button onclick="selectFile('fileInput1','fileName1' ,'fileContent1')">Select Champion List with
+                Faction</button><br><br>
+
+            <!-- Output fields -->
+            <div>
+                <label for="fileName1">Selected File: </label>
+                <span id="fileName1"></span>
+            </div>
+
+            <div>
+                <label for="parsedResult1"> Result:</label><br>
+                <span id="parsedResult1"></span>
+            </div>
+            <div>
+                <label for="parsedRejectedContent1">REJECTED This content could not be treated: </label><br>
+                <textarea id="parsedRejectedContent1" class="textarea rejected-content" readonly></textarea>
+
+            </div>
+
+
+            <div>
+                <label for="fileContent1">First 10 lines of the file: </label><br>
+                <textarea id="fileContent1" rows="10" cols="50" readonly></textarea>
+            </div>
+            <button onclick="parseAndSaveJSON1()">Parse Text File and Save as JSON</button>
+
+            <div>
+                <label for="jsonOutput1">First 4 objects of the generated JSON file: </label><br>
+                <textarea id="jsonOutput1" rows="10" cols="50" readonly></textarea>
+            </div>
+
+        </div>
+
+        <!-- SECTION 2..... Middle Column -->
+        <div class="column">
+            <h3>Parse Champions CSV file</h3>
+            <input type="file" id="fileInput2" style="display:none;">
+            <button onclick="selectFile('fileInput2','fileName2' ,'fileContent2')">Select Champions</button><br><br>
+            <div>
+                <label for="fileName2">Selected File: </label>
+                <span id="fileName2"></span>
+            </div>
+            <div>
+                <label for="parsedResult2"> Result:</label><br>
+                <span id="parsedResult2"></span>
+            </div>
+            <div>
+                <label for="parsedRejectedContent2">REJECTED This content could not be treated: </label><br>
+                <textarea id="parsedRejectedContent2" class="textarea rejected-content" readonly></textarea>
+
+            </div>
+
+
+            <div>
+                <label for="fileContent2">First 10 lines of the file: </label><br>
+                <textarea id="fileContent2" class="textarea" readonly></textarea>
+            </div>
+            <button onclick="parseAndSaveJSON2()">Parse and save JSON</button>
+            <div>
+                <label for="jsonOutput2"> generated JSON file: </label><br>
+                <textarea id="jsonOutput2" class="textarea" readonly></textarea>
+            </div>
+        </div>
+
+        <!-- SECTION 3.... Right Column -->
+        <div class="column">
+            <h3>Merge Files</h3>
+            <div>
+                <label for="mergedFileName1">we will merged the File: </label>
+                <span id="mergedFileName1"></span>
+            </div>
+            <div>
+                <label for="mergedFileName2">we will merged the File: </label>
+                <span id="mergedFileName2"></span>
+            </div>
+            <button onclick="mergeFiles()">Merge</button><br><br>
+            <div>
+                <label for="mergedFile">Name of the merged file: </label>
+                <span id="mergedFile"></span>
+            </div>
+            <div>
+                <label for="mergeResult">Merge Result:</label><br>
+                <span id="mergeResult"></span>
+            </div>
+            <div>
+                <label for="mergedRejectedContent">REJECTED This content could not be treated: </label><br>
+                <textarea id="mergedRejectedContent" class="textarea rejected-content" readonly></textarea>
+
+            </div>
+            <div>
+                <label for="mergedFileContent">Content of Merged File: </label><br>
+                <textarea id="mergedFileContent" class="textarea" readonly></textarea>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function selectFile(idInput, idFilename, idContentname) {
+            const fileInput = document.getElementById(idInput);
+            fileInput.click();
+            fileInput.addEventListener('change', function () {
+                displaySelectedFile(this.files[0], idFilename, idContentname);
+            });
+        }
+
+        function displaySelectedFile(file, idFilename, idContentname) {
+            const fileNameSpan = document.getElementById(idFilename);
+            fileNameSpan.textContent = file.name;
+
+            const reader = new FileReader();
+            reader.onload = function (event) {
+                const fileContent = event.target.result;
+                const lines = fileContent.split('\n');
+                const first10Lines = lines.slice(0, 10).join('\n');
+                document.getElementById(idContentname).textContent = first10Lines;
+            };
+            reader.readAsText(file);
+        }
+
+        function parseAndSaveJSON1() {
+            const fileInput = document.getElementById('fileInput1');
+            const file = fileInput.files[0];
+            const reader = new FileReader();
+
+            if (!file) {
+                alert('Please select a file.');
+                return;
+            }
+
+            reader.onload = function (event) {
+                const fileContent = event.target.result;
+                const lines = fileContent.split('\n');
+                const figures = [];
+
+                lines.forEach(line => {
+                    const matches = line.match(/^(.*?) \((.*?)\)$/);
+                    if (matches && matches.length === 3) {
+                        const championName = matches[1].trim();
+                        const championInfo = matches[2].split('-');
+                        if (championInfo.length === 2) {
+                            const faction = championInfo[0].trim();
+                            const rarity = championInfo[1][0].trim();
+                            const role = championInfo[1][1].trim();
+                            const affinity = championInfo[1][2].trim();
+
+                            const figure = {};
+                            figure["champion"] = championName;
+                            figure["faction"] = faction;
+                            figure["rarity"] = rarity;
+                            figure["role"] = role;
+                            figure["affinity"] = affinity;
+                            figures.push(figure);
+
+                        }
+                    }
+                });
+
+                const jsonString = JSON.stringify(figures, null, 2);
+
+                const figuresLength = figures.length;
+                const resultElement = document.getElementById('parsedResult1');
+                resultElement.innerHTML = `<b style="color:red;"> </b><br><b>  lines: ${figuresLength}</b>`;
+
+
+
+                //const first4Objects = Object.keys(figures).slice(0, 4).map(key => `${key}: ${JSON.stringify(figures[key])}`).join('\n');
+                //document.getElementById('jsonOutput1').textContent = first4Objects;
+                document.getElementById('jsonOutput1').textContent = jsonString;
+
+
+                const blob = new Blob([jsonString], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+
+                const link = document.createElement('a');
+                link.href = url;
+                link.download = 'parsed_data1.json';
+                document.getElementById('mergedFileName1').textContent = 'parsed_data1.json';
+
+                link.click();
+                URL.revokeObjectURL(url);
+            };
+
+            reader.readAsText(file);
+        }
+
+        function parseAndSaveJSON2() {
+            const fileInput = document.getElementById('fileInput2');
+            const file = fileInput.files[0];
+            const reader = new FileReader();
+
+            if (!file) {
+                alert('Please select a CSV file.');
+                return;
+            }
+
+            reader.onload = function (event) {
+                const fileContent = event.target.result;
+                const lines = fileContent.split('\n');
+
+                const headers = lines[0].split(',');
+                for (let j = 0; j < headers.length; j++) {
+                    headers[j] = headers[j].replace(/\W+/g, '_').toLowerCase();
+                }
+
+                const figures = [];
+
+                for (let i = 1; i < lines.length; i++) {
+                    const line = lines[i];
+                    const values = line.split(',');
+                    const figure = {};
+                    for (let j = 0; j < headers.length; j++) {
+                        figure[headers[j]] = isNaN(values[j]) ? values[j] : parseFloat(values[j]);
+                    }
+                    figures.push(figure);
+                }
+
+                const jsonString = JSON.stringify(figures, null, 2);
+                const figuresLength = figures.length;
+                const resultElement = document.getElementById('parsedResult2');
+                resultElement.innerHTML = `<b style="color:red;"> </b><br><b>  lines: ${figuresLength}</b>`;
+
+                
+                // Display first 4 objects of the generated JSON file
+                //const first4Objects = figures.slice(0, 4).map(obj => JSON.stringify(obj)).join('\n');
+                //document.getElementById('jsonOutput2').textContent = first4Objects;
+                document.getElementById('jsonOutput2').textContent = jsonString;
+
+                const blob = new Blob([jsonString], { type: 'application/json' });
+                const url = URL.createObjectURL(blob);
+
+                const link = document.createElement('a');
+                link.href = url;
+                link.download = 'parsed_data2.json';
+                document.getElementById('mergedFileName2').textContent = 'parsed_data2.json';
+
+                link.click();
+                URL.revokeObjectURL(url);
+            };
+
+
+            reader.readAsText(file);
+        }
+
+        function mergeFiles() {
+            const mergedFileName1 = document.getElementById('mergedFileName1').textContent;
+            const mergedFileName2 = document.getElementById('mergedFileName2').textContent;
+
+            if (!mergedFileName1 || !mergedFileName2) {
+                alert('Please parse and save both JSON files before merging.');
+                return;
+            }
+
+            const file1 = JSON.parse(document.getElementById('jsonOutput1').textContent);
+            const file2 = JSON.parse(document.getElementById('jsonOutput2').textContent);
+
+            const mergeFiles = (file1, file2) => {
+                const mergedEntries = [];
+                const rejectedEntries = [];
+
+                const file1Map = new Map(file1.map(entry => [entry.champion, entry]));
+
+                for (const entry of file2) {
+                    const championName = entry.champion;
+                    const file1Entry = file1Map.get(championName);
+
+                    if (file1Entry) {
+                        const mergedEntry = { ...entry, ...file1Entry };
+                        mergedEntries.push(mergedEntry);
+                        file1Map.delete(championName);
+                    } else {
+                        rejectedEntries.push(entry);
+                    }
+                }
+
+                for (const file1Entry of file1Map.values()) {
+                    rejectedEntries.push(file1Entry);
+                }
+
+                return { mergedEntries, rejectedEntries };
+            };
+
+            const { mergedEntries, rejectedEntries } = mergeFiles(file1, file2);
+
+            const mergedFileContent = JSON.stringify(mergedEntries, null, 2);
+            document.getElementById('mergedFileContent').textContent = mergedFileContent;
+
+            const mergedRejectedContent = JSON.stringify(rejectedEntries, null, 2);
+            document.getElementById('mergedRejectedContent').textContent = mergedRejectedContent;
+
+            const blob = new Blob([mergedFileContent], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+
+            const link = document.createElement('a');
+            link.href = url;
+            link.download = 'figure.json';
+            document.getElementById('mergedFile').textContent = 'figure.json';
+
+            link.click();
+            URL.revokeObjectURL(url);
+
+            // Get the number of rejected lines and merged lines
+            const numRejected = rejectedEntries.length;
+            const numMerged = mergedEntries.length;
+
+            // Update the merge result element
+            const mergeResultElement = document.getElementById('mergeResult');
+            mergeResultElement.innerHTML = `<b style="color:red;">Rejected lines: ${numRejected}</b><br><b>Merged lines: ${numMerged}</b>`;
+
+
+        }
+
+
+    </script>
+</body>
+
+</html>
