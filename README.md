@@ -72,7 +72,7 @@ Add and push your code to GitHub:
 git add .
 git status
 git commit -m "commit Example and Figure initialisation"
-git push -u -f  origin main
+git push -u    origin main
 
 ```
 if github authentification pb : Run to authenticate with your GitHub account. 
@@ -81,11 +81,7 @@ gh auth login
 
 ```
 
-
-```bash
-npx expo start
-```
-
+ 
 
 to test :
 ```bash
@@ -96,4 +92,5 @@ to show the tree to discuss with chatgpt
 ```bash
 sudo apt-get install tree
 tree -I node_modules > myTree.txt
+tree -I node_modules | grep 00 > myTree.txt
 ```

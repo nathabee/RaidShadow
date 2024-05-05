@@ -1,6 +1,8 @@
 import React, { useContext, useState } from 'react';
 import { View, Pressable, StyleSheet, Text } from 'react-native';
-import ThemeContext from '../ThemeContext'; // Import ThemeContext from the new file 
+import ThemeContext from '../../ThemeContext'; // Import ThemeContext from the new file 
+ 
+import TextFileParser2 from '../champion/TextFileParser2';
 
 const SettingsComponent = () => {
   const { toggleTheme } = useContext(ThemeContext);
@@ -11,6 +13,10 @@ const SettingsComponent = () => {
       <Pressable onPress={toggleTheme} style={styles.button}>
         <Text>Toggle Theme</Text>
       </Pressable>
+      < Text >#################################</Text> 
+      < Text >#################################</Text>
+      < TextFileParser2></TextFileParser2>
+      < Text >#################################</Text>
 
     </View>
   );

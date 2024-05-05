@@ -3,29 +3,186 @@
 ├── app.json
 ├── assets
 │   ├── adaptive-icon.png
+│   ├── champion
+│   │   ├── champion_0000.jpeg
+│   │   ├── champion_0001.jpeg
+│   │   ├── champion_0002.jpeg
+│   │   ├── champion_0003.jpeg
+│   │   ├── champion_0004.jpeg
+│   │   ├── champion_0005.jpeg
+│   │   ├── champion_0006.jpeg
+│   │   ├── champion_0007.jpeg
+│   │   ├── champion_0008.jpeg
+│   │   ├── champion_0009.jpeg
+│   │   ├── champion_0010.jpeg
+│   │   ├── champion_0011.jpeg
+│   │   ├── champion_0012.jpeg
+│   │   ├── champion_0013.jpeg
+│   │   ├── champion_0014.jpeg
+│   │   ├── champion_0015.jpeg
+│   │   ├── champion_0016.jpeg
+│   │   ├── champion_0017.jpeg
+│   │   ├── champion_0018.jpeg
+│   │   ├── champion_0019.jpeg
+│   │   ├── champion_0020.jpeg
+│   │   ├── champion_0021.jpeg
+│   │   ├── champion_0022.jpeg
+│   │   ├── champion_0023.jpeg
+│   │   ├── champion_0024.jpeg
+│   │   ├── champion_0025.jpeg
+│   │   ├── champion_0026.jpeg
+│   │   ├── champion_0027.jpeg
+│   │   ├── champion_0028.jpeg
+│   │   ├── champion_0029.jpeg
+│   │   ├── champion_0030.jpeg
+│   │   ├── champion_0031.jpeg
+│   │   ├── champion_0032.jpeg
+│   │   ├── champion_0033.jpeg
+│   │   ├── champion_0034.jpeg
+│   │   ├── champion_0035.jpeg
+│   │   ├── champion_0036.jpeg
+│   │   ├── champion_0037.jpeg
+│   │   ├── champion_0038.jpeg
+│   │   ├── champion_0039.jpeg
+│   │   ├── champion_0040.jpeg
+│   │   ├── champion_0041.jpeg
+│   │   ├── champion_0042.jpeg
+│   │   ├── champion_0043.jpeg
+│   │   ├── champion_0044.jpeg
+│   │   ├── champion_0045.jpeg
+│   │   ├── champion_0046.jpeg
+│   │   ├── champion_0047.jpeg
+│   │   ├── champion_0048.jpeg
+│   │   ├── champion_0049.jpeg
+│   │   ├── champion_0050.jpeg
+│   │   ├── champion_0051.jpeg
+│   │   ├── champion_0052.jpeg
+│   │   ├── champion_0053.jpeg
+│   │   ├── champion_0054.jpeg
+│   │   ├── champion_0055.jpeg
+│   │   ├── champion_0056.jpeg
+│   │   ├── champion_0057.jpeg
+│   │   ├── champion_0058.jpeg
+│   │   ├── champion_0059.jpeg
+│   │   ├── champion_0060.jpeg
+│   │   ├── champion_0061.jpeg
+│   │   ├── champion_0062.jpeg
+│   │   ├── champion_0063.jpeg
+│   │   ├── champion_0064.jpeg
+│   │   ├── champion_0065.jpeg
+│   │   ├── champion_0066.jpeg
+│   │   ├── champion_0067.jpeg
+│   │   ├── champion_0068.jpeg
+│   │   ├── champion_0069.jpeg
+│   │   ├── champion_0070.jpeg
+│   │   ├── champion_0071.jpeg
+│   │   ├── champion_0072.jpeg
+│   │   ├── champion_0073.jpeg
+│   │   ├── champion_0074.jpeg
+│   │   ├── champion_0075.jpeg
+│   │   ├── champion_0076.jpeg
+│   │   ├── champion_0077.jpeg
+│   │   ├── champion_0078.jpeg
+│   │   ├── champion_0079.jpeg
+│   │   ├── champion_0080.jpeg
+│   │   ├── champion_0081.jpeg
+│   │   ├── champion_0082.jpeg
+│   │   ├── champion_0083.jpeg
+│   │   ├── champion_0084.jpeg
+│   │   ├── champion_0085.jpeg
+│   │   ├── champion_0086.jpeg
+│   │   ├── champion_0087.jpeg
+│   │   ├── champion_0088.jpeg
+│   │   ├── champion_0089.jpeg
+│   │   ├── champion_0090.jpeg
+│   │   ├── champion_0091.jpeg
+│   │   ├── champion_0092.jpeg
+│   │   ├── champion_0093.jpeg
+│   │   ├── champion_0094.jpeg
+│   │   ├── champion_0095.jpeg
+│   │   ├── champion_0096.jpeg
+│   │   ├── champion_0097.jpeg
+│   │   ├── champion_0098.jpeg
+│   │   ├── champion_0099.jpeg
+│   │   ├── champion_0100.jpeg
+│   │   ├── champion_0101.jpeg
+│   │   ├── champion_0102.jpeg
+│   │   ├── champion_0103.jpeg
+│   │   ├── champion_0104.jpeg
+│   │   ├── champion_0105.jpeg
+│   │   ├── champion_0106.jpeg
+│   │   ├── champion_0107.jpeg
+│   │   ├── champion_0108.jpeg
+│   │   ├── champion_0109.jpeg
+│   │   ├── champion_0110.jpeg
+│   │   ├── champion_0111.jpeg
+│   │   ├── champion_0112.jpeg
+│   │   ├── champion_0113.jpeg
+│   │   ├── champion_0114.jpeg
+│   │   ├── champion_0115.jpeg
+│   │   ├── champion_0116.jpeg
+│   │   ├── champion_0117.jpeg
+│   │   ├── champion_0118.jpeg
+│   │   ├── champion_0119.jpeg
+│   │   ├── champion_0120.jpeg
+│   │   ├── champion_0121.jpeg
+│   │   ├── champion_0122.jpeg
+│   │   ├── champion_0123.jpeg
+│   │   ├── champion_0124.jpeg
+│   │   ├── champion_0125.jpeg
+│   │   ├── champion_0126.jpeg
+│   │   ├── champion_0127.jpeg
+│   │   ├── champion_0128.jpeg
+│   │   ├── champion_0129.jpeg
+│   │   ├── champion_0130.jpeg
+│   │   ├── champion_0131.jpeg
+│   │   ├── champion_0132.jpeg
+│   │   ├── champion_0133.jpeg
+│   │   ├── champion_0134.jpeg
+│   │   ├── champion_0135.jpeg
+│   │   ├── champion_0136.jpeg
+│   │   ├── champion_0137.jpeg
+│   │   ├── champion_0138.jpeg
+│   │   ├── champion_0139.jpeg
+│   │   ├── champion_0140.jpeg
+│   │   ├── champion_0141.jpeg
+│   │   ├── champion_0142.jpeg
+│   │   ├── champion_0143.jpeg
+│   │   ├── champion_0144.jpeg
+│   │   ├── champion_0145.jpeg
+│   │   ├── champion_0146.jpeg
+│   │   ├── champion_0147.jpeg
+│   │   └── rename_file.sh
 │   ├── favicon.png
 │   ├── icon.png
 │   └── splash.png
 ├── babel.config.js
 ├── components
-│   ├── ButtonGroup.js
-│   ├── Button.js
-│   ├── CircleButton.js
-│   ├── ExampleComponent.js
-│   ├── FigureComponent.js
-│   ├── FigureCSVComponent.js
-│   ├── IconButton.js
-│   ├── InitComponent.js
-│   └── SettingsComponent.js
+│   ├── champion
+│   │   ├── ButtonGroup.js
+│   │   ├── ChampionComponent.js
+│   │   ├── InitDatabaseComponent.js
+│   │   └── TextFileParser2.js
+│   ├── figure
+│   │   ├── ButtonGroup.js
+│   │   ├── FigureComponent.js
+│   │   ├── FigureCSVComponent.js
+│   │   └── InitComponent.js
+│   ├── settings
+│   │   └── SettingsComponent.js
+│   └── shared
+│       ├── Button.js
+│       ├── CircleButton.js
+│       └── IconButton.js
 ├── database
+│   ├── ChampionDatabase.js
 │   ├── db.js
-│   ├── ExampleDatabase.js
 │   ├── migrations
 │   │   ├── attribute.json
-│   │   ├── example.json
+│   │   ├── champion.json
 │   │   ├── figure.json
 │   │   ├── initAttributeTable.js
-│   │   ├── initExampleTable.js
+│   │   ├── initChampionTable.js
 │   │   └── initFigureTable.js
 │   └── utils
 │       ├── attribute.json
@@ -37,9 +194,32 @@
 ├── package.json
 ├── package-lock.json
 ├── README.md
-├── ThemeContext.js 
+├── ThemeContext.js
+├── to_delete
+│   ├── adaptive-icon.png
+│   ├── affinity.json
+│   ├── ChampionComponent.js
+│   ├── champion.json
+│   ├── faction.json
+│   ├── favicon.png
+│   ├── FigureComponent copy.js
+│   ├── figure.json
+│   ├── Figures_all.json
+│   ├── Figures.json
+│   ├── FigureTable.html
+│   ├── icon.png
+│   ├── initAffinityTable.js
+│   ├── initChampionTable copy.js
+│   ├── initChampionTable.js
+│   ├── initFactionTable.js
+│   ├── initRoleTable.js
+│   ├── rarity.json
+│   ├── role.json
+│   ├── splash.png
+│   └── TextFileParser1.js
 └── utils
     ├── DisplayErrorToast.js
     ├── InitDatabase.js
     └── initExample.js
- 
+
+12 directories, 210 files

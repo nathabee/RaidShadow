@@ -1,6 +1,6 @@
 import React, { useContext  } from 'react';
 import { Alert } from 'react-native';
-import FigureDataContext from '../FigureDataContext';
+import FigureDataContext from '../../FigureDataContext';
 
 import ButtonGroup from './ButtonGroup';
 

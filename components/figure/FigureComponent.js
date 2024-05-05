@@ -1,6 +1,6 @@
 import React, { useContext, useState } from 'react';
 import { View, Text, StyleSheet, Button, Alert, ScrollView, Modal, TextInput } from 'react-native';
-import FigureDataContext from '../FigureDataContext';
+import FigureDataContext from '../../FigureDataContext';
 
 const FigureComponent = () => {
   const { figureData } = useContext(FigureDataContext);
