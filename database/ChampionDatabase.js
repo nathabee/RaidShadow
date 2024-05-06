@@ -60,5 +60,64 @@ const resetDatabase = (db) => {
 
 
 
-export {  fetchChampionData, openChampionDatabase, resetDatabase, deleteDatabase };
+const insertChampion  = (db,   newData) => {
+  const { name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target,faction,rarity,role,affinity } = newData;
+
+  db.transaction(
+    tx => {
+      tx.executeSql(
+        'INSERT INTO Champion (name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target,faction,rarity,role,affinity) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?,?,?,?,?)',
+        [name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target,faction,rarity,role,affinity],
+        () => console.log(`Figure with ID ${id} updated successfully`),
+        (error) => console.error(`Error updating figure  ${newData}:`, error)
+      );
+    },
+    (error) => {
+      console.error('Error updating Champion transaction:', error);
+      displayErrorToast(error.message || 'Failed to update Champion table.');
+    }
+  );
+};
+
+
+
+const deleteChampionById = (db, id ) => {
+ 
+  db.transaction(
+    tx => {
+      tx.executeSql(
+        'DELETE FROM Champion WHERE id = ?',
+        [  id],
+        () => console.log(`Champion with ID ${id} deleted successfully`),
+        (error) => console.error(`Error deleting Champion with ID ${id}:`, error)
+      );
+    },
+    (error) => {
+      console.error('Error deleting Champion transaction:', error);
+      displayErrorToast(error.message || 'Failed to update Champion table.');
+    }
+  );
+};
+
+
+const updateChampionById = (db, id, newData) => {
+  const { name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target,faction,rarity,role,affinity } = newData;
+
+  db.transaction(
+    tx => {
+      tx.executeSql(
+        'UPDATE Champion SET name = ?, skill = ?, skillName = ?, primaryDamageStat = ?, base = ?, ATKorDEFBuff = ?, book = ?, mastery = ?, total = ?, damageBonusFromBooks = ?, damageGrade = ?, target = ?,faction = ?,rarity = ?,role = ?,affinity = ? WHERE id = ?',
+        [name, skill, skillName, primaryDamageStat, base, ATKorDEFBuff, book, mastery, total, damageBonusFromBooks, damageGrade, target, faction,rarity,role,affinity,id],
+        () => console.log(`Champion with ID ${id} updated successfully`),
+        (error) => console.error(`Error updating figure with ID ${id}:`, error)
+      );
+    },
+    (error) => {
+      console.error('Error updating Champion transaction:', error);
+      displayErrorToast(error.message || 'Failed to update figure table.');
+    }
+  );
+};
+
+export {  insertChampion, updateChampionById,deleteChampionById, fetchChampionData, openChampionDatabase, resetDatabase, deleteDatabase };
 

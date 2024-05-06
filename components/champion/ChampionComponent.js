@@ -6,6 +6,8 @@ import ImageView from '../shared/ImageView';
 import AttributeCode from '../../utils/AttributeCode'
 
 
+import ChampionItem from './ChampionItem';
+
 const ITEMS_PER_PAGE = 20;
 
 
@@ -122,60 +124,7 @@ const ChampionComponent = ({ dbe, dbUpdate }) => {
   };
 
 
-  const renderItem = ({ item }) => {
-    //const paddedId = String(item.id % 148).padStart(4, '0');
-    //const championImageUri = `../../assets/champion/champion_${paddedId}.jpeg`;
-    //console.log(`Image name: ${championImageUri}`);
-
-    const championLink = `https://ayumilove.net/raid-shadow-legends-${item.name.toLowerCase()}-skill-mastery-equip-guide/`;
-
-    const factionCode = `FACT-${item.faction}`;
-    const rarityCode = `RARI-${item.rarity}`;
-    const roleCode = `ROLE-${item.role}`;
-    const affinityCode = `AFFI-${item.affinity}`;
-
-
-    const handleChampionPress = () => {
-      Linking.openURL(championLink);
-    };
-
-    return (
-      <View style={styles.championListing}>
-        <View style={styles.championImage}>
-          <Text >Faction : {AttributeCode[factionCode]} </Text>
-          < ImageView codeimage={factionCode} size={100} />
-        </View>
-        <View style={styles.championInfo}>
-          <TouchableOpacity onPress={handleChampionPress}>
-            <Text style={styles.championName}>{item.name}</Text>
-          </TouchableOpacity>
-          <View style={styles.championStats}>
-            <Text >total : {item.total}</Text>
-            <Text>primaryDamageStat : {item.primaryDamageStat}</Text>
-            <Text>base : {item.base}</Text>
-            <Text>ATKorDEFBuff : {item.ATKorDEFBuff}</Text>
-            <Text>book: {item.book}</Text>
-            <Text  >{item.mastery}</Text>
-            <Text >damage Bonus From Books :{item.damageBonusFromBooks}</Text>
-            <Text    >damageGrade : {item.damageGrade}</Text>
-            <Text    >target : {item.target}</Text>
-            <Text    >Skills : {item.skill}</Text>
-          </View>
-        </View>
-        <View style={styles.championMeta}>
-
-          <Text >rarity : {AttributeCode[rarityCode]} </Text>
-          < ImageView codeimage={rarityCode} size={30} />
-          <Text >role : {AttributeCode[roleCode]} </Text>
-          < ImageView codeimage={roleCode} size={30} />
-          <Text >affinity : {AttributeCode[affinityCode]} </Text>
-          < ImageView codeimage={affinityCode} size={30} />
-        </View>
-      </View>
-    );
-  };
-
-
+ 
 
 
   if (loading) {
@@ -185,6 +134,7 @@ const ChampionComponent = ({ dbe, dbUpdate }) => {
   return (
     <View>
       <View style={{ flexDirection: 'row', justifyContent: 'space-between' }}>
+        <View>  
         <TextInput
           style={{ height: 40, borderColor: 'gray', borderWidth: 1, marginBottom: 10, paddingHorizontal: 10 }}
           value={searchName}
@@ -194,17 +144,18 @@ const ChampionComponent = ({ dbe, dbUpdate }) => {
         <TouchableOpacity style={{ height: 40, width: 60, backgroundColor: 'gray', alignItems: 'center', justifyContent: 'center' }} onPress={handleSearch}>
           <Text style={{ color: 'white' }}>Search</Text>
         </TouchableOpacity>
+        </View>  
         <View > 
         <Picker
           selectedValue={selectedSkill}
-          style={{ height: 50, width: 150 }}
+          style={{  width: 200 }}
           onValueChange={(itemValue, itemIndex) => handleSkillChange(itemValue)}
         >
           {renderPickerItems()}
         </Picker>
         <Picker
           selectedValue={selectedFaction}
-          style={{ height: 50, width: 150 }}
+          style={{   width: 200 }}
           onValueChange={(itemValue, itemIndex) => handleFactionChange(itemValue)}
         >
           {renderFactionItems()}
@@ -220,7 +171,8 @@ const ChampionComponent = ({ dbe, dbUpdate }) => {
       </View>
       <FlatList
         data={data.filter(item => ( (!selectedSkill ||  item.skill === selectedSkill) && (!selectedFaction  ||  item.faction === selectedFaction)))}
-        renderItem={renderItem}
+
+        renderItem={({ item }) => <ChampionItem item={item} />}
         keyExtractor={(item, index) => item.id.toString()}
         onEndReached={handleLoadMore}
         onEndReachedThreshold={0.1}
@@ -231,13 +183,6 @@ const ChampionComponent = ({ dbe, dbUpdate }) => {
 
 
 const styles = StyleSheet.create({
-  buttonContainer: {
-    flexDirection: 'row',
-    justifyContent: 'space-around',
-    alignItems: 'center',
-    marginVertical: 10,
-    margin: 10,
-  },
   container: {
     padding: 10,
   },
@@ -246,55 +191,6 @@ const styles = StyleSheet.create({
     fontWeight: 'bold',
     marginBottom: 20,
   },
-  table: {
-    borderWidth: 1,
-    borderColor: 'black',
-  },
-  row: {
-    flexDirection: 'row',
-    borderBottomWidth: 1,
-    borderColor: 'lightgray',
-    paddingVertical: 3,
-  },
-  headerRow: {
-    flexDirection: 'row',
-    borderBottomWidth: 2,
-    borderColor: 'black',
-    alignItems: 'center',
-    paddingVertical: 10,
-  },
-  columnHeader: {
-    fontWeight: 'bold',
-    textAlign: 'center',
-  },
-
-
-
-
-  cell: {
-    textAlign: 'center',
-  }, 
-  modalContainer: {
-    flex: 1,
-    justifyContent: 'center',
-    alignItems: 'center',
-    backgroundColor: '#fff', // Change to grey background color if needed
-  },
-  inputContainer: {
-    width: '50%',
-    backgroundColor: '#f2f2f2', // Grey background color
-    padding: 10,
-    margin: 10,
-  },
-  inputField: {
-    backgroundColor: '#fff',
-    height: 40,
-    marginBottom: 10,
-    borderWidth: 1,
-    borderColor: '#ccc',
-    paddingHorizontal: 10,
-  },
-  // new listing
   championListing: {
     flexDirection: 'row',
     justifyContent: 'space-between',
@@ -316,7 +212,7 @@ const styles = StyleSheet.create({
   championName: {
     fontSize: 18,
     fontWeight: 'bold',
-  }, 
+  },
   tag: {
     marginTop: 10,
     color: 'orange',
@@ -324,15 +220,9 @@ const styles = StyleSheet.create({
   championMeta: {
     flex: 1,
     alignItems: 'flex-end',
-  }, 
-  metaInfo: {
-    alignItems: 'flex-end',
   },
-  metaText: {
-    color: 'gray',
-    marginBottom: 5,
-  },  
 });
+
 
 
 export default ChampionComponent;
