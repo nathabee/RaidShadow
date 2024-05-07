@@ -11,50 +11,42 @@ import ThemeContext from './ThemeContext'; // Import ThemeContext from the new f
 // setting
 import SettingsComponent from './components/settings/SettingsComponent';
 
-// figure
-import { FigureDataProvider } from './FigureDataContext'; // Import the FigureDataContext
-import FigureComponent from './components/figure/FigureComponent';
-import InitComponent from './components/figure/InitComponent';
 
 // champion
-import { openChampionDatabase } from './database/ChampionDatabase';
-import InitDatabaseComponent from './components/champion/InitDatabaseComponent';
+import { ChampionDataProvider } from './ChampionDataContext'; // Import the FigureDataContext 
 import ChampionComponent from './components/champion/ChampionComponent';
-import { initChampionTable } from './database/migrations/initChampionTable'; // Import database functions
-import ChampionListComponent from './components/champion/ChampionListComponent';
+
+
+// init database 
+// import { openChampionDatabase  } from './database/ChampionDatabase'; // Import database functions
+// import displayErrorToast from './utils/DisplayErrorToast'; // Assuming utils.js contains the displayErrorToast function
+// import { initChampionTable } from './database/migrations/initChampionTable'; // Import database functions
+import InitDatabaseComponent from './components/champion/InitDatabaseComponent';
+  
+
+
 
 const Tab = createBottomTabNavigator();
 
 
+
 export default function App() {
+
   const [isDarkTheme, setIsDarkTheme] = useState(false);
   const theme = isDarkTheme ? DarkTheme : DefaultTheme;
-  const [dbe, setDbe] = useState(null); // State to hold the database instance
-  const [dbUpdate, setDbUpdate] = useState(false);
+
 
   const toggleTheme = () => {
     setIsDarkTheme(!isDarkTheme);
   };
 
-  useEffect(() => {
-    openChampionDatabase()
-      .then(database => {
 
-        setDbe(database);
-        initChampionTable(dbe, false);
-      })
-      .catch(error => {
-        console.error('Error opening database:', error);
-      });
 
-  }, []);
 
-  const handleDbUpdate = () => {
-    setDbUpdate(prevState => !prevState); // Toggle dbUpdate state to trigger update in ChampionComponent
-  };
 
-  return (
-    <FigureDataProvider>
+  return ( 
+   
+   <ChampionDataProvider  >
       <ThemeProvider>
         <ThemeContext.Provider value={{ toggleTheme }}>
           <NavigationContainer theme={theme}>
@@ -69,24 +61,14 @@ export default function App() {
                 }}
               />
               <Tab.Screen
-                name="Figure"
-                component={FigureComponent}
-                options={{
-                  tabBarIcon: ({ size }) => (
-                    <AntDesign name="user" size={size} />
-                  ),
-                  headerRight: () => <InitComponent />, // Render your ButtonGroup component in the header
-                }}
-              />
-              <Tab.Screen
-                name="Liste"  
+                name="Initialisation"
                 options={{
                   tabBarIcon: ({ size }) => (
                     <AntDesign name="database" size={size} />
                   ),
                 }}
-                >
-                {() => <ChampionListComponent dbe={dbe} dbUpdate={dbUpdate} />}
+              >
+                {() => <InitDatabaseComponent />}
               </Tab.Screen>
 
               <Tab.Screen
@@ -95,16 +77,17 @@ export default function App() {
                   tabBarIcon: ({ size }) => (
                     <AntDesign name="piechart" size={size} />
                   ),
-                  headerRight: () => <InitDatabaseComponent dbe={dbe} onUpdate={handleDbUpdate} />, // Render your ButtonGroup component in the header
+                  //headerRight: () => <InitDatabaseComponent  />, // Render your ButtonGroup component in the header 
 
                 }}
               >
-                {() => <ChampionComponent dbe={dbe} dbUpdate={dbUpdate} />}
+                {/*() => <ChampionComponent db={db} dbUpdate={dbUpdate} /> */}
+                {() => <ChampionComponent />}
               </Tab.Screen>
             </Tab.Navigator>
           </NavigationContainer>
         </ThemeContext.Provider>
       </ThemeProvider>
-    </FigureDataProvider>
+    </ChampionDataProvider>
   );
 }

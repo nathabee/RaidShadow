@@ -2,12 +2,13 @@ import React, { useContext  } from 'react';
 import { Alert } from 'react-native'; 
 
 import ButtonGroup from './ButtonGroup';
-
+import ChampionDataContext from '../../ChampionDataContext';
  
-import {  resetDatabase, deleteDatabase  } from '../../database/ChampionDatabase';
 
 
-const InitDatabaseComponent = ({ dbe , onUpdate}) => { 
+const InitDatabaseComponent = ( ) => { 
+ 
+    const {   handleResetAll , handleDeleteAll } = useContext(ChampionDataContext);
 
     const handleReset = () => {
         Alert.alert(
@@ -22,12 +23,14 @@ const InitDatabaseComponent = ({ dbe , onUpdate}) => {
                     text: 'Reset',
                     onPress: () => {
                         console.log("resetDatabase");
-                        if (!dbe) {
-                            console.error('Database is not initialized.');
-                            return;
+                        
+                        try {
+                            handleResetAll( ); // Reset the database and set modified flag to fetch data 
+                          } catch (error) {
+                            console.error('Error clearing off the database:', error);
+                            // Handle error as needed, e.g., display an error message
                           }
-                        resetDatabase(dbe); // Reset the database
-                        onUpdate();
+
                         console.log("resetDatabase done"); 
                     },
                 },
@@ -47,13 +50,8 @@ const InitDatabaseComponent = ({ dbe , onUpdate}) => {
                 {
                     text: 'Delete',
                     onPress: () => {
-                        console.log("deleteDatabase");    
-                        if (!dbe) {
-                            console.error('Database is not initialized.');
-                            return;
-                          }
-                        deleteDatabase(dbe); // Reset the database
-                        onUpdate();
+                        console.log("deleteDatabase");   
+                        handleDeleteAll(); // delete  the database database and set modified flag to fetch data 
                         console.log("deleteDatabase done"); 
                     },
                 },
@@ -77,7 +75,7 @@ const InitDatabaseComponent = ({ dbe , onUpdate}) => {
                     text: 'Reset',
                     onPress: () => {
                         //InitFigureCSV(); // Create figure table if not exists  
-                        fetchData(); // Fetch data after deleting
+                        //fetchData(); // Fetch data after deleting
                     },
                 },
             ]

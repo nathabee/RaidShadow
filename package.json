@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@expo/vector-icons": "^14.0.0",
-    "@react-native-picker/picker": "^2.7.5",
+    "@react-native-picker/picker": "^2.6.1",
     "@react-navigation/bottom-tabs": "^6.5.20",
     "@react-navigation/native": "^6.1.17",
     "expo": "^50.0.17",
@@ -22,8 +22,7 @@
     "react-native": "0.73.6",
     "react-native-document-picker": "^9.2.0",
     "react-native-elements": "^3.4.3",
-    "react-native-toast-message": "^2.2.0",
-    "undefined": "@expo/vector-icons/MaterialIcons"
+    "react-native-toast-message": "^2.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0"

@@ -32,7 +32,7 @@ export const initAttributeTable = (db) => {
     });
   }, (error) => {
     // Handle transaction error
-    console.error('Transaction error:', error);
+    console.error('attribute - Transaction error:', error);
     displayErrorToast(error.message || 'Failed to initialize attribute table.');
   }, () => {
     // Transaction completed successfully
